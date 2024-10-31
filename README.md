@@ -9,4 +9,8 @@ See more about solutions at my [Notion](https://www.notion.so/130a24b5ce3480fdb9
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/M3IJI3/leetcode_solution/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/M3IJI3/leetcode_solution/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
