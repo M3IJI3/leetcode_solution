@@ -1,32 +1,19 @@
 class Solution {
     public boolean isPalindrome(int x) {
-        if(x < 0)
+        if(x < 0 || (x % 10 == 0 && x != 0))
         {
             return false;
         }
 
-        String value = String.valueOf(x); // convert interger x to String
+        int reversedNum = 0;
 
-        Queue<Character> queue = new LinkedList<>();
-        Stack<Character> stack = new Stack<>();
-
-        for(int i = 0 ; i < value.length() ; i++)
+        while(reversedNum < x)
         {
-            queue.add(value.charAt(i));
-            stack.push(value.charAt(i));
+            reversedNum = reversedNum * 10 + x % 10;
+            x /= 10;
         }
 
-        for(int k = 0 ; k < value.length() ; k++)
-        {
-            if(stack.peek() != queue.peek())
-            {
-                return false;
-            }
+        return x == reversedNum || x == reversedNum / 10;
 
-            stack.pop();
-            queue.poll();
-        }
-
-        return true;
     }
 }
