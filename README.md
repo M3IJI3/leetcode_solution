@@ -27,6 +27,7 @@ See more about solutions at my [Notion](https://www.notion.so/130a24b5ce3480fdb9
 | [0013-roman-to-integer](https://github.com/M3IJI3/leetcode_solution/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/M3IJI3/leetcode_solution/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/M3IJI3/leetcode_solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0058-length-of-last-word](https://github.com/M3IJI3/leetcode_solution/tree/master/0058-length-of-last-word) |
 ## Stack
 |  |
 | ------- |
