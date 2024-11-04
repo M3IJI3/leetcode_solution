@@ -25,6 +25,7 @@ See more about solutions at my [Notion](https://www.notion.so/130a24b5ce3480fdb9
 | ------- |
 | [0013-roman-to-integer](https://github.com/M3IJI3/leetcode_solution/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/M3IJI3/leetcode_solution/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/M3IJI3/leetcode_solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -42,4 +43,9 @@ See more about solutions at my [Notion](https://www.notion.so/130a24b5ce3480fdb9
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/M3IJI3/leetcode_solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/M3IJI3/leetcode_solution/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/M3IJI3/leetcode_solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/M3IJI3/leetcode_solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
