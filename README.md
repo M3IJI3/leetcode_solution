@@ -10,6 +10,7 @@ See more about solutions at my [Notion](https://www.notion.so/130a24b5ce3480fdb9
 | ------- |
 | [0001-two-sum](https://github.com/M3IJI3/leetcode_solution/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/M3IJI3/leetcode_solution/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/M3IJI3/leetcode_solution/tree/master/0027-remove-element) |
 ## Math
 |  |
 | ------- |
@@ -40,4 +41,5 @@ See more about solutions at my [Notion](https://www.notion.so/130a24b5ce3480fdb9
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/M3IJI3/leetcode_solution/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/M3IJI3/leetcode_solution/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
