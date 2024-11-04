@@ -11,6 +11,7 @@ See more about solutions at my [Notion](https://www.notion.so/130a24b5ce3480fdb9
 | [0001-two-sum](https://github.com/M3IJI3/leetcode_solution/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/M3IJI3/leetcode_solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/M3IJI3/leetcode_solution/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/M3IJI3/leetcode_solution/tree/master/0035-search-insert-position) |
 ## Math
 |  |
 | ------- |
@@ -48,4 +49,8 @@ See more about solutions at my [Notion](https://www.notion.so/130a24b5ce3480fdb9
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/M3IJI3/leetcode_solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/M3IJI3/leetcode_solution/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
