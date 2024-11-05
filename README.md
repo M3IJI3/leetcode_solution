@@ -20,6 +20,7 @@ See more about solutions at my [Notion](https://www.notion.so/130a24b5ce3480fdb9
 | [0013-roman-to-integer](https://github.com/M3IJI3/leetcode_solution/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/M3IJI3/leetcode_solution/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/M3IJI3/leetcode_solution/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/M3IJI3/leetcode_solution/tree/master/0069-sqrtx) |
 ## Hash Table
 |  |
 | ------- |
@@ -58,6 +59,7 @@ See more about solutions at my [Notion](https://www.notion.so/130a24b5ce3480fdb9
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/M3IJI3/leetcode_solution/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/M3IJI3/leetcode_solution/tree/master/0069-sqrtx) |
 ## Bit Manipulation
 |  |
 | ------- |
