@@ -39,6 +39,7 @@ See more about solutions at my [Notion](https://www.notion.so/130a24b5ce3480fdb9
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/M3IJI3/leetcode_solution/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/M3IJI3/leetcode_solution/tree/master/0094-binary-tree-inorder-traversal) |
 ## Linked List
 |  |
 | ------- |
@@ -84,4 +85,16 @@ See more about solutions at my [Notion](https://www.notion.so/130a24b5ce3480fdb9
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/M3IJI3/leetcode_solution/tree/master/0088-merge-sorted-array) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/M3IJI3/leetcode_solution/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/M3IJI3/leetcode_solution/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/M3IJI3/leetcode_solution/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
