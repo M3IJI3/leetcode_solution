@@ -12,11 +12,13 @@ See more about solutions at my [Notion](https://www.notion.so/130a24b5ce3480fdb9
 | [0026-remove-duplicates-from-sorted-array](https://github.com/M3IJI3/leetcode_solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/M3IJI3/leetcode_solution/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/M3IJI3/leetcode_solution/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/M3IJI3/leetcode_solution/tree/master/0066-plus-one) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/M3IJI3/leetcode_solution/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/M3IJI3/leetcode_solution/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/M3IJI3/leetcode_solution/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
 | ------- |
