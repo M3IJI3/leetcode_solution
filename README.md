@@ -16,6 +16,7 @@ See more about solutions at my [Notion](https://www.notion.so/130a24b5ce3480fdb9
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/M3IJI3/leetcode_solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/M3IJI3/leetcode_solution/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/M3IJI3/leetcode_solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/M3IJI3/leetcode_solution/tree/master/0169-majority-element) |
 ## Math
 |  |
 | ------- |
@@ -29,6 +30,7 @@ See more about solutions at my [Notion](https://www.notion.so/130a24b5ce3480fdb9
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/M3IJI3/leetcode_solution/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/M3IJI3/leetcode_solution/tree/master/0169-majority-element) |
 ## String
 |  |
 | ------- |
@@ -88,6 +90,7 @@ See more about solutions at my [Notion](https://www.notion.so/130a24b5ce3480fdb9
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/M3IJI3/leetcode_solution/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/M3IJI3/leetcode_solution/tree/master/0169-majority-element) |
 ## Tree
 |  |
 | ------- |
@@ -121,8 +124,13 @@ See more about solutions at my [Notion](https://www.notion.so/130a24b5ce3480fdb9
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/M3IJI3/leetcode_solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/M3IJI3/leetcode_solution/tree/master/0169-majority-element) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/M3IJI3/leetcode_solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/M3IJI3/leetcode_solution/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
