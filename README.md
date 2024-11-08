@@ -17,6 +17,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [0088-merge-sorted-array](https://github.com/M3IJI3/leetcode_solution/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/M3IJI3/leetcode_solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/M3IJI3/leetcode_solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/M3IJI3/leetcode_solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/M3IJI3/leetcode_solution/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/M3IJI3/leetcode_solution/tree/master/0189-rotate-array) |
 ## Math
@@ -87,6 +88,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | ------- |
 | [0070-climbing-stairs](https://github.com/M3IJI3/leetcode_solution/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/M3IJI3/leetcode_solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/M3IJI3/leetcode_solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Memoization
 |  |
 | ------- |
@@ -138,4 +140,8 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/M3IJI3/leetcode_solution/tree/master/0169-majority-element) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/M3IJI3/leetcode_solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
