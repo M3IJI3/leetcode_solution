@@ -13,9 +13,9 @@ class Solution {
         int n = nums.length;
         k = k % n;
 
-        reverse(nums, 0, n - 1);
-        reverse(nums, 0, k - 1);
-        reverse(nums, k, n - 1);
+        reverse(nums, 0, n - 1); // 先反转整个数组
+        reverse(nums, 0, k - 1); // 再反转  (0, k-1)
+        reverse(nums, k, n - 1); // 最后反转(k, n-1)
 
     }
 
