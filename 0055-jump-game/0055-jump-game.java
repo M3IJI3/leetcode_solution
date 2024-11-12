@@ -8,12 +8,13 @@ class Solution {
         // }
 
         // return dest == 0;
-        // --------------------------------------------
+        // -------------------------------------------
         int maxReach = 0;
-        for(int i = 0; i < nums.length; i++)
+
+        for(int i = 0 ; i < nums.length ; i++)
         {
-            if(i > maxReach) return false;
-            maxReach = Math.max(maxReach, i + nums[i]);
+            if(maxReach < i) return false; 
+            maxReach = Math.max(maxReach, i+nums[i]);
         }
         return true;
     }
