@@ -12,6 +12,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [0026-remove-duplicates-from-sorted-array](https://github.com/M3IJI3/leetcode_solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/M3IJI3/leetcode_solution/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/M3IJI3/leetcode_solution/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/M3IJI3/leetcode_solution/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/M3IJI3/leetcode_solution/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/M3IJI3/leetcode_solution/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/M3IJI3/leetcode_solution/tree/master/0066-plus-one) |
@@ -53,6 +54,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/M3IJI3/leetcode_solution/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/M3IJI3/leetcode_solution/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/M3IJI3/leetcode_solution/tree/master/0094-binary-tree-inorder-traversal) |
 ## Linked List
 |  |
@@ -69,6 +71,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [0026-remove-duplicates-from-sorted-array](https://github.com/M3IJI3/leetcode_solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/M3IJI3/leetcode_solution/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/M3IJI3/leetcode_solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/M3IJI3/leetcode_solution/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/M3IJI3/leetcode_solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/M3IJI3/leetcode_solution/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/M3IJI3/leetcode_solution/tree/master/0189-rotate-array) |
@@ -92,6 +95,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/M3IJI3/leetcode_solution/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/M3IJI3/leetcode_solution/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/M3IJI3/leetcode_solution/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/M3IJI3/leetcode_solution/tree/master/0070-climbing-stairs) |
@@ -165,4 +169,8 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/M3IJI3/leetcode_solution/tree/master/0238-product-of-array-except-self) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/M3IJI3/leetcode_solution/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
