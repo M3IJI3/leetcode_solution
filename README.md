@@ -47,6 +47,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/M3IJI3/leetcode_solution/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/M3IJI3/leetcode_solution/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/M3IJI3/leetcode_solution/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/M3IJI3/leetcode_solution/tree/master/0014-longest-common-prefix) |
