@@ -31,6 +31,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/M3IJI3/leetcode_solution/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/M3IJI3/leetcode_solution/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/M3IJI3/leetcode_solution/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/M3IJI3/leetcode_solution/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/M3IJI3/leetcode_solution/tree/master/0067-add-binary) |
@@ -40,11 +41,13 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/M3IJI3/leetcode_solution/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/M3IJI3/leetcode_solution/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/M3IJI3/leetcode_solution/tree/master/0169-majority-element) |
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/M3IJI3/leetcode_solution/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/M3IJI3/leetcode_solution/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/M3IJI3/leetcode_solution/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/M3IJI3/leetcode_solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
