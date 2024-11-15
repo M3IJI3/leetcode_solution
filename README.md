@@ -33,6 +33,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [0219-contains-duplicate-ii](https://github.com/M3IJI3/leetcode_solution/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/M3IJI3/leetcode_solution/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/M3IJI3/leetcode_solution/tree/master/0274-h-index) |
+| [0594-longest-harmonious-subsequence](https://github.com/M3IJI3/leetcode_solution/tree/master/0594-longest-harmonious-subsequence) |
 ## Math
 |  |
 | ------- |
@@ -53,6 +54,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [0030-substring-with-concatenation-of-all-words](https://github.com/M3IJI3/leetcode_solution/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0169-majority-element](https://github.com/M3IJI3/leetcode_solution/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/M3IJI3/leetcode_solution/tree/master/0219-contains-duplicate-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/M3IJI3/leetcode_solution/tree/master/0594-longest-harmonious-subsequence) |
 ## String
 |  |
 | ------- |
@@ -142,6 +144,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [0088-merge-sorted-array](https://github.com/M3IJI3/leetcode_solution/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/M3IJI3/leetcode_solution/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/M3IJI3/leetcode_solution/tree/master/0274-h-index) |
+| [0594-longest-harmonious-subsequence](https://github.com/M3IJI3/leetcode_solution/tree/master/0594-longest-harmonious-subsequence) |
 ## Tree
 |  |
 | ------- |
@@ -184,6 +187,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/M3IJI3/leetcode_solution/tree/master/0169-majority-element) |
+| [0594-longest-harmonious-subsequence](https://github.com/M3IJI3/leetcode_solution/tree/master/0594-longest-harmonious-subsequence) |
 ## Greedy
 |  |
 | ------- |
@@ -217,4 +221,5 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [0030-substring-with-concatenation-of-all-words](https://github.com/M3IJI3/leetcode_solution/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0209-minimum-size-subarray-sum](https://github.com/M3IJI3/leetcode_solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/M3IJI3/leetcode_solution/tree/master/0219-contains-duplicate-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/M3IJI3/leetcode_solution/tree/master/0594-longest-harmonious-subsequence) |
 <!---LeetCode Topics End-->
