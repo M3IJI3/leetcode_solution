@@ -49,6 +49,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [0003-longest-substring-without-repeating-characters](https://github.com/M3IJI3/leetcode_solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/M3IJI3/leetcode_solution/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/M3IJI3/leetcode_solution/tree/master/0013-roman-to-integer) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/M3IJI3/leetcode_solution/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0169-majority-element](https://github.com/M3IJI3/leetcode_solution/tree/master/0169-majority-element) |
 ## String
 |  |
@@ -60,6 +61,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [0014-longest-common-prefix](https://github.com/M3IJI3/leetcode_solution/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/M3IJI3/leetcode_solution/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/M3IJI3/leetcode_solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/M3IJI3/leetcode_solution/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0058-length-of-last-word](https://github.com/M3IJI3/leetcode_solution/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/M3IJI3/leetcode_solution/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/M3IJI3/leetcode_solution/tree/master/0068-text-justification) |
@@ -210,5 +212,6 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/M3IJI3/leetcode_solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/M3IJI3/leetcode_solution/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0209-minimum-size-subarray-sum](https://github.com/M3IJI3/leetcode_solution/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
