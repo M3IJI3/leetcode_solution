@@ -1,14 +1,39 @@
 class Solution {
     public int[] twoSum(int[] numbers, int target) {
-        // 不能使用额外的储存空间
-        for(int i = 0 ; i < numbers.length - 1 ; i++)
+        // 只能使用常数级别的额外空间
+        // Solution 1: O(n^2)
+        // for(int i = 0 ; i < numbers.length - 1 ; i++)
+        // {
+        //     for(int j = i + 1 ; j < numbers.length ; j++)
+        //     {
+        //         if(numbers[i] + numbers[j] == target)
+        //         {
+        //             return new int[]{i+1, j+1};
+        //         }
+        //     }
+        // }
+
+        // return null;
+        // -------------------------------------------------
+
+        int left = 0;
+        int right = numbers.length - 1;
+
+        while(left < right)
         {
-            for(int j = i + 1 ; j < numbers.length ; j++)
+            int total = numbers[left] + numbers[right];
+
+            if(total == target)
             {
-                if(numbers[i] + numbers[j] == target)
-                {
-                    return new int[]{i+1, j+1};
-                }
+                return new int[]{left + 1, right + 1};
+            }
+            else if(total > target)
+            {
+                right--;
+            }
+            else
+            {
+                left++;
             }
         }
 
