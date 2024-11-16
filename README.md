@@ -35,6 +35,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [0274-h-index](https://github.com/M3IJI3/leetcode_solution/tree/master/0274-h-index) |
 | [0594-longest-harmonious-subsequence](https://github.com/M3IJI3/leetcode_solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/M3IJI3/leetcode_solution/tree/master/0643-maximum-average-subarray-i) |
+| [1755-defuse-the-bomb](https://github.com/M3IJI3/leetcode_solution/tree/master/1755-defuse-the-bomb) |
 ## Math
 |  |
 | ------- |
@@ -224,4 +225,5 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [0219-contains-duplicate-ii](https://github.com/M3IJI3/leetcode_solution/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/M3IJI3/leetcode_solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/M3IJI3/leetcode_solution/tree/master/0643-maximum-average-subarray-i) |
+| [1755-defuse-the-bomb](https://github.com/M3IJI3/leetcode_solution/tree/master/1755-defuse-the-bomb) |
 <!---LeetCode Topics End-->
