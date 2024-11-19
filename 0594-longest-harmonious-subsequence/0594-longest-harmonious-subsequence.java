@@ -23,9 +23,7 @@ class Solution {
         // return maxLen;
 
         // -----------------------------------------------
-
-        if(nums.length == 1) return 0;
-
+        
         Map<Integer, Integer> map = new HashMap<>();
 
         for(int n : nums)
