@@ -1,15 +1,14 @@
 class Solution {
     public boolean containsNearbyDuplicate(int[] nums, int k) {
         Map<Integer, Integer> map = new HashMap<>();
-
-        for(int i = 0 ; i < nums.length ; i++)
+        
+        for(int i = 0; i < nums.length ; i++)
         {
-            int val = nums[i];
-            if(map.containsKey(val) && i - map.get(val) <= k)
+            if(map.containsKey(nums[i]) && i - map.get(nums[i]) <= k)
             {
                 return true;
             }
-            map.put(val, i);
+            map.put(nums[i], i); // map.put(); 也可以更新拥有相同 key 的值
         }
         return false;
     }
