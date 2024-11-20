@@ -23,13 +23,11 @@ class Solution {
         Set seen = new HashSet(), repeated = new HashSet();
         int n = s.length();
 
-        for(int i = 0 ; i <= n - 10 ; i++)
-        {
-        String ten = s.substring(i, i + 10);
-        if(!seen.add(ten))
-        {
-        repeated.add(ten);
-        }
+        for (int i = 0; i <= n - 10; i++) {
+            String ten = s.substring(i, i + 10);
+            if (!seen.add(ten)) {
+                repeated.add(ten);
+            }
         }
         return new ArrayList(repeated);
 
@@ -38,12 +36,12 @@ class Solution {
         // Set set = new HashSet(), res = new HashSet();
         // int n = s.length();
         // if (n < 10 || n > 10000) {
-        //     return new ArrayList(res);
+        // return new ArrayList(res);
         // }
         // for (int i = 0; i + 9 < n; i++) {
-        //     String ten = s.substring(i, i + 10);
-        //     if (!set.add(ten))
-        //         res.add(ten);
+        // String ten = s.substring(i, i + 10);
+        // if (!set.add(ten))
+        // res.add(ten);
         // }
         // return new ArrayList(res);
     }
