@@ -26,6 +26,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/M3IJI3/leetcode_solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/M3IJI3/leetcode_solution/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/M3IJI3/leetcode_solution/tree/master/0135-candy) |
+| [0152-maximum-product-subarray](https://github.com/M3IJI3/leetcode_solution/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/M3IJI3/leetcode_solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/M3IJI3/leetcode_solution/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/M3IJI3/leetcode_solution/tree/master/0189-rotate-array) |
@@ -159,6 +160,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [0070-climbing-stairs](https://github.com/M3IJI3/leetcode_solution/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/M3IJI3/leetcode_solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/M3IJI3/leetcode_solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0152-maximum-product-subarray](https://github.com/M3IJI3/leetcode_solution/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/M3IJI3/leetcode_solution/tree/master/0392-is-subsequence) |
 | [0413-arithmetic-slices](https://github.com/M3IJI3/leetcode_solution/tree/master/0413-arithmetic-slices) |
 ## Memoization
