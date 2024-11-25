@@ -5,44 +5,72 @@ class Solution {
 
         // for(int i = 0 ; i < nums.length ; i++)
         // {
-        //     for(int j = i ; j < nums.length ; j++)
-        //     {
-        //         map.put(nums[j], map.getOrDefault(nums[j], 0) + 1);
-                
-        //         if(map.containsKey(0) && map.get(0) == k)
-        //         {
-        //             maxLen = Math.max(maxLen, j - i + 1);
-        //             System.out.println(i + ", " + j);
-        //             break;
-        //         }
-        //     }
-        //     map.clear();
+        // for(int j = i ; j < nums.length ; j++)
+        // {
+        // map.put(nums[j], map.getOrDefault(nums[j], 0) + 1);
+
+        // if(map.containsKey(0) && map.get(0) == k)
+        // {
+        // maxLen = Math.max(maxLen, j - i + 1);
+        // System.out.println(i + ", " + j);
+        // break;
+        // }
+        // }
+        // map.clear();
         // }
         // return maxLen;
 
         // --------------------------------------------------
 
-        int start = 0;
-        int end  = 0;
-        int zeros = 0;
+        // int start = 0;
+        // int end = 0;
+        // int zeros = 0;
 
-        while(end < nums.length)
-        {
-            if(nums[end] == 0)
-            {
+        // while(end < nums.length)
+        // {
+        // if(nums[end] == 0)
+        // {
+        // zeros++;
+        // }
+        // end++;
+
+        // if(zeros > k)
+        // {
+        // if(nums[start] == 0)
+        // {
+        // zeros--;
+        // }
+        // start++;
+        // }
+        // }
+        // return end - start;
+
+        // -----------------------------------------------------
+
+        int start = 0;
+        int end = 0;
+        int zeros = 0;
+        int maxLength = 0;
+
+        while (end < nums.length) {
+            // 右边界扩展
+            if (nums[end] == 0) {
                 zeros++;
             }
             end++;
 
-            if(zeros > k)
-            {
-                if(nums[start] == 0)
-                {
+            // 当零的数量超过 k 时，收缩窗口
+            while (zeros > k) {
+                if (nums[start] == 0) {
                     zeros--;
                 }
                 start++;
             }
+
+            // 计算当前窗口的大小
+            maxLength = Math.max(maxLength, end - start);
         }
-        return end - start;
+
+        return maxLength;
     }
 }
