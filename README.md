@@ -76,6 +76,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [0966-binary-subarrays-with-sum](https://github.com/M3IJI3/leetcode_solution/tree/master/0966-binary-subarrays-with-sum) |
 | [1261-swap-for-longest-repeated-character-substring](https://github.com/M3IJI3/leetcode_solution/tree/master/1261-swap-for-longest-repeated-character-substring) |
 | [1370-count-number-of-nice-subarrays](https://github.com/M3IJI3/leetcode_solution/tree/master/1370-count-number-of-nice-subarrays) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/M3IJI3/leetcode_solution/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1873-longest-nice-substring](https://github.com/M3IJI3/leetcode_solution/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/M3IJI3/leetcode_solution/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## String
@@ -103,6 +104,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [1321-get-equal-substrings-within-budget](https://github.com/M3IJI3/leetcode_solution/tree/master/1321-get-equal-substrings-within-budget) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/M3IJI3/leetcode_solution/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/M3IJI3/leetcode_solution/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/M3IJI3/leetcode_solution/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1873-longest-nice-substring](https://github.com/M3IJI3/leetcode_solution/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/M3IJI3/leetcode_solution/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/M3IJI3/leetcode_solution/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -292,6 +294,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [1351-replace-the-substring-for-balanced-string](https://github.com/M3IJI3/leetcode_solution/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1370-count-number-of-nice-subarrays](https://github.com/M3IJI3/leetcode_solution/tree/master/1370-count-number-of-nice-subarrays) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/M3IJI3/leetcode_solution/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/M3IJI3/leetcode_solution/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1755-defuse-the-bomb](https://github.com/M3IJI3/leetcode_solution/tree/master/1755-defuse-the-bomb) |
 | [1873-longest-nice-substring](https://github.com/M3IJI3/leetcode_solution/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/M3IJI3/leetcode_solution/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
