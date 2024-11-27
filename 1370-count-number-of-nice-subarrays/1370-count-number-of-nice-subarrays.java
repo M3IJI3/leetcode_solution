@@ -49,7 +49,6 @@ class Solution {
                 }
                 left++;
             }
-
             result += right - left + 1;
         }
 
