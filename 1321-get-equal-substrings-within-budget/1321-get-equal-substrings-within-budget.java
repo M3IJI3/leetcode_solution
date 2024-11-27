@@ -13,20 +13,18 @@ class Solution {
         // return len;
 
         int left = 0, right = 0;
-        int currentCost = 0, maxLength = 0;
-
+        int curCost = 0, maxLen = 0;
         while (right < s.length()) {
-            currentCost += Math.abs(s.charAt(right) - t.charAt(right));
+            curCost += Math.abs(s.charAt(right) - t.charAt(right));
 
-            while (currentCost > maxCost) {
-                currentCost -= Math.abs(s.charAt(left) - t.charAt(left));
+            while (curCost > maxCost) {
+                curCost -= Math.abs(s.charAt(left) - t.charAt(left));
                 left++;
             }
 
-            maxLength = Math.max(maxLength, right - left + 1);
+            maxLen = Math.max(maxLen, right - left + 1);
             right++;
         }
-
-        return maxLength;
+        return maxLen;
     }
 }
