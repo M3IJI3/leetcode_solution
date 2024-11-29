@@ -79,6 +79,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/M3IJI3/leetcode_solution/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1873-longest-nice-substring](https://github.com/M3IJI3/leetcode_solution/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/M3IJI3/leetcode_solution/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/M3IJI3/leetcode_solution/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## String
 |  |
 | ------- |
@@ -109,6 +110,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [1873-longest-nice-substring](https://github.com/M3IJI3/leetcode_solution/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/M3IJI3/leetcode_solution/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/M3IJI3/leetcode_solution/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/M3IJI3/leetcode_solution/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Stack
 |  |
 | ------- |
@@ -303,6 +305,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/M3IJI3/leetcode_solution/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/M3IJI3/leetcode_solution/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/M3IJI3/leetcode_solution/tree/master/2866-longest-even-odd-subarray-with-threshold) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/M3IJI3/leetcode_solution/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Rolling Hash
 |  |
 | ------- |
