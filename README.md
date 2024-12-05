@@ -43,6 +43,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [1020-longest-turbulent-subarray](https://github.com/M3IJI3/leetcode_solution/tree/master/1020-longest-turbulent-subarray) |
 | [1046-max-consecutive-ones-iii](https://github.com/M3IJI3/leetcode_solution/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/M3IJI3/leetcode_solution/tree/master/1370-count-number-of-nice-subarrays) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/M3IJI3/leetcode_solution/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1755-defuse-the-bomb](https://github.com/M3IJI3/leetcode_solution/tree/master/1755-defuse-the-bomb) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/M3IJI3/leetcode_solution/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/M3IJI3/leetcode_solution/tree/master/2866-longest-even-odd-subarray-with-threshold) |
@@ -182,6 +183,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [0392-is-subsequence](https://github.com/M3IJI3/leetcode_solution/tree/master/0392-is-subsequence) |
 | [0413-arithmetic-slices](https://github.com/M3IJI3/leetcode_solution/tree/master/0413-arithmetic-slices) |
 | [1020-longest-turbulent-subarray](https://github.com/M3IJI3/leetcode_solution/tree/master/1020-longest-turbulent-subarray) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/M3IJI3/leetcode_solution/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Memoization
 |  |
 | ------- |
@@ -299,6 +301,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [1430-find-the-k-beauty-of-a-number](https://github.com/M3IJI3/leetcode_solution/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/M3IJI3/leetcode_solution/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/M3IJI3/leetcode_solution/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/M3IJI3/leetcode_solution/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1755-defuse-the-bomb](https://github.com/M3IJI3/leetcode_solution/tree/master/1755-defuse-the-bomb) |
 | [1873-longest-nice-substring](https://github.com/M3IJI3/leetcode_solution/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/M3IJI3/leetcode_solution/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
