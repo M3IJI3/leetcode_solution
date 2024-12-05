@@ -46,6 +46,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/M3IJI3/leetcode_solution/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1755-defuse-the-bomb](https://github.com/M3IJI3/leetcode_solution/tree/master/1755-defuse-the-bomb) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/M3IJI3/leetcode_solution/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [1813-maximum-erasure-value](https://github.com/M3IJI3/leetcode_solution/tree/master/1813-maximum-erasure-value) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/M3IJI3/leetcode_solution/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/M3IJI3/leetcode_solution/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 ## Math
@@ -80,6 +81,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [1370-count-number-of-nice-subarrays](https://github.com/M3IJI3/leetcode_solution/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/M3IJI3/leetcode_solution/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/M3IJI3/leetcode_solution/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [1813-maximum-erasure-value](https://github.com/M3IJI3/leetcode_solution/tree/master/1813-maximum-erasure-value) |
 | [1873-longest-nice-substring](https://github.com/M3IJI3/leetcode_solution/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/M3IJI3/leetcode_solution/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/M3IJI3/leetcode_solution/tree/master/3349-maximum-length-substring-with-two-occurrences) |
@@ -308,6 +310,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/M3IJI3/leetcode_solution/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1755-defuse-the-bomb](https://github.com/M3IJI3/leetcode_solution/tree/master/1755-defuse-the-bomb) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/M3IJI3/leetcode_solution/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [1813-maximum-erasure-value](https://github.com/M3IJI3/leetcode_solution/tree/master/1813-maximum-erasure-value) |
 | [1873-longest-nice-substring](https://github.com/M3IJI3/leetcode_solution/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/M3IJI3/leetcode_solution/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/M3IJI3/leetcode_solution/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
