@@ -17,6 +17,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [0036-valid-sudoku](https://github.com/M3IJI3/leetcode_solution/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/M3IJI3/leetcode_solution/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/M3IJI3/leetcode_solution/tree/master/0045-jump-game-ii) |
+| [0054-spiral-matrix](https://github.com/M3IJI3/leetcode_solution/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/M3IJI3/leetcode_solution/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/M3IJI3/leetcode_solution/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/M3IJI3/leetcode_solution/tree/master/0068-text-justification) |
@@ -177,6 +178,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/M3IJI3/leetcode_solution/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/M3IJI3/leetcode_solution/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/M3IJI3/leetcode_solution/tree/master/0068-text-justification) |
 ## Dynamic Programming
@@ -341,4 +343,5 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/M3IJI3/leetcode_solution/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/M3IJI3/leetcode_solution/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
