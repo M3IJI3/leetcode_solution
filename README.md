@@ -75,6 +75,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [0036-valid-sudoku](https://github.com/M3IJI3/leetcode_solution/tree/master/0036-valid-sudoku) |
 | [0169-majority-element](https://github.com/M3IJI3/leetcode_solution/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/M3IJI3/leetcode_solution/tree/master/0187-repeated-dna-sequences) |
+| [0205-isomorphic-strings](https://github.com/M3IJI3/leetcode_solution/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/M3IJI3/leetcode_solution/tree/master/0219-contains-duplicate-ii) |
 | [0383-ransom-note](https://github.com/M3IJI3/leetcode_solution/tree/master/0383-ransom-note) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/M3IJI3/leetcode_solution/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -107,6 +108,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [0125-valid-palindrome](https://github.com/M3IJI3/leetcode_solution/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/M3IJI3/leetcode_solution/tree/master/0151-reverse-words-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/M3IJI3/leetcode_solution/tree/master/0187-repeated-dna-sequences) |
+| [0205-isomorphic-strings](https://github.com/M3IJI3/leetcode_solution/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/M3IJI3/leetcode_solution/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/M3IJI3/leetcode_solution/tree/master/0392-is-subsequence) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/M3IJI3/leetcode_solution/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
