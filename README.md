@@ -77,6 +77,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [0187-repeated-dna-sequences](https://github.com/M3IJI3/leetcode_solution/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/M3IJI3/leetcode_solution/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/M3IJI3/leetcode_solution/tree/master/0219-contains-duplicate-ii) |
+| [0290-word-pattern](https://github.com/M3IJI3/leetcode_solution/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/M3IJI3/leetcode_solution/tree/master/0383-ransom-note) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/M3IJI3/leetcode_solution/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/M3IJI3/leetcode_solution/tree/master/0424-longest-repeating-character-replacement) |
@@ -109,6 +110,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [0151-reverse-words-in-a-string](https://github.com/M3IJI3/leetcode_solution/tree/master/0151-reverse-words-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/M3IJI3/leetcode_solution/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/M3IJI3/leetcode_solution/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/M3IJI3/leetcode_solution/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/M3IJI3/leetcode_solution/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/M3IJI3/leetcode_solution/tree/master/0392-is-subsequence) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/M3IJI3/leetcode_solution/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
