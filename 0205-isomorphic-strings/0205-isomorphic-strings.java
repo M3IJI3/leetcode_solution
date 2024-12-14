@@ -13,6 +13,7 @@ class Solution {
             }
             map1.put(s.charAt(i), t.charAt(i));
         }
+
         for(int i = 0 ; i < n ; i++)
         {
             if(map2.containsKey(t.charAt(i)) && map2.get(t.charAt(i)) != s.charAt(i))
@@ -21,6 +22,7 @@ class Solution {
             }
             map2.put(t.charAt(i), s.charAt(i));
         }
+
         return true;
     }
 }
