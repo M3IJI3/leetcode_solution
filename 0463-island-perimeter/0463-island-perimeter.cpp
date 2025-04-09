@@ -19,7 +19,6 @@ public:
                     if(j > 0 && grid[i][j - 1] == 1){
                         perimeter -= 2;
                     }
-
                 }
             }
         }
