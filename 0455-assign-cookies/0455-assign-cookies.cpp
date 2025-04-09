@@ -32,7 +32,6 @@ public:
                 j++;
             }
         }
-
         return ans;
     }
 };
