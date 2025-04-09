@@ -13,11 +13,9 @@ public:
 
         vector<string> ans;
         int min_value = INT_MAX;
-        string s = "";
         for(const auto& pair : map){
             if(pair.second <= min_value){
                 min_value = pair.second;
-                s = pair.first;
             }
         }
 
