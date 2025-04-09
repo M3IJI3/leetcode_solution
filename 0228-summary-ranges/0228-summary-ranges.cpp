@@ -24,7 +24,7 @@ public:
         for(int i = 0 ; i < nums.size() ; i++){
             // 1. check if the index 'i' reach the last element
             // 2. check if the next element is consecutive, by subtracting the adjacent elements
-            if(i == nums.size() - 1 || nums[i] + 1 != nums[i + 1]){
+            if(i == nums.size() - 1 || nums[i + 1] != 1 + nums[i]){
                 // Check if the start element is same with the current one
                 // if it does,
                 if(start == nums[i]){
