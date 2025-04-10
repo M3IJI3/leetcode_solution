@@ -14,22 +14,19 @@ public:
             map[num]++;
         }
 
+        int repeat = 0;
+        int complement = 0;
+
         for(const auto& pair: map){
             if(pair.second == 2){
-                ans.push_back(pair.first);
-            } 
-            
-            // std::cout << pair.first << "," << pair.second << std::endl;
+                repeat = pair.first;
+            } else if(pair.second == 0) {
+                complement = pair.first;
+            }
         }
 
-        for(const auto& pair: map){
-            if(pair.second == 0){
-                ans.push_back(pair.first);
-            } 
-            
-            // std::cout << pair.first << "," << pair.second << std::endl;
-        }
-
+        ans.push_back(repeat);
+        ans.push_back(complement);
         return ans;
     }
 };
