@@ -2,7 +2,6 @@ class Solution {
 public:
     vector<int> findErrorNums(vector<int>& nums) {
         unordered_map<int, int> map;
-        vector<int> ans;
 
         // initialize an increment key:value map, and
         // set all value to 0
@@ -25,8 +24,6 @@ public:
             }
         }
 
-        ans.push_back(repeat);
-        ans.push_back(complement);
-        return ans;
+        return {repeat, complement};
     }
 };
