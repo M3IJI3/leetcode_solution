@@ -26,9 +26,7 @@ private:
 
             path.push_back(nums[i]);
             visited[i] = true;
-
             backtrack(result, visited, nums, path, k);
-
             visited[i] = false;
             path.pop_back();
         }
