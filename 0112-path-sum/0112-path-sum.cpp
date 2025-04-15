@@ -9,32 +9,47 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
-class Solution {
+// class Solution {
+// public:
+//     bool hasPathSum(TreeNode* root, int targetSum) {
+//         vector<int> path;
+//         vector<int> sums;
+//         dfs(root, path, sums, 0);
+//         for(int sum: sums){
+//             if(sum == targetSum)
+//                 return true;
+//         }
+//         return false;
+//     }   
+
+// private:
+//     void dfs(TreeNode* node, vector<int>& path, vector<int>& sums, int sum){
+//         if(!node) return;
+
+//         path.push_back(node->val);
+//         sum += node->val;
+    
+//         if(!node->left && !node->right){
+//              sums.push_back(sum);
+//         }
+
+//         dfs(node->left,  path, sums, sum);
+//         dfs(node->right, path, sums, sum);
+//         path.pop_back();
+//     }
+// };
+// <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+class Solution{
 public:
     bool hasPathSum(TreeNode* root, int targetSum) {
-        vector<int> path;
-        vector<int> sums;
-        dfs(root, path, sums, 0);
-        for(int sum: sums){
-            if(sum == targetSum)
-                return true;
-        }
-        return false;
-    }   
+        if(!root) return false;
 
-private:
-    void dfs(TreeNode* node, vector<int>& path, vector<int>& sums, int sum){
-        if(!node) return;
-
-        path.push_back(node->val);
-        sum += node->val;
-    
-        if(!node->left && !node->right){
-             sums.push_back(sum);
+        if(!root->left && !root->right && root->val == targetSum){
+            return true;
         }
 
-        dfs(node->left,  path, sums, sum);
-        dfs(node->right, path, sums, sum);
-        path.pop_back();
+        return hasPathSum(root->left, targetSum - root->val) ||
+               hasPathSum(root->right, targetSum - root->val);
     }
 };
