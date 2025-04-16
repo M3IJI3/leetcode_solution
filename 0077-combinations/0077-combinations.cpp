@@ -79,13 +79,13 @@ public:
         vector<int> path;
         // 因为是求组合, 所以定义布尔数组->
         // 判断元素是否被访问过
-        vector<bool> visited(n, false);
+        // vector<bool> visited(n, false);
 
-        backtrack(result, path, visited, n, k, 1);
+        backtrack(result, path, n, k, 1);
         return result;
     }
 private:
-    void backtrack(vector<vector<int>>& result, vector<int>& path, vector<bool>& visited, int n, int k, int start){
+    void backtrack(vector<vector<int>>& result, vector<int>& path, int n, int k, int start){
         // 如果当前路径长度等于k, 加进result
         if(path.size() == k){
             result.push_back(path);
@@ -95,18 +95,19 @@ private:
         for(int i = start ; i <= n ; i++){
             // 将元素加入当前路径, 并标记为已经访问(true)
             path.push_back(i);
-            visited[i - 1] = true;
+            // visited[i - 1] = true;
 
             // 按照路径的起始点递归遍历
-            backtrack(result, path, visited, n, k, i + 1);
+            backtrack(result, path, n, k, i + 1);
 
             // 弹出末尾元素, 并标记为未访问过(false)
             path.pop_back();
-            visited[i - 1] = false;
+            // visited[i - 1] = false;
         }
     }
 };
 
+// * 不需要visited 因为每次遍历都让 i + 1, 天然的避免了元素的重复
 
 
 
