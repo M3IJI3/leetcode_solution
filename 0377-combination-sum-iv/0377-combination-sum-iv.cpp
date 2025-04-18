@@ -27,21 +27,39 @@
 // };
 // <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
+// class Solution {
+// public:
+//     int combinationSum4(vector<int>& nums, int target) {
+//         // dp[i] = 表示组成数字 i 的排列个数
+//         vector<unsigned int> dp(target + 1, 0);
+//         dp[0] = 1;
+
+//         for (int i = 1; i <= target; i++) {
+//             for (int num : nums) {
+//                 if (i >= num) {
+//                     dp[i] += dp[i - num];
+//                 }
+//             }
+//         }
+
+//         return dp[target];
+//     }
+// };
+
+// <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 class Solution {
 public:
     int combinationSum4(vector<int>& nums, int target) {
-        // dp[i] = 表示组成数字 i 的排列个数
         vector<unsigned int> dp(target + 1, 0);
         dp[0] = 1;
 
-        for (int i = 1; i <= target; i++) {
-            for (int num : nums) {
-                if (i >= num) {
+        for(int i = 1 ; i <= target ; i++){
+            for(int num : nums){
+                if(i >= num){
                     dp[i] += dp[i - num];
                 }
             }
         }
-
         return dp[target];
     }
 };
