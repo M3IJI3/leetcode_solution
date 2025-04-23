@@ -6,15 +6,12 @@ public:
         unordered_set<char> set = {'a', 'e', 'i', 'o', 'u'};
 
         while(left < right){
+
             char leftChar = s[left];
             char rightChar = s[right];
-            if(!set.count(tolower(leftChar))){
-                left++;
-            }
 
-            if(!set.count(tolower(rightChar))){
-                right--;
-            }
+            if(!set.count(tolower(leftChar))) left++;
+            if(!set.count(tolower(rightChar))) right--;
 
             if(set.count(tolower(leftChar)) && set.count(tolower(rightChar))){
                 char temp = s[left];
