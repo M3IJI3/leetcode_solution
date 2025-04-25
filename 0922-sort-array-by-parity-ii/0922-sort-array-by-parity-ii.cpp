@@ -5,14 +5,9 @@ public:
 
         int even = 0, odd = 1;
         while(odd < n){
-            cout << "(" << even << "," << odd << ")" << endl;
             if(nums[odd] % 2 == 0){
                 if(nums[even] % 2 != 0) {
-                    // swap(nums[odd], nums[even]);
-                    int temp = nums[odd];
-                    nums[odd] = nums[even];
-                    nums[even] = temp;
-                    
+                    swap(nums[odd], nums[even]);
                     odd += 2;
                     even += 2;
                 } else {
@@ -24,10 +19,4 @@ public:
         }
         return nums;
     }
-// private:
-//     void swap(int i, int j){
-//         int temp = i;
-//         i = j;
-//         j = temp;
-//     }
 };
