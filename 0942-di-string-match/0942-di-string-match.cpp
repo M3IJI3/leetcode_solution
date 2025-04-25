@@ -7,7 +7,7 @@ public:
         int numI = 0, numD = s.size();
 
         while(i < s.size()){
-            if(s[i] == 'I' && numI != numD){
+            if(s[i] == 'I'){
                 ans.push_back(numI);
                 numI++;
             } else {
