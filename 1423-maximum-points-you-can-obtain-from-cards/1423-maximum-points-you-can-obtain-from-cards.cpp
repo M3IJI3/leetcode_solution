@@ -33,7 +33,7 @@ public:
         if(k == n) return total;
 
         int widow = n - k;
-
+        // 1. 计算第一个窗口 [0..window-1] 的和
         int sum = 0;
         for(int i = 0 ; i < widow ; i++){
             sum += nums[i];
@@ -41,12 +41,14 @@ public:
 
         int minSum = sum;
 
+        // 2. 滑动窗口：右边界从 window 到 n-1
         for(int i = widow ; i < n ; i++){
-            sum += nums[i];
-            sum -= nums[i - widow];
+            sum += nums[i]; // 加上新来的 nums[i]
+            sum -= nums[i - widow]; // 减去离开的 nums[i-window]
             minSum = min(minSum, sum);
         }
 
+        // 3. 答案 = 总分 - 最小子数组和
         return total - minSum;
     }
 };
