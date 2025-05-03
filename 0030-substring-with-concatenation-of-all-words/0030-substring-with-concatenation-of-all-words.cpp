@@ -1,50 +1,6 @@
 // class Solution {
 // public:
 //     vector<int> findSubstring(string s, vector<string>& words) {
-//         // 逻辑混乱
-//         // // 将 words 放入 map 中计算每个 word 出现的频率
-//         // unordered_map<string, int> freq;
-//         // for(string word : words){
-//         //     freq[word]++;
-//         // }
-
-//         // // 维护一个窗口
-//         // int left = 0;
-//         // int word_len = words[0].size(); // 找到 word 的长度 (因为每个单词长度相同)
-//         // string window;
-        
-//         // vector<int> ans;
-//         // for(int right = 0 ; right < s.size() ; right++){
-//         //     window += s[right];
-
-//         //     while(window.size() > word_len){
-//         //         window = window.substr(1);
-//         //         left++;
-//         //     }
-
-//         //     // 找到窗口内每个单词出现的频率
-//         //     if(window.size() == word_len){
-//         //         unordered_map<string, int> window_freq;
-//         //         for(int i = 0 ; i < window.size() ; i += word_len){
-//         //             string str = window.substr(i, i + word_len);
-//         //             window_freq[str]++;
-//         //         }
-
-//         //         if(window_freq == freq){
-//         //             ans.push_back(left);
-//         //         } 
-
-//         //         window_freq.clear();
-//         //     }
-//         // }
-//         // return ans;
-//         
-//     }
-// };
-// <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-// class Solution {
-// public:
-//     vector<int> findSubstring(string s, vector<string>& words) {
 //         vector<int> ans;
 //         if(words.empty() || s.empty()) return ans;
 
