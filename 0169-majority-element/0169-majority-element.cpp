@@ -1,20 +1,15 @@
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
-        unordered_map<int, int> count;
+        int ans, majority = 0;
 
-        for(int num: nums){
-            count[num]++;
-        }
-
-        int maxValue = INT_MIN;
-        int majorityElement;
-        for(auto& pair : count){
-            if(pair.second > maxValue){
-                maxValue = pair.second;
-                majorityElement = pair.first;
+        for(int num : nums){
+            if(majority == 0){
+                ans = num;
             }
+            majority += num == ans ? 1 : -1;
         }
-        return majorityElement;
+
+        return ans;
     }
 };
