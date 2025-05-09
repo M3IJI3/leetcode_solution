@@ -1,7 +1,7 @@
 class Solution {
 public:
     bool canJump(vector<int>& nums) {
-        if(nums[0] == 0 && nums.size() == 1) return true;
+        if(nums.size() == 1) return true;
         // 记录当前最远可以跳跃的位置
         int maxReach = nums[0];
 
