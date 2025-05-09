@@ -1,18 +1,18 @@
 class Solution {
 public:
     int jump(vector<int>& nums) {
-        int jump = 0; 
-        int end = 0;      // 当前能跳到最远的位置 
-        int farthest = 0; // 下一跳跳到最远的位置
+        int currEnd = 0; // 表示当前可到达最远距离
+        int nextEnd = 0; // 表示下一跳可到达最远距离
+        int jump = 0;
 
         for(int i = 0 ; i < nums.size() - 1 ; i++){
-            farthest = max(farthest, i + nums[i]);
+            nextEnd = max(nextEnd, i + nums[i]);
 
-            if(i == end){
+            if(i == currEnd) { // 表示抵达当前最远位置
                 jump++;
-                end = farthest;
+                currEnd = nextEnd; // 更新当前可到达最远位置
 
-                if(end >= nums.size() - 1) break;
+                if(currEnd >= nums.size() - 1) break;
             }
         }
         return jump;
