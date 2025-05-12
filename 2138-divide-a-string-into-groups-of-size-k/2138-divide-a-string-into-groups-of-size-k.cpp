@@ -6,16 +6,14 @@ public:
 
         vector<string> result;
         string temp;
-        
-        for(int i = 0 ; i < s.size() ; i++){
-            temp += s[i];
+        int i = 0;
 
-            if(temp.size() == k){
-                result.push_back(temp);
-                temp.clear();
-            }
+        while(i <= s.size() - k){
+            temp = s.substr(i, k);
+            result.push_back(temp);
+            i += k;
         }
-
+        
         return result;
     }
 };
