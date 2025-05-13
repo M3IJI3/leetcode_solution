@@ -1,14 +1,14 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
-        int i = 0, j = nums.size() - 1;
+        // 双指针夹逼 必须是升序数组
+        int left = 0, right = nums.size() - 1;
 
-        while(i < j){
-            if(nums[i] + nums[j] == target) break;
-            else if(nums[i] + nums[j] > target) j--;
-            else i++;
+        while(left < right){
+            if(nums[left] + nums[right] > target) right--;
+            else if(nums[left] + nums[right] < target) left++;
+            else break;
         }
-
-        return {i + 1, j + 1};
+        return { left + 1, right + 1 };
     }
 };
