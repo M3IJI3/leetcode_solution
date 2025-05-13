@@ -18,18 +18,16 @@ public:
         // return true;
         // <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
-        // 在原字符串上操作
         int left = 0, right = s.size() - 1;
-
         while(left < right){
             while(left < right && !isalnum(s[left])) left++;
             while(left < right && !isalnum(s[right])) right--;
 
             if(tolower(s[left]) != tolower(s[right])) return false;
+
             left++;
             right--;
         }
-
         return true;
     }
 };
