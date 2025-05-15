@@ -11,31 +11,50 @@
 class Solution {
 public:
     ListNode* mergeTwoLists(ListNode* l1, ListNode* l2) {
+        // ListNode dummy(-1);
+        // ListNode* curr = &dummy;
+
+        // while(l1 && l2){
+        //     if(l1->val < l2->val){
+        //         curr->next = new ListNode(l1->val);
+        //         l1 = l1->next;
+        //     } else {
+        //         curr->next = new ListNode(l2->val);
+        //         l2 = l2->next;
+        //     }
+        //     curr = curr->next;
+        // }
+
+        // while(l1){
+        //     curr->next = new ListNode(l1->val);
+        //     l1 = l1->next;
+        //     curr = curr->next;
+        // }
+
+        // while(l2){
+        //     curr->next = new ListNode(l2->val);
+        //     l2 = l2->next;
+        //     curr = curr->next;
+        // }
+
+        // return dummy.next;
+        // <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
         ListNode dummy(-1);
         ListNode* curr = &dummy;
 
         while(l1 && l2){
             if(l1->val < l2->val){
-                curr->next = new ListNode(l1->val);
+                curr->next = l1;
                 l1 = l1->next;
             } else {
-                curr->next = new ListNode(l2->val);
+                curr->next = l2;
                 l2 = l2->next;
             }
             curr = curr->next;
         }
 
-        while(l1){
-            curr->next = new ListNode(l1->val);
-            l1 = l1->next;
-            curr = curr->next;
-        }
-
-        while(l2){
-            curr->next = new ListNode(l2->val);
-            l2 = l2->next;
-            curr = curr->next;
-        }
+        curr->next = l1 ? l1 : l2; // 判断l1是不是空 然后把剩下的接上去
 
         return dummy.next;
     }
