@@ -17,24 +17,74 @@ public:
 class Solution {
 public:
     Node* copyRandomList(Node* head) {
+        // if(!head) return nullptr;
+
+        // ListNode* curr = head;
+        // unordered_map<Node*, Node*> old2new;
+        // while(curr){
+        //     // 旧节点          新节点  
+        //     old2new[curr] = new ListNode(curr->val);
+        //     curr = curr->next;
+        // }
+
+        // curr = head;
+        // while(curr){
+        //     // A'->next = B'
+        //     old2new[curr]->next = old2new[curr->next];
+        //     old2new[curr]->random = old2new[curr->random];
+        //     curr = curr->next;
+        // }
+
+        // return old2new[head];
+
+        // <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
         if(!head) return nullptr;
 
-        unordered_map<Node*, Node*> old2new;
-
-        // 第一次遍历: 创建所有新节点
         Node* curr = head;
         while(curr){
-            old2new[curr] = new Node(curr->val);
-            curr = curr->next;
+            Node* copy = new Node(curr->val);
+            copy->next = curr->next;
+            curr->next = copy;
+            curr = copy->next;
         }
 
-        // 第二次遍历: 设置next和random指针
         curr = head;
         while(curr){
-            old2new[curr]->next = old2new[curr->next];
-            old2new[curr]->random = old2new[curr->random];
+            if(curr->random){
+                curr->next->random = curr->random->next;
+            }
+            curr = curr->next->next;
+        }
+
+        Node dummy(0);
+        Node* copyCurr = &dummy;
+
+        curr = head;
+        while(curr){
+            Node* copy = curr->next;
+            copyCurr->next = copy;
+            copyCurr = copyCurr->next;
+            
+            curr->next = copy->next;
             curr = curr->next;
         }
-        return old2new[head];
+        
+        return dummy.next;
     }
 };
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
