@@ -11,7 +11,7 @@
 class Solution {
 public:
     ListNode* mergeTwoLists(ListNode* l1, ListNode* l2) {
-        // ListNode dummy(-1);
+        // ListNode dummy(0);
         // ListNode* curr = &dummy;
 
         // while(l1 && l2){
@@ -36,11 +36,10 @@ public:
         //     l2 = l2->next;
         //     curr = curr->next;
         // }
-
         // return dummy.next;
-        // <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-        ListNode dummy(-1);
+        // <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+        
+        ListNode dummy(0);
         ListNode* curr = &dummy;
 
         while(l1 && l2){
@@ -53,8 +52,7 @@ public:
             }
             curr = curr->next;
         }
-
-        curr->next = l1 ? l1 : l2; // 判断l1是不是空 然后把剩下的接上去
+        curr->next = l1 ? l1 : l2;
 
         return dummy.next;
     }
