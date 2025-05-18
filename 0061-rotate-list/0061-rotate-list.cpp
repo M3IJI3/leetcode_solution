@@ -14,27 +14,27 @@ public:
         if(!head || !head->next || k == 0) return head;
 
         // 1. 计算链表长度
-        int len = 1;
         ListNode* tail = head;
+        int len = 1;
         while(tail->next){
             tail = tail->next;
             len++;
         }
 
-        // 2. 实际需要旋转的位置
+        // 2. 缩小旋转次数
         k = k % len;
         if(k == 0) return head;
 
-        // 3. 成环
+        // 3 成环
         tail->next = head;
 
         // 4. 找新尾结点
         ListNode* newTail = head;
-        for(int i = 0; i < len - k - 1 ; i++){
+        for(int i = 0 ; i < len - k - 1 ; i++){
             newTail = newTail->next;
         }
 
-        // 5. 新头是next, 断开环
+        // 5. 断开
         ListNode* newHead = newTail->next;
         newTail->next = nullptr;
 
