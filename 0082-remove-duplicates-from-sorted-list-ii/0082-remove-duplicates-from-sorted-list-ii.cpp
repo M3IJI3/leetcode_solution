@@ -12,7 +12,7 @@ class Solution {
 public:
     ListNode* deleteDuplicates(ListNode* head) {
         ListNode dummy(0);
-        dummy.next = head;
+        dummy->next = head;
 
         ListNode* prev = &dummy;
         ListNode* curr = head;
@@ -20,7 +20,7 @@ public:
         while(curr){
             if(curr->next && curr->val == curr->next->val){
                 int duplicateVal = curr->val;
-                while(curr && duplicateVal == curr->val){
+                while(curr && curr->val == duplicateVal){
                     curr = curr->next;
                 }
                 prev->next = curr;
@@ -32,3 +32,6 @@ public:
         return dummy.next;
     }
 };
+
+
+
