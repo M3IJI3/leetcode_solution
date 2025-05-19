@@ -26,6 +26,7 @@ public:
             prev = first;
             head = first->next;
         }
+
         return dummy.next;
     }
 };
