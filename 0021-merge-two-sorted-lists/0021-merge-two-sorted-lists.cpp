@@ -52,6 +52,7 @@ public:
             }
             curr = curr->next;
         }
+
         curr->next = l1 ? l1 : l2;
 
         return dummy.next;
