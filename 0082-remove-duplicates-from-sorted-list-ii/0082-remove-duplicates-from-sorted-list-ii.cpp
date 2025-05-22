@@ -12,7 +12,7 @@ class Solution {
 public:
     ListNode* deleteDuplicates(ListNode* head) {
         ListNode dummy(0);
-        dummy->next = head;
+        dummy.next = head;
 
         ListNode* prev = &dummy;
         ListNode* curr = head;
