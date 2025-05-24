@@ -12,6 +12,7 @@
 class Solution {
 public:
     vector<vector<int>> levelOrderBottom(TreeNode* root) {
+        // bfs
         if(!root) return {};
 
         vector<vector<int>> ans;
@@ -28,10 +29,27 @@ public:
                 if(node->left) q.push(node->left);
                 if(node->right) q.push(node->right);
             }
-            ans.push_back(path);
+            
+            ans.insert(ans.begin(), path);
         }
 
-        reverse(ans.begin(), ans.end());
         return ans;
+        // <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+        // dfs
+        // vector<vector<int>> ans;
+        // dfs(ans, 0, root);
+        // reverse(ans.begin(), ans.end());
+        // return ans;
     }
+// private:
+//     void dfs(vector<vector<int>>& ans, int depth, TreeNode* node){
+//         if(!node) return;
+
+//         if(depth == ans.size()) ans.push_back({});
+
+//         ans[depth].push_back(node->val);
+//         dfs(ans, depth + 1, node->left);
+//         dfs(ans, depth + 1, node->right);
+//     }
 };
