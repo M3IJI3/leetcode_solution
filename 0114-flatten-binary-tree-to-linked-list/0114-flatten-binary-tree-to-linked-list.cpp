@@ -11,15 +11,32 @@
  */
 class Solution {
 public:
-    TreeNode* prev = nullptr;
+    // TreeNode* prev = nullptr;
     void flatten(TreeNode* root) {
+        // dfs
+        // if(!root) return;
+
+        // flatten(root->right);
+        // flatten(root->left);
+
+        // root->right = prev;
+        // root->left = nullptr;
+        // prev = root;
+        // >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+        // bfs
         if(!root) return;
+        stack<TreeNode*> stk;
+        stk.push(root);
 
-        flatten(root->right);
-        flatten(root->left);
+        while(!stk.empty()){
+            TreeNode* node = stk.top(); stk.pop();
 
-        root->right = prev;
-        root->left = nullptr;
-        prev = root;
+            if(node->right) stk.push(node->right);
+            if(node->left) stk.push(node->left);
+
+            if(!stk.empty()) node->right = stk.top();
+            node->left = nullptr;
+        }
     }
 };
