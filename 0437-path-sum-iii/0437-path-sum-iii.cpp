@@ -39,10 +39,8 @@ public:
     int pathSum(TreeNode* root, int targetSum){
         if(!root) return 0;
 
-        // 从当前节点出发的路径数
         int count = dfs(root, targetSum);
-        
-        // 左子树出发的路径树 + 右子树出发的
+
         count += pathSum(root->left, targetSum);
         count += pathSum(root->right, targetSum);
 
@@ -53,10 +51,11 @@ private:
         if(!node) return 0;
 
         int count = 0;
-        if(node->val == targetSum) count++;
+        if(targetSum == node->val) count++;
 
         count += dfs(node->left, targetSum - node->val);
         count += dfs(node->right, targetSum - node->val);
+
         return count;
     }
 };
