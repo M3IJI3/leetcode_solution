@@ -19,7 +19,7 @@ public:
     }
 
     bool dfs(int node, vector<vector<int>>& graph, vector<int>& visited){
-        if(visited[node] == 1) return false;
+        if(visited[node] == 1) return false; // 回到正在访问的点 证明有环
         if(visited[node] == 2) return true;
 
         visited[node] = 1;
