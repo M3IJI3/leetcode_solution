@@ -20,7 +20,7 @@ public:
 */
 
 class Solution {
-    unordered_map<Node*, Node*> old2new;
+     unordered_map<Node*, Node*> old2new;
 public:
     Node* cloneGraph(Node* node) {
         if(!node) return nullptr;
@@ -28,11 +28,13 @@ public:
     }
 
     Node* dfs(Node* node){
-        if(old2new.count(node))
+        if(!node) return nullptr;
+        if(old2new.count(node)){
             return old2new[node];
+        }
 
         Node* copy = new Node(node->val);
-        old2new[node] = copy;
+        old2new[node] = copy; 
         for(auto neighbor : node->neighbors){
             copy->neighbors.push_back(dfs(neighbor));
         }
