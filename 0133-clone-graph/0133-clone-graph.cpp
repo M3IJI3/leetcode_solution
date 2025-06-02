@@ -28,7 +28,7 @@ public:
     }
 
     Node* dfs(Node* node){
-        if(old2new.count(node)) 
+        if(old2new.count(node))
             return old2new[node];
 
         Node* copy = new Node(node->val);
