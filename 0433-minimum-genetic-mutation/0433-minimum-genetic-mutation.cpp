@@ -9,8 +9,7 @@ public:
         unordered_set<string> visited;
         visited.insert(start);
 
-        vector<char> genes = {'A', 'C', 'G', 'T'};
-
+        vector<char> genes = {'A', 'G', 'C', 'T'};
         while(!q.empty()){
             auto [curr, steps] = q.front();
             q.pop();
@@ -18,12 +17,13 @@ public:
             if(curr == end) return steps;
             for(int i = 0 ; i < curr.size() ; i++){
                 char old = curr[i];
-                for(char c : genes){
-                    if(c == old) continue;
-                    curr[i] = c;
-                    if(dict.count(curr) && !visited.count(curr)){
-                        visited.insert(curr);
+                for(char& gene : genes){
+                    if(old == gene) continue;
+
+                    curr[i] = gene;
+                    if(!visited.count(curr) && dict.count(curr)){
                         q.push({curr, steps + 1});
+                        visited.insert(curr);
                     }
                 }
                 curr[i] = old;
