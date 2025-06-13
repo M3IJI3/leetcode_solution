@@ -7,7 +7,7 @@ public:
             int complement = target - nums[i];
 
             if(map.count(complement)){
-                return { map[complement], i };
+                return { map[complement] , i };
             }
 
             map[nums[i]] = i;
