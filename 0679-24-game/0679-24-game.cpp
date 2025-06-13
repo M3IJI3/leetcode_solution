@@ -41,6 +41,7 @@
 // };
 // <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 class Solution {
+    unordered_set<string> seen;
     const double TARGET = 24.0;
     const double EPS    = 1e-6;
 public:
@@ -50,9 +51,26 @@ public:
         return res;
     }
 
+    string makeKey(vector<double>& nums){
+        vector<double> tmp = nums;
+        sort(tmp.begin(), tmp.end());
+        ostringstream oss;
+        oss << fixed << setprecision(6);
+        for(double x : tmp){
+            oss << x << ',';
+        }
+        return oss.str();
+    }
+
     bool dfs(vector<double>& nums){
         int n = nums.size();
         if(n == 1) return fabs(nums[0] - TARGET) < EPS;
+
+        string key = makeKey(nums);
+        if(seen.count(key)){
+            return false;
+        }
+        seen.insert(key);
 
         for(int i = 0 ; i < n ; i++){
             for(int j = i + 1 ; j < n ; j++){
