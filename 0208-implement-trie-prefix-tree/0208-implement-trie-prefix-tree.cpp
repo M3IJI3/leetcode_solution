@@ -1,62 +1,49 @@
-class Trie {
-private:
-    struct Node{
-        bool endOfWord;
-        array<Node*, 26> next;      // 标记是否有单词在此结束
-        Node() : endOfWord(false){  // 指向26个子节点(a-z)
-            next.fill(nullptr);
-        }
-    };
+class TrieNode {
+public:
+    unordered_map<char, TrieNode*> children;
+    bool isEnd;
+    TrieNode(){
+        children.clear();
+        isEnd = false;
+    }
+};
 
-    Node* root; // 根节点
+class Trie {
+    TrieNode* root;
 public:
     Trie() {
-        root = new Node();
+        root = new TrieNode();
     }
     
     void insert(string word) {
-        Node* p = root;
-        for(char c : word){
-            int idx = c - 'a';
-            if(!p->next[idx]){
-                p->next[idx] = new Node();
+        TrieNode* curr = root;
+        for(int i = 0 ; i < word.size() ; i++){
+            if(curr->children.count(word[i]) == 0){
+                curr->children[word[i]] = new TrieNode();
             }
-            p = p->next[idx];
+            curr = curr->children[word[i]];
         }
-        p->endOfWord = true;
+        curr->isEnd = true;
     }
     
     bool search(string word) {
-        Node* p = root;
-        for(char c : word){
-            int idx = c - 'a';
-            if(!p->next[idx]) return false;
-            p = p->next[idx];
+        TrieNode* curr = root;
+        for(int i = 0 ; i < word.size() ; i++){
+            if(curr->children.count(word[i]) == 0)
+                return false;
+            curr = curr->children[word[i]];
         }
-        return p->endOfWord;
+        return curr->isEnd;
     }
     
     bool startsWith(string prefix) {
-        Node* p = root;
-        for(char c : prefix){
-            int idx = c - 'a';
-            if(!p->next[idx]) return false;
-            p = p->next[idx];
+        TrieNode* curr = root;
+        for(int i = 0 ; i < prefix.size() ; i++){
+            if(curr->children.count(prefix[i]) == 0)
+                return false;
+            curr = curr->children[prefix[i]];
         }
         return true;
-    }
-
-    ~Trie(){
-        clear(root);
-    }
-
-private:
-    void clear(Node* p){
-        if(!p) return;
-        for(auto child : p->next){
-            clear(child);
-        }
-        delete p;
     }
 };
 
