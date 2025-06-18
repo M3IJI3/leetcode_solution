@@ -19,7 +19,7 @@ public:
         for(char c : word){
             int idx = c - 'a';
             if(!p->next[idx]){
-                p->next[idx] = new Node;
+                p->next[idx] = new Node();
             }
             p = p->next[idx];
         }
