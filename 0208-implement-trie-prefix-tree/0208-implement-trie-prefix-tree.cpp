@@ -45,6 +45,19 @@ public:
         }
         return true;
     }
+
+    ~Trie(){
+        clear(root);
+    }
+
+private:
+    void clear(TrieNode* node){
+        if(!node) return;
+        for(auto& child : node->children){
+            clear(child.second);
+        }
+        delete node;
+    }
 };
 
 /**
