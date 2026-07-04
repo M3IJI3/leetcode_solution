@@ -1,33 +1,32 @@
 class Solution {
-    int ans = -1;
 public:
     int perfectMenu(vector<int>& materials, vector<vector<int>>& cookbooks, vector<vector<int>>& attribute, int limit) {
-        dfs(cookbooks, materials, attribute, limit, 0, 0, 0);
+        int n = cookbooks.size();
+        int ans = -1;
+        for(int mask = 0 ; mask < (1 << n) ; mask++){
+            int delicious = 0, hunger = 0;
+            vector<int> remaining = materials;
+            bool valid = true;
+            for(int i = 0 ; i < n ; i++){
+                if(mask & (1 << i)){
+                    if(canCook(remaining, cookbooks[i])){
+                        for(int j = 0 ; j < remaining.size() ; j++){
+                            remaining[j] -= cookbooks[i][j];
+                        }
+                        delicious += attribute[i][0];
+                        hunger += attribute[i][1];
+                    } else {
+                        valid = false;
+                        break;
+                    }
+                }
+            }
+            if(valid && hunger >= limit) ans = max(ans, delicious);
+        }
         return ans;
     }
 
-    void dfs(vector<vector<int>>& cookbooks, vector<int>& materials, vector<vector<int>>& attribute, int limit, int delicious, int hunger, int index){
-        if(index == cookbooks.size()){
-            if(hunger >= limit){
-                ans = max(ans, delicious);
-            }
-            return;
-        }
-
-        dfs(cookbooks, materials, attribute, limit, delicious, hunger, index + 1);
-
-        if(canCook(materials, cookbooks[index])){
-            for(int i = 0 ; i < materials.size() ; i++){
-                materials[i] -= cookbooks[index][i];
-            }   
-            dfs(cookbooks, materials, attribute, limit, delicious + attribute[index][0], hunger + attribute[index][1], index + 1);
-            for(int i = 0 ; i < materials.size() ; i++){
-                materials[i] += cookbooks[index][i];
-            }
-        }
-    }
-
-    bool canCook(const vector<int>& materials, vector<int>& cookbook){
+    bool canCook(vector<int>& materials, vector<int>& cookbook){
         for(int i = 0 ; i < materials.size() ; i++){
             if(materials[i] < cookbook[i]) return false;
         }
