@@ -6,8 +6,8 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/M3IJI3/leetcode_solution/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/M3IJI3/leetcode_solution/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/M3IJI3/leetcode_solution/tree/master/0015-3sum) |
@@ -52,9 +52,10 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [1966-frequency-of-the-most-frequent-element](https://github.com/M3IJI3/leetcode_solution/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/M3IJI3/leetcode_solution/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/M3IJI3/leetcode_solution/tree/master/2866-longest-even-odd-subarray-with-threshold) |
+| [1000434-UEcfPD](https://github.com/M3IJI3/leetcode_solution/tree/main/1000434-UEcfPD/) | undefined |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0009-palindrome-number](https://github.com/M3IJI3/leetcode_solution/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/M3IJI3/leetcode_solution/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/M3IJI3/leetcode_solution/tree/master/0013-roman-to-integer) |
@@ -66,8 +67,8 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [1370-count-number-of-nice-subarrays](https://github.com/M3IJI3/leetcode_solution/tree/master/1370-count-number-of-nice-subarrays) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/M3IJI3/leetcode_solution/tree/master/1430-find-the-k-beauty-of-a-number) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/M3IJI3/leetcode_solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/M3IJI3/leetcode_solution/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/M3IJI3/leetcode_solution/tree/master/0013-roman-to-integer) |
@@ -94,8 +95,8 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/M3IJI3/leetcode_solution/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/M3IJI3/leetcode_solution/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/M3IJI3/leetcode_solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/M3IJI3/leetcode_solution/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/M3IJI3/leetcode_solution/tree/master/0012-integer-to-roman) |
@@ -129,23 +130,23 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/M3IJI3/leetcode_solution/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/M3IJI3/leetcode_solution/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0020-valid-parentheses](https://github.com/M3IJI3/leetcode_solution/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/M3IJI3/leetcode_solution/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/M3IJI3/leetcode_solution/tree/master/0094-binary-tree-inorder-traversal) |
 ## Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/M3IJI3/leetcode_solution/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/M3IJI3/leetcode_solution/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/M3IJI3/leetcode_solution/tree/master/0021-merge-two-sorted-lists) |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/M3IJI3/leetcode_solution/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/M3IJI3/leetcode_solution/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/M3IJI3/leetcode_solution/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -161,12 +162,12 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [0392-is-subsequence](https://github.com/M3IJI3/leetcode_solution/tree/master/0392-is-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/M3IJI3/leetcode_solution/tree/master/0658-find-k-closest-elements) |
 ## String Matching
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/M3IJI3/leetcode_solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0035-search-insert-position](https://github.com/M3IJI3/leetcode_solution/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/M3IJI3/leetcode_solution/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/M3IJI3/leetcode_solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -178,20 +179,21 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/M3IJI3/leetcode_solution/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/M3IJI3/leetcode_solution/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0067-add-binary](https://github.com/M3IJI3/leetcode_solution/tree/master/0067-add-binary) |
 | [0187-repeated-dna-sequences](https://github.com/M3IJI3/leetcode_solution/tree/master/0187-repeated-dna-sequences) |
 | [1873-longest-nice-substring](https://github.com/M3IJI3/leetcode_solution/tree/master/1873-longest-nice-substring) |
+| [1000434-UEcfPD](https://github.com/M3IJI3/leetcode_solution/tree/main/1000434-UEcfPD/) | undefined |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0054-spiral-matrix](https://github.com/M3IJI3/leetcode_solution/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/M3IJI3/leetcode_solution/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/M3IJI3/leetcode_solution/tree/master/0068-text-justification) |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/M3IJI3/leetcode_solution/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/M3IJI3/leetcode_solution/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/M3IJI3/leetcode_solution/tree/master/0055-jump-game) |
@@ -204,12 +206,12 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [1020-longest-turbulent-subarray](https://github.com/M3IJI3/leetcode_solution/tree/master/1020-longest-turbulent-subarray) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/M3IJI3/leetcode_solution/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Memoization
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0070-climbing-stairs](https://github.com/M3IJI3/leetcode_solution/tree/master/0070-climbing-stairs) |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0015-3sum](https://github.com/M3IJI3/leetcode_solution/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/M3IJI3/leetcode_solution/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/M3IJI3/leetcode_solution/tree/master/0169-majority-element) |
@@ -220,55 +222,55 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [1966-frequency-of-the-most-frequent-element](https://github.com/M3IJI3/leetcode_solution/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/M3IJI3/leetcode_solution/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/M3IJI3/leetcode_solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/M3IJI3/leetcode_solution/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/M3IJI3/leetcode_solution/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/M3IJI3/leetcode_solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/M3IJI3/leetcode_solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Depth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/M3IJI3/leetcode_solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/M3IJI3/leetcode_solution/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/M3IJI3/leetcode_solution/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/M3IJI3/leetcode_solution/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Binary Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/M3IJI3/leetcode_solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/M3IJI3/leetcode_solution/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/M3IJI3/leetcode_solution/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/M3IJI3/leetcode_solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/M3IJI3/leetcode_solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Breadth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0100-same-tree](https://github.com/M3IJI3/leetcode_solution/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/M3IJI3/leetcode_solution/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/M3IJI3/leetcode_solution/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/M3IJI3/leetcode_solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/M3IJI3/leetcode_solution/tree/master/0169-majority-element) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/M3IJI3/leetcode_solution/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1873-longest-nice-substring](https://github.com/M3IJI3/leetcode_solution/tree/master/1873-longest-nice-substring) |
 ## Binary Search Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/M3IJI3/leetcode_solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0169-majority-element](https://github.com/M3IJI3/leetcode_solution/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/M3IJI3/leetcode_solution/tree/master/0383-ransom-note) |
 | [0594-longest-harmonious-subsequence](https://github.com/M3IJI3/leetcode_solution/tree/master/0594-longest-harmonious-subsequence) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/M3IJI3/leetcode_solution/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/M3IJI3/leetcode_solution/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/M3IJI3/leetcode_solution/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/M3IJI3/leetcode_solution/tree/master/0055-jump-game) |
@@ -277,12 +279,12 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [0135-candy](https://github.com/M3IJI3/leetcode_solution/tree/master/0135-candy) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/M3IJI3/leetcode_solution/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Counting Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0274-h-index](https://github.com/M3IJI3/leetcode_solution/tree/master/0274-h-index) |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/M3IJI3/leetcode_solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/M3IJI3/leetcode_solution/tree/master/0238-product-of-array-except-self) |
 | [0713-subarray-product-less-than-k](https://github.com/M3IJI3/leetcode_solution/tree/master/0713-subarray-product-less-than-k) |
@@ -293,16 +295,16 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/M3IJI3/leetcode_solution/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/M3IJI3/leetcode_solution/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Monotonic Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/M3IJI3/leetcode_solution/tree/master/0042-trapping-rain-water) |
 ## Trie
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/M3IJI3/leetcode_solution/tree/master/0014-longest-common-prefix) |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/M3IJI3/leetcode_solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/M3IJI3/leetcode_solution/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0187-repeated-dna-sequences](https://github.com/M3IJI3/leetcode_solution/tree/master/0187-repeated-dna-sequences) |
@@ -338,20 +340,28 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/M3IJI3/leetcode_solution/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/M3IJI3/leetcode_solution/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Rolling Hash
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0187-repeated-dna-sequences](https://github.com/M3IJI3/leetcode_solution/tree/master/0187-repeated-dna-sequences) |
 ## Hash Function
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0187-repeated-dna-sequences](https://github.com/M3IJI3/leetcode_solution/tree/master/0187-repeated-dna-sequences) |
 ## Heap (Priority Queue)
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0658-find-k-closest-elements](https://github.com/M3IJI3/leetcode_solution/tree/master/0658-find-k-closest-elements) |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0036-valid-sudoku](https://github.com/M3IJI3/leetcode_solution/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/M3IJI3/leetcode_solution/tree/master/0054-spiral-matrix) |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1000434-UEcfPD](https://github.com/M3IJI3/leetcode_solution/tree/main/1000434-UEcfPD/) | undefined |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1000434-UEcfPD](https://github.com/M3IJI3/leetcode_solution/tree/main/1000434-UEcfPD/) | undefined |
 <!---LeetCode Topics End-->
