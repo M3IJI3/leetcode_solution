@@ -6,7 +6,7 @@ public:
         for(int mask = 0 ; mask < (1 << n) ; mask++){
             int delicious = 0, hunger = 0;
             vector<int> remaining = materials;
-            // bool valid = true;
+            bool valid = true;
 
             for(int i = 0 ; i < n ; i++){
                 if(mask & (1 << i)){
@@ -17,13 +17,13 @@ public:
                         delicious += attribute[i][0];
                         hunger += attribute[i][1];
                     } 
-                    // else {
-                        // valid = false;
-                        // break;
-                    // }
+                    else {
+                        valid = false;
+                        break;
+                    }
                 }
             }
-            if(hunger >= limit) ans = max(ans, delicious);
+            if(valid && hunger >= limit) ans = max(ans, delicious);
         }
         return ans;
     }
