@@ -46,6 +46,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [1046-max-consecutive-ones-iii](https://github.com/M3IJI3/leetcode_solution/tree/master/1046-max-consecutive-ones-iii) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/M3IJI3/leetcode_solution/tree/main/1360-maximum-length-of-a-concatenated-string-with-unique-characters/) | undefined |
 | [1370-count-number-of-nice-subarrays](https://github.com/M3IJI3/leetcode_solution/tree/master/1370-count-number-of-nice-subarrays) |
+| [1381-maximum-score-words-formed-by-letters](https://github.com/M3IJI3/leetcode_solution/tree/main/1381-maximum-score-words-formed-by-letters/) | undefined |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/M3IJI3/leetcode_solution/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1755-defuse-the-bomb](https://github.com/M3IJI3/leetcode_solution/tree/master/1755-defuse-the-bomb) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/M3IJI3/leetcode_solution/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
@@ -90,6 +91,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [0966-binary-subarrays-with-sum](https://github.com/M3IJI3/leetcode_solution/tree/master/0966-binary-subarrays-with-sum) |
 | [1261-swap-for-longest-repeated-character-substring](https://github.com/M3IJI3/leetcode_solution/tree/master/1261-swap-for-longest-repeated-character-substring) |
 | [1370-count-number-of-nice-subarrays](https://github.com/M3IJI3/leetcode_solution/tree/master/1370-count-number-of-nice-subarrays) |
+| [1381-maximum-score-words-formed-by-letters](https://github.com/M3IJI3/leetcode_solution/tree/main/1381-maximum-score-words-formed-by-letters/) | undefined |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/M3IJI3/leetcode_solution/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/M3IJI3/leetcode_solution/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1813-maximum-erasure-value](https://github.com/M3IJI3/leetcode_solution/tree/master/1813-maximum-erasure-value) |
@@ -125,6 +127,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [1321-get-equal-substrings-within-budget](https://github.com/M3IJI3/leetcode_solution/tree/master/1321-get-equal-substrings-within-budget) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/M3IJI3/leetcode_solution/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/M3IJI3/leetcode_solution/tree/main/1360-maximum-length-of-a-concatenated-string-with-unique-characters/) | undefined |
+| [1381-maximum-score-words-formed-by-letters](https://github.com/M3IJI3/leetcode_solution/tree/main/1381-maximum-score-words-formed-by-letters/) | undefined |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/M3IJI3/leetcode_solution/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/M3IJI3/leetcode_solution/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/M3IJI3/leetcode_solution/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -187,6 +190,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [0067-add-binary](https://github.com/M3IJI3/leetcode_solution/tree/master/0067-add-binary) |
 | [0187-repeated-dna-sequences](https://github.com/M3IJI3/leetcode_solution/tree/master/0187-repeated-dna-sequences) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/M3IJI3/leetcode_solution/tree/main/1360-maximum-length-of-a-concatenated-string-with-unique-characters/) | undefined |
+| [1381-maximum-score-words-formed-by-letters](https://github.com/M3IJI3/leetcode_solution/tree/main/1381-maximum-score-words-formed-by-letters/) | undefined |
 | [1873-longest-nice-substring](https://github.com/M3IJI3/leetcode_solution/tree/master/1873-longest-nice-substring) |
 | [2482-maximum-rows-covered-by-columns](https://github.com/M3IJI3/leetcode_solution/tree/main/2482-maximum-rows-covered-by-columns/) | undefined |
 | [1000434-UEcfPD](https://github.com/M3IJI3/leetcode_solution/tree/main/1000434-UEcfPD/) | undefined |
@@ -209,6 +213,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [0392-is-subsequence](https://github.com/M3IJI3/leetcode_solution/tree/master/0392-is-subsequence) |
 | [0413-arithmetic-slices](https://github.com/M3IJI3/leetcode_solution/tree/master/0413-arithmetic-slices) |
 | [1020-longest-turbulent-subarray](https://github.com/M3IJI3/leetcode_solution/tree/master/1020-longest-turbulent-subarray) |
+| [1381-maximum-score-words-formed-by-letters](https://github.com/M3IJI3/leetcode_solution/tree/main/1381-maximum-score-words-formed-by-letters/) | undefined |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/M3IJI3/leetcode_solution/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Memoization
 | Problem Name | Difficulty |
@@ -272,6 +277,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [0169-majority-element](https://github.com/M3IJI3/leetcode_solution/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/M3IJI3/leetcode_solution/tree/master/0383-ransom-note) |
 | [0594-longest-harmonious-subsequence](https://github.com/M3IJI3/leetcode_solution/tree/master/0594-longest-harmonious-subsequence) |
+| [1381-maximum-score-words-formed-by-letters](https://github.com/M3IJI3/leetcode_solution/tree/main/1381-maximum-score-words-formed-by-letters/) | undefined |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/M3IJI3/leetcode_solution/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Greedy
 | Problem Name | Difficulty |
@@ -366,6 +372,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/M3IJI3/leetcode_solution/tree/main/1360-maximum-length-of-a-concatenated-string-with-unique-characters/) | undefined |
+| [1381-maximum-score-words-formed-by-letters](https://github.com/M3IJI3/leetcode_solution/tree/main/1381-maximum-score-words-formed-by-letters/) | undefined |
 | [2482-maximum-rows-covered-by-columns](https://github.com/M3IJI3/leetcode_solution/tree/main/2482-maximum-rows-covered-by-columns/) | undefined |
 | [1000434-UEcfPD](https://github.com/M3IJI3/leetcode_solution/tree/main/1000434-UEcfPD/) | undefined |
 ## Enumeration
@@ -373,4 +380,8 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | ------- | ------- |
 | [2482-maximum-rows-covered-by-columns](https://github.com/M3IJI3/leetcode_solution/tree/main/2482-maximum-rows-covered-by-columns/) | undefined |
 | [1000434-UEcfPD](https://github.com/M3IJI3/leetcode_solution/tree/main/1000434-UEcfPD/) | undefined |
+## Bitmask
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1381-maximum-score-words-formed-by-letters](https://github.com/M3IJI3/leetcode_solution/tree/main/1381-maximum-score-words-formed-by-letters/) | undefined |
 <!---LeetCode Topics End-->
