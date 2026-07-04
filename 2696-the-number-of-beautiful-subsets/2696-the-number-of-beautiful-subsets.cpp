@@ -1,26 +1,32 @@
 class Solution {
+    int ans = 0;
 public:
     int beautifulSubsets(vector<int>& nums, int k) {
-        int n = nums.size(), ans = 0;
-        for(int mask = 0 ; mask < (1 << n) ; mask++){
-            vector<int> path;
-            bool valid = true;
-            for(int i = 0 ; i < n ; i++){
-                if(mask & (1 << i)){
-                    if(!path.empty()){
-                        for(int p : path){
-                            if(abs(p - nums[i]) == k){
-                                valid = false;
-                                break;
-                            }
-                        }
-                    }
-                    path.push_back(nums[i]);
-                }
-                if(!valid) break;
-            }
-            if(valid) ans++;
-        }
+        vector<int> path;
+        dfs(nums, path, k, 0);
         return ans - 1;
+    }
+
+    void dfs(vector<int>& nums, vector<int>& path, int k, int index){
+        if(index == nums.size()){
+            ans++;
+            return;
+        }
+
+        dfs(nums, path, k, index + 1);
+
+        bool canChoose = true;
+        for(int p : path){
+            if(abs(p - nums[index]) == k){
+                canChoose = false;
+                break;
+            }
+        }
+
+        if(canChoose){
+            path.push_back(nums[index]);
+            dfs(nums, path, k, index + 1);
+            path.pop_back();
+        }
     }
 };
