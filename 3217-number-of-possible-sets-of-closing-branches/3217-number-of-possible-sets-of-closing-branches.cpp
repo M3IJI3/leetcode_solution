@@ -40,6 +40,7 @@ public:
     bool check(){
         vector<vector<int>> dist = g;
 
+        // Floyd 最短路算法
         for(int i = 0 ; i < n ; i++){
             if(!keep[i]) continue;
             for(int j = 0 ; j < n ; j++){
