@@ -44,6 +44,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [0966-binary-subarrays-with-sum](https://github.com/M3IJI3/leetcode_solution/tree/master/0966-binary-subarrays-with-sum) |
 | [1020-longest-turbulent-subarray](https://github.com/M3IJI3/leetcode_solution/tree/master/1020-longest-turbulent-subarray) |
 | [1046-max-consecutive-ones-iii](https://github.com/M3IJI3/leetcode_solution/tree/master/1046-max-consecutive-ones-iii) |
+| [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/M3IJI3/leetcode_solution/tree/main/1360-maximum-length-of-a-concatenated-string-with-unique-characters/) | undefined |
 | [1370-count-number-of-nice-subarrays](https://github.com/M3IJI3/leetcode_solution/tree/master/1370-count-number-of-nice-subarrays) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/M3IJI3/leetcode_solution/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1755-defuse-the-bomb](https://github.com/M3IJI3/leetcode_solution/tree/master/1755-defuse-the-bomb) |
@@ -123,6 +124,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [1261-swap-for-longest-repeated-character-substring](https://github.com/M3IJI3/leetcode_solution/tree/master/1261-swap-for-longest-repeated-character-substring) |
 | [1321-get-equal-substrings-within-budget](https://github.com/M3IJI3/leetcode_solution/tree/master/1321-get-equal-substrings-within-budget) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/M3IJI3/leetcode_solution/tree/master/1351-replace-the-substring-for-balanced-string) |
+| [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/M3IJI3/leetcode_solution/tree/main/1360-maximum-length-of-a-concatenated-string-with-unique-characters/) | undefined |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/M3IJI3/leetcode_solution/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/M3IJI3/leetcode_solution/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/M3IJI3/leetcode_solution/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -184,6 +186,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | ------- | ------- |
 | [0067-add-binary](https://github.com/M3IJI3/leetcode_solution/tree/master/0067-add-binary) |
 | [0187-repeated-dna-sequences](https://github.com/M3IJI3/leetcode_solution/tree/master/0187-repeated-dna-sequences) |
+| [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/M3IJI3/leetcode_solution/tree/main/1360-maximum-length-of-a-concatenated-string-with-unique-characters/) | undefined |
 | [1873-longest-nice-substring](https://github.com/M3IJI3/leetcode_solution/tree/master/1873-longest-nice-substring) |
 | [2482-maximum-rows-covered-by-columns](https://github.com/M3IJI3/leetcode_solution/tree/main/2482-maximum-rows-covered-by-columns/) | undefined |
 | [1000434-UEcfPD](https://github.com/M3IJI3/leetcode_solution/tree/main/1000434-UEcfPD/) | undefined |
@@ -362,6 +365,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/M3IJI3/leetcode_solution/tree/main/1360-maximum-length-of-a-concatenated-string-with-unique-characters/) | undefined |
 | [2482-maximum-rows-covered-by-columns](https://github.com/M3IJI3/leetcode_solution/tree/main/2482-maximum-rows-covered-by-columns/) | undefined |
 | [1000434-UEcfPD](https://github.com/M3IJI3/leetcode_solution/tree/main/1000434-UEcfPD/) | undefined |
 ## Enumeration
