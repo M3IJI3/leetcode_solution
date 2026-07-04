@@ -23,6 +23,7 @@ public:
                         currScore += score[c - 'a'];
                     }
                 }
+                if(!valid) break;
             }
             if(valid) ans = max(ans, currScore);
         }
