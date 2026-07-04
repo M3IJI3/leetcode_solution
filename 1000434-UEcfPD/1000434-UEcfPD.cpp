@@ -7,11 +7,12 @@ public:
     }
 
     void dfs(vector<vector<int>>& cookbooks, vector<int>& materials, vector<vector<int>>& attribute, int limit, int delicious, int hunger, int index){
-        if(hunger >= limit){
-            ans = max(ans, delicious);
+        if(index == cookbooks.size()){
+            if(hunger >= limit){
+                ans = max(ans, delicious);
+            }
+            return;
         }
-
-        if(index == cookbooks.size()) return;
 
         dfs(cookbooks, materials, attribute, limit, delicious, hunger, index + 1);
 
