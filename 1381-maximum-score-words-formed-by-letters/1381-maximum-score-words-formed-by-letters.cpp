@@ -1,39 +1,31 @@
 class Solution {
-    int ans = 0;
 public:
     int maxScoreWords(vector<string>& words, vector<char>& letters, vector<int>& score) {
-        vector<int> have(26, 0);
-        for(char c: letters){
-            have[c - 'a']++;    // 统计所有可用的字符
-        }
+        // 统计所有可用字符频率
+        int have[26]{};
+        for(char& c : letters) have[c - 'a']++;
 
-        dfs(words, score, have, 0, 0);
-        return ans;
-    }
+        int n = words.size(), ans = 0;
+        for(int mask = 0 ; mask < (1 << n) ; mask++){
+            int temp[26];
+            copy(begin(have), end(have), temp);
 
-    void dfs(vector<string>& words, vector<int>& score, vector<int>& have, int currScore, int i){
-        if(i == words.size()){
-            ans = max(ans, currScore);
-            return;
-        }
-
-        dfs(words, score, have, currScore, i + 1);
-
-        bool ok = true;
-        for(char& c : words[i]){
-            if(have[c - 'a'] == 0){
-                ok = false;
+            int currScore = 0;
+            bool valid = true;
+            for(int i = 0 ; i < n ; i++){
+                if(mask & (1 << i)){
+                    for(char c : words[i]){
+                        if(temp[c - 'a'] == 0){
+                            valid = false;
+                            break;
+                        }
+                        temp[c - 'a']--;
+                        currScore += score[c - 'a'];
+                    }
+                }
             }
-            have[c - 'a']--;
-            currScore += score[c - 'a'];
+            if(valid) ans = max(ans, currScore);
         }
-
-        if(ok){
-            dfs(words, score, have, currScore, i + 1);
-        }
-
-        for(char& c : words[i]){
-            have[c - 'a']++;
-        }
+        return ans;
     }
 };
