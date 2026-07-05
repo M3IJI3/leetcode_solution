@@ -19,6 +19,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [0042-trapping-rain-water](https://github.com/M3IJI3/leetcode_solution/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/M3IJI3/leetcode_solution/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/M3IJI3/leetcode_solution/tree/main/0046-permutations/) | undefined |
+| [0051-n-queens](https://github.com/M3IJI3/leetcode_solution/tree/main/0051-n-queens/) | undefined |
 | [0054-spiral-matrix](https://github.com/M3IJI3/leetcode_solution/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/M3IJI3/leetcode_solution/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/M3IJI3/leetcode_solution/tree/master/0066-plus-one) |
@@ -410,6 +411,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/M3IJI3/leetcode_solution/tree/main/0039-combination-sum/) | undefined |
 | [0046-permutations](https://github.com/M3IJI3/leetcode_solution/tree/main/0046-permutations/) | undefined |
+| [0051-n-queens](https://github.com/M3IJI3/leetcode_solution/tree/main/0051-n-queens/) | undefined |
 | [0093-restore-ip-addresses](https://github.com/M3IJI3/leetcode_solution/tree/main/0093-restore-ip-addresses/) | undefined |
 | [0131-palindrome-partitioning](https://github.com/M3IJI3/leetcode_solution/tree/main/0131-palindrome-partitioning/) | undefined |
 | [0140-word-break-ii](https://github.com/M3IJI3/leetcode_solution/tree/main/0140-word-break-ii/) | undefined |
