@@ -74,6 +74,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [1370-count-number-of-nice-subarrays](https://github.com/M3IJI3/leetcode_solution/tree/master/1370-count-number-of-nice-subarrays) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/M3IJI3/leetcode_solution/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/M3IJI3/leetcode_solution/tree/main/2696-the-number-of-beautiful-subsets/) | undefined |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/M3IJI3/leetcode_solution/tree/main/2802-find-the-punishment-number-of-an-integer/) | undefined |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -397,6 +398,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/M3IJI3/leetcode_solution/tree/main/2130-maximum-product-of-the-length-of-two-palindromic-subsequences/) | undefined |
 | [2482-maximum-rows-covered-by-columns](https://github.com/M3IJI3/leetcode_solution/tree/main/2482-maximum-rows-covered-by-columns/) | undefined |
 | [2696-the-number-of-beautiful-subsets](https://github.com/M3IJI3/leetcode_solution/tree/main/2696-the-number-of-beautiful-subsets/) | undefined |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/M3IJI3/leetcode_solution/tree/main/2802-find-the-punishment-number-of-an-integer/) | undefined |
 | [1000434-UEcfPD](https://github.com/M3IJI3/leetcode_solution/tree/main/1000434-UEcfPD/) | undefined |
 ## Enumeration
 | Problem Name | Difficulty |
