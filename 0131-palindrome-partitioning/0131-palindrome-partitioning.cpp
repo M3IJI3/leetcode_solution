@@ -3,32 +3,29 @@ class Solution {
 public:
     vector<vector<string>> partition(string s) {
         vector<string> path;
-        dfs(s, path, 0, 0);
+        dfs(s, path, 0);
         return ans;
     }
 
-    void dfs(string& s, vector<string>& path, int i, int start){
-        if(i == s.size()){
+    void dfs(string& s, vector<string>& path, int index){
+        if(index == s.size()){
             ans.push_back(path);
             return;
         }
 
-        if(i < s.size() - 1){
-            dfs(s, path, i + 1, start);
-        }
-
-        if(isPalindrome(s, start, i)){
-            path.push_back(s.substr(start, i - start + 1));
-            dfs(s, path, i + 1, i + 1);
-            path.pop_back();
+        for(int i = index ; i < s.size() ; i++){
+            if(isPalindrome(s, index, i)){
+                path.push_back(s.substr(index, i - index + 1));
+                dfs(s, path, i + 1);
+                path.pop_back();
+            }
         }
     }
 
     bool isPalindrome(const string& s, int left, int right){
         while(left < right){
-            if(s[left++] != s[right--]){
-                return false;
-            }
+            if(s[left] != s[right]) return false;
+            left++; right--;
         }
         return true;
     }
