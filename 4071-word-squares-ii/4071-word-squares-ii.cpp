@@ -11,13 +11,16 @@ public:
 
     void dfs(vector<string>& words, vector<string>& path){
         if(path.size() == 4){
-            string &top = path[0], &left = path[1], &right = path[2], &bottom = path[3];
-            if(top[0] == left[0] && top[3] == right[0] && bottom[0] == left[3] && bottom[3] == right[3]){
+            string &left = path[1];
+            string &bottom = path[3];
+            string &right = path[2];
+            if(bottom[0] == left[3] && bottom[3] == right[3]){
                 ans.push_back(path);
             }
             return;
         }
 
+        // 剪枝
         if(path.size() == 2){
             string &top = path[0];
             string &left = path[1];
