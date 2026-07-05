@@ -22,9 +22,9 @@ public:
 
         for(int i = 1 ; i <= 3 && i + index <= s.size() ; i++){
             string sub = s.substr(index, i);
-            if(sub.size() > 1 && sub[0] == '0') continue;
+            if(sub.size() > 1 && sub[0] == '0') break;
             int segment = stoi(sub);
-            if(segment > 255) continue;
+            if(segment > 255) break;
             path.push_back(sub);
             dfs(s, path, i + index);
             path.pop_back();
