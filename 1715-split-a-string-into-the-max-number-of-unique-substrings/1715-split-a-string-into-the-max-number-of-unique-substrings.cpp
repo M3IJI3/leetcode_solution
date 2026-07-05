@@ -14,6 +14,8 @@ public:
             return;
         }    
 
+        if(path.size() + (s.size() - index) <= maxLen) return;
+
         for(int i = index ; i < s.size() ; i++){
             string sub = s.substr(index, i - index + 1);
             if(seen.count(sub)) continue;
