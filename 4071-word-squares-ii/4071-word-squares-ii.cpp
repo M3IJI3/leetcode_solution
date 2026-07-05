@@ -24,6 +24,12 @@ public:
             if(top[0] != left[0]) return;
         }
 
+        if(path.size() == 3){
+            string &top = path[0];
+            string & right = path[2];
+            if(top[3] != right[0]) return;
+        }
+
         for(int i = 0 ; i < words.size() ; i++){
             if(words[i] == "#") continue;
             string rec = words[i];
