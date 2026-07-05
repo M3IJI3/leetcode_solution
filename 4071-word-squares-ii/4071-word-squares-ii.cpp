@@ -18,6 +18,12 @@ public:
             return;
         }
 
+        if(path.size() == 2){
+            string &top = path[0];
+            string &left = path[1];
+            if(top[0] != left[0]) return;
+        }
+
         for(int i = 0 ; i < words.size() ; i++){
             if(words[i] == "#") continue;
             string rec = words[i];
@@ -26,7 +32,6 @@ public:
             dfs(words, path);
             words[i] = rec;
             path.pop_back();
-
         }
 
     }
