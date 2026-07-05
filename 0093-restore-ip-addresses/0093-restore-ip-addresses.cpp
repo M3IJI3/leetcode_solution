@@ -10,12 +10,8 @@ public:
     void dfs(string& s, vector<string>& path, int index){
         if(path.size() == 4){
             if(index == s.size()){
-                string tmp = "";
-                for(int i = 0 ; i < path.size() ; i++){
-                    if(i == 0) tmp.append(path[i]);
-                    else tmp.append(string(".") + path[i]);
-                }
-                ans.push_back(tmp);
+                string temp = path[0] + "." + path[1] + "." + path[2] + "." + path[3];
+                ans.push_back(temp);
             }
             return;
         }
