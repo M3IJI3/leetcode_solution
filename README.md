@@ -61,6 +61,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [2482-maximum-rows-covered-by-columns](https://github.com/M3IJI3/leetcode_solution/tree/main/2482-maximum-rows-covered-by-columns/) | undefined |
 | [2696-the-number-of-beautiful-subsets](https://github.com/M3IJI3/leetcode_solution/tree/main/2696-the-number-of-beautiful-subsets/) | undefined |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/M3IJI3/leetcode_solution/tree/master/2866-longest-even-odd-subarray-with-threshold) |
+| [4071-word-squares-ii](https://github.com/M3IJI3/leetcode_solution/tree/main/4071-word-squares-ii/) | undefined |
 | [1000434-UEcfPD](https://github.com/M3IJI3/leetcode_solution/tree/main/1000434-UEcfPD/) | undefined |
 ## Math
 | Problem Name | Difficulty |
@@ -152,6 +153,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/M3IJI3/leetcode_solution/tree/main/2130-maximum-product-of-the-length-of-two-palindromic-subsequences/) | undefined |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/M3IJI3/leetcode_solution/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/M3IJI3/leetcode_solution/tree/master/3349-maximum-length-substring-with-two-occurrences) |
+| [4071-word-squares-ii](https://github.com/M3IJI3/leetcode_solution/tree/main/4071-word-squares-ii/) | undefined |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -258,6 +260,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [1966-frequency-of-the-most-frequent-element](https://github.com/M3IJI3/leetcode_solution/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/M3IJI3/leetcode_solution/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/M3IJI3/leetcode_solution/tree/main/2696-the-number-of-beautiful-subsets/) | undefined |
+| [4071-word-squares-ii](https://github.com/M3IJI3/leetcode_solution/tree/main/4071-word-squares-ii/) | undefined |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -415,6 +418,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [2482-maximum-rows-covered-by-columns](https://github.com/M3IJI3/leetcode_solution/tree/main/2482-maximum-rows-covered-by-columns/) | undefined |
 | [2696-the-number-of-beautiful-subsets](https://github.com/M3IJI3/leetcode_solution/tree/main/2696-the-number-of-beautiful-subsets/) | undefined |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/M3IJI3/leetcode_solution/tree/main/2802-find-the-punishment-number-of-an-integer/) | undefined |
+| [4071-word-squares-ii](https://github.com/M3IJI3/leetcode_solution/tree/main/4071-word-squares-ii/) | undefined |
 | [1000434-UEcfPD](https://github.com/M3IJI3/leetcode_solution/tree/main/1000434-UEcfPD/) | undefined |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -423,6 +427,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/M3IJI3/leetcode_solution/tree/main/1976-splitting-a-string-into-descending-consecutive-values/) | undefined |
 | [2482-maximum-rows-covered-by-columns](https://github.com/M3IJI3/leetcode_solution/tree/main/2482-maximum-rows-covered-by-columns/) | undefined |
 | [3217-number-of-possible-sets-of-closing-branches](https://github.com/M3IJI3/leetcode_solution/tree/main/3217-number-of-possible-sets-of-closing-branches/) | undefined |
+| [4071-word-squares-ii](https://github.com/M3IJI3/leetcode_solution/tree/main/4071-word-squares-ii/) | undefined |
 | [1000434-UEcfPD](https://github.com/M3IJI3/leetcode_solution/tree/main/1000434-UEcfPD/) | undefined |
 ## Bitmask
 | Problem Name | Difficulty |
