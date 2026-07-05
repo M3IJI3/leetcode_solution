@@ -119,6 +119,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [0067-add-binary](https://github.com/M3IJI3/leetcode_solution/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/M3IJI3/leetcode_solution/tree/master/0068-text-justification) |
 | [0125-valid-palindrome](https://github.com/M3IJI3/leetcode_solution/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/M3IJI3/leetcode_solution/tree/main/0131-palindrome-partitioning/) | undefined |
 | [0151-reverse-words-in-a-string](https://github.com/M3IJI3/leetcode_solution/tree/master/0151-reverse-words-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/M3IJI3/leetcode_solution/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/M3IJI3/leetcode_solution/tree/master/0205-isomorphic-strings) |
@@ -219,6 +220,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [0070-climbing-stairs](https://github.com/M3IJI3/leetcode_solution/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/M3IJI3/leetcode_solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/M3IJI3/leetcode_solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0131-palindrome-partitioning](https://github.com/M3IJI3/leetcode_solution/tree/main/0131-palindrome-partitioning/) | undefined |
 | [0152-maximum-product-subarray](https://github.com/M3IJI3/leetcode_solution/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/M3IJI3/leetcode_solution/tree/master/0392-is-subsequence) |
 | [0413-arithmetic-slices](https://github.com/M3IJI3/leetcode_solution/tree/master/0413-arithmetic-slices) |
@@ -388,6 +390,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/M3IJI3/leetcode_solution/tree/main/0039-combination-sum/) | undefined |
+| [0131-palindrome-partitioning](https://github.com/M3IJI3/leetcode_solution/tree/main/0131-palindrome-partitioning/) | undefined |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/M3IJI3/leetcode_solution/tree/main/1360-maximum-length-of-a-concatenated-string-with-unique-characters/) | undefined |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/M3IJI3/leetcode_solution/tree/main/1381-maximum-score-words-formed-by-letters/) | undefined |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/M3IJI3/leetcode_solution/tree/main/1723-maximum-number-of-achievable-transfer-requests/) | undefined |
