@@ -61,6 +61,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [2482-maximum-rows-covered-by-columns](https://github.com/M3IJI3/leetcode_solution/tree/main/2482-maximum-rows-covered-by-columns/) | undefined |
 | [2696-the-number-of-beautiful-subsets](https://github.com/M3IJI3/leetcode_solution/tree/main/2696-the-number-of-beautiful-subsets/) | undefined |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/M3IJI3/leetcode_solution/tree/master/2866-longest-even-odd-subarray-with-threshold) |
+| [3649-minimum-time-to-break-locks-i](https://github.com/M3IJI3/leetcode_solution/tree/main/3649-minimum-time-to-break-locks-i/) | undefined |
 | [4071-word-squares-ii](https://github.com/M3IJI3/leetcode_solution/tree/main/4071-word-squares-ii/) | undefined |
 | [1000434-UEcfPD](https://github.com/M3IJI3/leetcode_solution/tree/main/1000434-UEcfPD/) | undefined |
 ## Math
@@ -215,6 +216,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/M3IJI3/leetcode_solution/tree/main/2130-maximum-product-of-the-length-of-two-palindromic-subsequences/) | undefined |
 | [2482-maximum-rows-covered-by-columns](https://github.com/M3IJI3/leetcode_solution/tree/main/2482-maximum-rows-covered-by-columns/) | undefined |
 | [3217-number-of-possible-sets-of-closing-branches](https://github.com/M3IJI3/leetcode_solution/tree/main/3217-number-of-possible-sets-of-closing-branches/) | undefined |
+| [3649-minimum-time-to-break-locks-i](https://github.com/M3IJI3/leetcode_solution/tree/main/3649-minimum-time-to-break-locks-i/) | undefined |
 | [1000434-UEcfPD](https://github.com/M3IJI3/leetcode_solution/tree/main/1000434-UEcfPD/) | undefined |
 ## Simulation
 | Problem Name | Difficulty |
@@ -242,6 +244,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/M3IJI3/leetcode_solution/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/M3IJI3/leetcode_solution/tree/main/2130-maximum-product-of-the-length-of-two-palindromic-subsequences/) | undefined |
 | [2696-the-number-of-beautiful-subsets](https://github.com/M3IJI3/leetcode_solution/tree/main/2696-the-number-of-beautiful-subsets/) | undefined |
+| [3649-minimum-time-to-break-locks-i](https://github.com/M3IJI3/leetcode_solution/tree/main/3649-minimum-time-to-break-locks-i/) | undefined |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -290,6 +293,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [0100-same-tree](https://github.com/M3IJI3/leetcode_solution/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/M3IJI3/leetcode_solution/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/M3IJI3/leetcode_solution/tree/master/0104-maximum-depth-of-binary-tree) |
+| [3649-minimum-time-to-break-locks-i](https://github.com/M3IJI3/leetcode_solution/tree/main/3649-minimum-time-to-break-locks-i/) | undefined |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -418,6 +422,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [2482-maximum-rows-covered-by-columns](https://github.com/M3IJI3/leetcode_solution/tree/main/2482-maximum-rows-covered-by-columns/) | undefined |
 | [2696-the-number-of-beautiful-subsets](https://github.com/M3IJI3/leetcode_solution/tree/main/2696-the-number-of-beautiful-subsets/) | undefined |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/M3IJI3/leetcode_solution/tree/main/2802-find-the-punishment-number-of-an-integer/) | undefined |
+| [3649-minimum-time-to-break-locks-i](https://github.com/M3IJI3/leetcode_solution/tree/main/3649-minimum-time-to-break-locks-i/) | undefined |
 | [4071-word-squares-ii](https://github.com/M3IJI3/leetcode_solution/tree/main/4071-word-squares-ii/) | undefined |
 | [1000434-UEcfPD](https://github.com/M3IJI3/leetcode_solution/tree/main/1000434-UEcfPD/) | undefined |
 ## Enumeration
@@ -434,6 +439,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | ------- | ------- |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/M3IJI3/leetcode_solution/tree/main/1381-maximum-score-words-formed-by-letters/) | undefined |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/M3IJI3/leetcode_solution/tree/main/2130-maximum-product-of-the-length-of-two-palindromic-subsequences/) | undefined |
+| [3649-minimum-time-to-break-locks-i](https://github.com/M3IJI3/leetcode_solution/tree/main/3649-minimum-time-to-break-locks-i/) | undefined |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
