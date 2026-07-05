@@ -1,11 +1,9 @@
 class Solution {
     vector<vector<string>> ans;
-    vector<bool> visited;
 public:
     vector<vector<string>> wordSquares(vector<string>& words) {
         int n = words.size();
         ranges::sort(words);
-        visited = vector<bool>(n, false);
         vector<string> path;
         dfs(words, path);
         return ans;
@@ -21,13 +19,14 @@ public:
         }
 
         for(int i = 0 ; i < words.size() ; i++){
-            if(visited[i]) continue;
-
-            visited[i] = true;
+            if(words[i] == "#") continue;
+            string rec = words[i];
             path.push_back(words[i]);
+            words[i] = "#";
             dfs(words, path);
+            words[i] = rec;
             path.pop_back();
-            visited[i] = false;
+
         }
 
     }
