@@ -13,14 +13,17 @@ public:
                 string ip = "";
                 for(int i = 0 ; i < path.size() ; i++){
                     if(i == 0) ip.append(path[i]);
-                    else ip.append(string('.' + path[i]));
+                    else ip.append(string(".") + path[i]);
                 }
                 ans.push_back(ip);
             }
             return;
         }
 
-        if(path.size() + (s.size() - index) < 4) return;
+        // 剪枝: 剩下的数字每个一位, 也不够
+        int remain = s.size() - index;
+        if(path.size() + remain < 4) return;
+        if(path.size() == 4) return;
 
         for(int i = index ; i < s.size() ; i++){
             string sub = s.substr(index, i - index + 1);
