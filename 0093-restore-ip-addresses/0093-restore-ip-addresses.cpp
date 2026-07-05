@@ -20,6 +20,9 @@ public:
             return;
         }
 
+        int remain = s.size() - index;
+        if(remain > 0 && path.size() == 4) return;
+
         for(int i = 1 ; i <= 3 && i + index <= s.size() ; i++){
             string sub = s.substr(index, i);
             if(sub.size() > 1 && sub[0] == '0') break;
