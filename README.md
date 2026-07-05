@@ -41,6 +41,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [0238-product-of-array-except-self](https://github.com/M3IJI3/leetcode_solution/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/M3IJI3/leetcode_solution/tree/master/0274-h-index) |
 | [0413-arithmetic-slices](https://github.com/M3IJI3/leetcode_solution/tree/master/0413-arithmetic-slices) |
+| [0560-subarray-sum-equals-k](https://github.com/M3IJI3/leetcode_solution/tree/main/0560-subarray-sum-equals-k/) | undefined |
 | [0594-longest-harmonious-subsequence](https://github.com/M3IJI3/leetcode_solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/M3IJI3/leetcode_solution/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/M3IJI3/leetcode_solution/tree/master/0658-find-k-closest-elements) |
@@ -99,6 +100,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/M3IJI3/leetcode_solution/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/M3IJI3/leetcode_solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/M3IJI3/leetcode_solution/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0560-subarray-sum-equals-k](https://github.com/M3IJI3/leetcode_solution/tree/main/0560-subarray-sum-equals-k/) | undefined |
 | [0594-longest-harmonious-subsequence](https://github.com/M3IJI3/leetcode_solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0966-binary-subarrays-with-sum](https://github.com/M3IJI3/leetcode_solution/tree/master/0966-binary-subarrays-with-sum) |
 | [1261-swap-for-longest-repeated-character-substring](https://github.com/M3IJI3/leetcode_solution/tree/master/1261-swap-for-longest-repeated-character-substring) |
@@ -333,6 +335,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/M3IJI3/leetcode_solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/M3IJI3/leetcode_solution/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/M3IJI3/leetcode_solution/tree/main/0560-subarray-sum-equals-k/) | undefined |
 | [0713-subarray-product-less-than-k](https://github.com/M3IJI3/leetcode_solution/tree/master/0713-subarray-product-less-than-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/M3IJI3/leetcode_solution/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/M3IJI3/leetcode_solution/tree/master/1046-max-consecutive-ones-iii) |
