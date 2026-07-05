@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.cn/problems/minimum-time-to-break-locks-i">3649. undefined</a></h2><h3>undefined</h3><hr>undefined
