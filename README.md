@@ -29,6 +29,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/M3IJI3/leetcode_solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/M3IJI3/leetcode_solution/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/M3IJI3/leetcode_solution/tree/master/0135-candy) |
+| [0140-word-break-ii](https://github.com/M3IJI3/leetcode_solution/tree/main/0140-word-break-ii/) | undefined |
 | [0152-maximum-product-subarray](https://github.com/M3IJI3/leetcode_solution/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/M3IJI3/leetcode_solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/M3IJI3/leetcode_solution/tree/master/0169-majority-element) |
@@ -83,6 +84,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [0013-roman-to-integer](https://github.com/M3IJI3/leetcode_solution/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/M3IJI3/leetcode_solution/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/M3IJI3/leetcode_solution/tree/master/0036-valid-sudoku) |
+| [0140-word-break-ii](https://github.com/M3IJI3/leetcode_solution/tree/main/0140-word-break-ii/) | undefined |
 | [0169-majority-element](https://github.com/M3IJI3/leetcode_solution/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/M3IJI3/leetcode_solution/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/M3IJI3/leetcode_solution/tree/master/0205-isomorphic-strings) |
@@ -123,6 +125,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [0093-restore-ip-addresses](https://github.com/M3IJI3/leetcode_solution/tree/main/0093-restore-ip-addresses/) | undefined |
 | [0125-valid-palindrome](https://github.com/M3IJI3/leetcode_solution/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/M3IJI3/leetcode_solution/tree/main/0131-palindrome-partitioning/) | undefined |
+| [0140-word-break-ii](https://github.com/M3IJI3/leetcode_solution/tree/main/0140-word-break-ii/) | undefined |
 | [0151-reverse-words-in-a-string](https://github.com/M3IJI3/leetcode_solution/tree/master/0151-reverse-words-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/M3IJI3/leetcode_solution/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/M3IJI3/leetcode_solution/tree/master/0205-isomorphic-strings) |
@@ -226,6 +229,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/M3IJI3/leetcode_solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/M3IJI3/leetcode_solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/M3IJI3/leetcode_solution/tree/main/0131-palindrome-partitioning/) | undefined |
+| [0140-word-break-ii](https://github.com/M3IJI3/leetcode_solution/tree/main/0140-word-break-ii/) | undefined |
 | [0152-maximum-product-subarray](https://github.com/M3IJI3/leetcode_solution/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/M3IJI3/leetcode_solution/tree/master/0392-is-subsequence) |
 | [0413-arithmetic-slices](https://github.com/M3IJI3/leetcode_solution/tree/master/0413-arithmetic-slices) |
@@ -239,6 +243,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/M3IJI3/leetcode_solution/tree/master/0070-climbing-stairs) |
+| [0140-word-break-ii](https://github.com/M3IJI3/leetcode_solution/tree/main/0140-word-break-ii/) | undefined |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -334,6 +339,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/M3IJI3/leetcode_solution/tree/master/0014-longest-common-prefix) |
+| [0140-word-break-ii](https://github.com/M3IJI3/leetcode_solution/tree/main/0140-word-break-ii/) | undefined |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -397,6 +403,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [0039-combination-sum](https://github.com/M3IJI3/leetcode_solution/tree/main/0039-combination-sum/) | undefined |
 | [0093-restore-ip-addresses](https://github.com/M3IJI3/leetcode_solution/tree/main/0093-restore-ip-addresses/) | undefined |
 | [0131-palindrome-partitioning](https://github.com/M3IJI3/leetcode_solution/tree/main/0131-palindrome-partitioning/) | undefined |
+| [0140-word-break-ii](https://github.com/M3IJI3/leetcode_solution/tree/main/0140-word-break-ii/) | undefined |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/M3IJI3/leetcode_solution/tree/main/1360-maximum-length-of-a-concatenated-string-with-unique-characters/) | undefined |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/M3IJI3/leetcode_solution/tree/main/1381-maximum-score-words-formed-by-letters/) | undefined |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/M3IJI3/leetcode_solution/tree/main/1715-split-a-string-into-the-max-number-of-unique-substrings/) | undefined |
