@@ -3,33 +3,31 @@ public:
     int numIslands(vector<vector<char>>& grid) {
         int m = grid.size(), n = grid[0].size();
         int islands = 0;
-        
-        for(int i = 0; i < m; i++) {
-            for(int j = 0; j < n; j++) {
-                if(grid[i][j] == '1') {
+        int dirs[4][2] = {{1, 0}, {0, 1}, {-1, 0}, {0, -1}};
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
+                if (grid[i][j] == '1') {
                     islands++;
-                    dfs(grid, i, j);
+
+                    queue<pair<int, int>> q;
+                    q.push({i, j});
+                    grid[i][j] = '0';
+
+                    while (!q.empty()) {
+                        auto [x, y] = q.front(); q.pop();
+                        for (auto& d : dirs) {
+                            int nx = x + d[0], ny = y + d[1];
+                            if (nx < 0 || nx >= m || ny < 0 || ny >= n)
+                                continue;
+                            if (grid[nx][ny] == '1') {
+                                grid[nx][ny] = '0';
+                                q.push({nx, ny});
+                            }
+                        }
+                    }
                 }
             }
         }
         return islands;
-    }
-    
-    void dfs(vector<vector<char>>& grid, int i, int j) {
-        int m = grid.size(), n = grid[0].size();
-        
-        // 边界检查 + 遇到水就返回
-        if(i < 0 || i >= m || j < 0 || j >= n || grid[i][j] == '0') {
-            return;
-        }
-        
-        // 标记为已访问（淹没）
-        grid[i][j] = '0';
-        
-        // 四个方向递归
-        dfs(grid, i + 1, j);
-        dfs(grid, i - 1, j);
-        dfs(grid, i, j + 1);
-        dfs(grid, i, j - 1);
     }
 };
