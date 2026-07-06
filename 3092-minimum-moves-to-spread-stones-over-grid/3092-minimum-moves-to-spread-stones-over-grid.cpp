@@ -27,7 +27,7 @@ public:
         if(index == from.size()){
             int distance = 0;
             for(int i = 0 ; i < path.size() ; i++){
-                distance += abs(from[i].first - to[i].first) + abs(from[i].second - to[i].second);
+                distance += abs(path[i].first - to[i].first) + abs(path[i].second - to[i].second);
             }
             ans = min(ans, distance);
             return;
