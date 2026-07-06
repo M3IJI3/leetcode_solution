@@ -13,7 +13,7 @@ public:
         }
 
         dfs(s, left, right, 0);
-        return ans;
+        return ans;   
     }
 
     void dfs(string& s, int left, int right, int start){
@@ -25,7 +25,7 @@ public:
         }
 
         for(int i = start ; i < s.size() ; i++){
-            if(i > start && s[i] == s[i - 1]) continue;
+            if(i > start && s[i] == s[i-1]) continue;
 
             if(s[i] == '(' && left > 0){
                 string next = s.substr(0, i) + s.substr(i + 1);
