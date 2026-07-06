@@ -19,17 +19,17 @@ public:
 
         used = vector<bool>(n, false);
         vector<pair<int, int>> path;
-        dfs(0, path);
+        dfs(path, 0);
         return ans;
-    }
+    }   
 
-    void dfs(int index, vector<pair<int, int>>& path){
+    void dfs(vector<pair<int, int>>& path, int index){
         if(index == from.size()){
-            int total = 0;
+            int distance = 0;
             for(int i = 0 ; i < path.size() ; i++){
-                total += abs(path[i].first - to[i].first) + abs(path[i].second - to[i].second);
+                distance += abs(from[i].first - to[i].first) + abs(from[i].second - to[i].second);
             }
-            ans = min(ans, total);
+            ans = min(ans, distance);
             return;
         }
 
@@ -37,7 +37,7 @@ public:
             if(used[i]) continue;
             used[i] = true;
             path.push_back(from[i]);
-            dfs(index + 1, path);
+            dfs(path, index + 1);
             path.pop_back();
             used[i] = false;
         }
