@@ -7,14 +7,23 @@ public:
         return ans;
     }
 
-    void dfs(string path, int left, int right){
+    void dfs(string& path, int left, int right){
         if(!left && !right){
             ans.push_back(path);
         }
 
         if(left > right) return;
 
-        if(left > 0) dfs(path + '(', left - 1, right);
-        if(right > 0) dfs(path + ')', left, right - 1);
+        if(left > 0){
+            path.push_back('(');
+            dfs(path, left - 1, right);
+            path.pop_back();
+        }
+
+        if(right > 0){
+            path.push_back(')');
+            dfs(path, left, right - 1);
+            path.pop_back();
+        }
     }
 };
