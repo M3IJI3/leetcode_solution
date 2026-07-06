@@ -36,6 +36,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/M3IJI3/leetcode_solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/M3IJI3/leetcode_solution/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/M3IJI3/leetcode_solution/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/M3IJI3/leetcode_solution/tree/main/0200-number-of-islands/) | undefined |
 | [0209-minimum-size-subarray-sum](https://github.com/M3IJI3/leetcode_solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0216-combination-sum-iii](https://github.com/M3IJI3/leetcode_solution/tree/main/0216-combination-sum-iii/) | undefined |
 | [0219-contains-duplicate-ii](https://github.com/M3IJI3/leetcode_solution/tree/master/0219-contains-duplicate-ii) |
@@ -292,6 +293,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [0100-same-tree](https://github.com/M3IJI3/leetcode_solution/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/M3IJI3/leetcode_solution/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/M3IJI3/leetcode_solution/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/M3IJI3/leetcode_solution/tree/main/0200-number-of-islands/) | undefined |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -306,6 +308,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [0100-same-tree](https://github.com/M3IJI3/leetcode_solution/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/M3IJI3/leetcode_solution/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/M3IJI3/leetcode_solution/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/M3IJI3/leetcode_solution/tree/main/0200-number-of-islands/) | undefined |
 | [0301-remove-invalid-parentheses](https://github.com/M3IJI3/leetcode_solution/tree/main/0301-remove-invalid-parentheses/) | undefined |
 | [3649-minimum-time-to-break-locks-i](https://github.com/M3IJI3/leetcode_solution/tree/main/3649-minimum-time-to-break-locks-i/) | undefined |
 ## Divide and Conquer
@@ -418,6 +421,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/M3IJI3/leetcode_solution/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/M3IJI3/leetcode_solution/tree/master/0054-spiral-matrix) |
+| [0200-number-of-islands](https://github.com/M3IJI3/leetcode_solution/tree/main/0200-number-of-islands/) | undefined |
 | [1234-number-of-paths-with-max-score](https://github.com/M3IJI3/leetcode_solution/tree/main/1234-number-of-paths-with-max-score/) | undefined |
 | [2482-maximum-rows-covered-by-columns](https://github.com/M3IJI3/leetcode_solution/tree/main/2482-maximum-rows-covered-by-columns/) | undefined |
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/M3IJI3/leetcode_solution/tree/main/3092-minimum-moves-to-spread-stones-over-grid/) | undefined |
@@ -484,4 +488,8 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1211-iterator-for-combination](https://github.com/M3IJI3/leetcode_solution/tree/main/1211-iterator-for-combination/) | undefined |
+## Union Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/M3IJI3/leetcode_solution/tree/main/0200-number-of-islands/) | undefined |
 <!---LeetCode Topics End-->
