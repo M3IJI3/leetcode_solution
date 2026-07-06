@@ -1,29 +1,31 @@
-// 1 ~ 9里面选k个数, 加起来等于n
-// 每个数只能用一次
 class Solution {
+    vector<vector<int>> ans;
+    vector<bool> used;
 public:
     vector<vector<int>> combinationSum3(int k, int n) {
-        vector<int> nums;
-        for(int i = 1 ; i <= 9 ; i++){
-            nums.push_back(i);
-        }
-
-        vector<vector<int>> result;
+        used = vector<bool>(10, false);
         vector<int> path;
-        backtrack(nums, result, path, k, n, 0);
-        return result;
+        dfs(n, k, 0, path, 1);
+        return ans;
     }
 
-    void backtrack(const vector<int>& nums, vector<vector<int>>& result, vector<int>& path, int k , int n, int start){
-        if(n == 0 && path.size() == k){
-            result.push_back(path);
+    void dfs(int n, int k, int sum, vector<int>& path, int index){
+        if(path.size() == k){
+            if(sum == n){
+                ans.push_back(path);
+            }
             return;
         }
 
-        for(int i = start ; i < nums.size() ; i++){
-            path.push_back(nums[i]);
-            backtrack(nums, result, path, k, n - nums[i], i + 1);
+        if(sum > n) return;
+
+        for(int i = index ; i <= 9 ; i++){
+            if(used[i]) continue;
+            used[i] = true;
+            path.push_back(i);
+            dfs(n, k, sum + i, path, i + 1);
             path.pop_back();
+            used[i] = false;
         }
     }
 };
