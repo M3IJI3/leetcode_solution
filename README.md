@@ -49,6 +49,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [0966-binary-subarrays-with-sum](https://github.com/M3IJI3/leetcode_solution/tree/master/0966-binary-subarrays-with-sum) |
 | [1020-longest-turbulent-subarray](https://github.com/M3IJI3/leetcode_solution/tree/master/1020-longest-turbulent-subarray) |
 | [1046-max-consecutive-ones-iii](https://github.com/M3IJI3/leetcode_solution/tree/master/1046-max-consecutive-ones-iii) |
+| [1222-remove-covered-intervals](https://github.com/M3IJI3/leetcode_solution/tree/main/1222-remove-covered-intervals/) | undefined |
 | [1234-number-of-paths-with-max-score](https://github.com/M3IJI3/leetcode_solution/tree/main/1234-number-of-paths-with-max-score/) | undefined |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/M3IJI3/leetcode_solution/tree/main/1360-maximum-length-of-a-concatenated-string-with-unique-characters/) | undefined |
 | [1370-count-number-of-nice-subarrays](https://github.com/M3IJI3/leetcode_solution/tree/master/1370-count-number-of-nice-subarrays) |
@@ -263,6 +264,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [0274-h-index](https://github.com/M3IJI3/leetcode_solution/tree/master/0274-h-index) |
 | [0594-longest-harmonious-subsequence](https://github.com/M3IJI3/leetcode_solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/M3IJI3/leetcode_solution/tree/master/0658-find-k-closest-elements) |
+| [1222-remove-covered-intervals](https://github.com/M3IJI3/leetcode_solution/tree/main/1222-remove-covered-intervals/) | undefined |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/M3IJI3/leetcode_solution/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/M3IJI3/leetcode_solution/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/M3IJI3/leetcode_solution/tree/main/2696-the-number-of-beautiful-subsets/) | undefined |
