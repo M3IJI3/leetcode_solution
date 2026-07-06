@@ -65,6 +65,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [2482-maximum-rows-covered-by-columns](https://github.com/M3IJI3/leetcode_solution/tree/main/2482-maximum-rows-covered-by-columns/) | undefined |
 | [2696-the-number-of-beautiful-subsets](https://github.com/M3IJI3/leetcode_solution/tree/main/2696-the-number-of-beautiful-subsets/) | undefined |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/M3IJI3/leetcode_solution/tree/master/2866-longest-even-odd-subarray-with-threshold) |
+| [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/M3IJI3/leetcode_solution/tree/main/3092-minimum-moves-to-spread-stones-over-grid/) | undefined |
 | [3649-minimum-time-to-break-locks-i](https://github.com/M3IJI3/leetcode_solution/tree/main/3649-minimum-time-to-break-locks-i/) | undefined |
 | [4071-word-squares-ii](https://github.com/M3IJI3/leetcode_solution/tree/main/4071-word-squares-ii/) | undefined |
 | [1000434-UEcfPD](https://github.com/M3IJI3/leetcode_solution/tree/main/1000434-UEcfPD/) | undefined |
@@ -223,6 +224,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [1873-longest-nice-substring](https://github.com/M3IJI3/leetcode_solution/tree/master/1873-longest-nice-substring) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/M3IJI3/leetcode_solution/tree/main/2130-maximum-product-of-the-length-of-two-palindromic-subsequences/) | undefined |
 | [2482-maximum-rows-covered-by-columns](https://github.com/M3IJI3/leetcode_solution/tree/main/2482-maximum-rows-covered-by-columns/) | undefined |
+| [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/M3IJI3/leetcode_solution/tree/main/3092-minimum-moves-to-spread-stones-over-grid/) | undefined |
 | [3217-number-of-possible-sets-of-closing-branches](https://github.com/M3IJI3/leetcode_solution/tree/main/3217-number-of-possible-sets-of-closing-branches/) | undefined |
 | [3649-minimum-time-to-break-locks-i](https://github.com/M3IJI3/leetcode_solution/tree/main/3649-minimum-time-to-break-locks-i/) | undefined |
 | [1000434-UEcfPD](https://github.com/M3IJI3/leetcode_solution/tree/main/1000434-UEcfPD/) | undefined |
@@ -253,6 +255,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/M3IJI3/leetcode_solution/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/M3IJI3/leetcode_solution/tree/main/2130-maximum-product-of-the-length-of-two-palindromic-subsequences/) | undefined |
 | [2696-the-number-of-beautiful-subsets](https://github.com/M3IJI3/leetcode_solution/tree/main/2696-the-number-of-beautiful-subsets/) | undefined |
+| [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/M3IJI3/leetcode_solution/tree/main/3092-minimum-moves-to-spread-stones-over-grid/) | undefined |
 | [3649-minimum-time-to-break-locks-i](https://github.com/M3IJI3/leetcode_solution/tree/main/3649-minimum-time-to-break-locks-i/) | undefined |
 ## Memoization
 | Problem Name | Difficulty |
@@ -417,6 +420,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [0054-spiral-matrix](https://github.com/M3IJI3/leetcode_solution/tree/master/0054-spiral-matrix) |
 | [1234-number-of-paths-with-max-score](https://github.com/M3IJI3/leetcode_solution/tree/main/1234-number-of-paths-with-max-score/) | undefined |
 | [2482-maximum-rows-covered-by-columns](https://github.com/M3IJI3/leetcode_solution/tree/main/2482-maximum-rows-covered-by-columns/) | undefined |
+| [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/M3IJI3/leetcode_solution/tree/main/3092-minimum-moves-to-spread-stones-over-grid/) | undefined |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -440,6 +444,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [2482-maximum-rows-covered-by-columns](https://github.com/M3IJI3/leetcode_solution/tree/main/2482-maximum-rows-covered-by-columns/) | undefined |
 | [2696-the-number-of-beautiful-subsets](https://github.com/M3IJI3/leetcode_solution/tree/main/2696-the-number-of-beautiful-subsets/) | undefined |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/M3IJI3/leetcode_solution/tree/main/2802-find-the-punishment-number-of-an-integer/) | undefined |
+| [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/M3IJI3/leetcode_solution/tree/main/3092-minimum-moves-to-spread-stones-over-grid/) | undefined |
 | [3649-minimum-time-to-break-locks-i](https://github.com/M3IJI3/leetcode_solution/tree/main/3649-minimum-time-to-break-locks-i/) | undefined |
 | [4071-word-squares-ii](https://github.com/M3IJI3/leetcode_solution/tree/main/4071-word-squares-ii/) | undefined |
 | [1000434-UEcfPD](https://github.com/M3IJI3/leetcode_solution/tree/main/1000434-UEcfPD/) | undefined |
@@ -457,6 +462,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | ------- | ------- |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/M3IJI3/leetcode_solution/tree/main/1381-maximum-score-words-formed-by-letters/) | undefined |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/M3IJI3/leetcode_solution/tree/main/2130-maximum-product-of-the-length-of-two-palindromic-subsequences/) | undefined |
+| [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/M3IJI3/leetcode_solution/tree/main/3092-minimum-moves-to-spread-stones-over-grid/) | undefined |
 | [3649-minimum-time-to-break-locks-i](https://github.com/M3IJI3/leetcode_solution/tree/main/3649-minimum-time-to-break-locks-i/) | undefined |
 ## Combinatorics
 | Problem Name | Difficulty |
