@@ -69,6 +69,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/M3IJI3/leetcode_solution/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/M3IJI3/leetcode_solution/tree/main/3092-minimum-moves-to-spread-stones-over-grid/) | undefined |
 | [3649-minimum-time-to-break-locks-i](https://github.com/M3IJI3/leetcode_solution/tree/main/3649-minimum-time-to-break-locks-i/) | undefined |
+| [3823-count-islands-with-total-value-divisible-by-k](https://github.com/M3IJI3/leetcode_solution/tree/main/3823-count-islands-with-total-value-divisible-by-k/) | undefined |
 | [4071-word-squares-ii](https://github.com/M3IJI3/leetcode_solution/tree/main/4071-word-squares-ii/) | undefined |
 | [1000434-UEcfPD](https://github.com/M3IJI3/leetcode_solution/tree/main/1000434-UEcfPD/) | undefined |
 ## Math
@@ -296,6 +297,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [0104-maximum-depth-of-binary-tree](https://github.com/M3IJI3/leetcode_solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/M3IJI3/leetcode_solution/tree/main/0200-number-of-islands/) | undefined |
 | [0695-max-area-of-island](https://github.com/M3IJI3/leetcode_solution/tree/main/0695-max-area-of-island/) | undefined |
+| [3823-count-islands-with-total-value-divisible-by-k](https://github.com/M3IJI3/leetcode_solution/tree/main/3823-count-islands-with-total-value-divisible-by-k/) | undefined |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -314,6 +316,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [0301-remove-invalid-parentheses](https://github.com/M3IJI3/leetcode_solution/tree/main/0301-remove-invalid-parentheses/) | undefined |
 | [0695-max-area-of-island](https://github.com/M3IJI3/leetcode_solution/tree/main/0695-max-area-of-island/) | undefined |
 | [3649-minimum-time-to-break-locks-i](https://github.com/M3IJI3/leetcode_solution/tree/main/3649-minimum-time-to-break-locks-i/) | undefined |
+| [3823-count-islands-with-total-value-divisible-by-k](https://github.com/M3IJI3/leetcode_solution/tree/main/3823-count-islands-with-total-value-divisible-by-k/) | undefined |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -429,6 +432,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [1234-number-of-paths-with-max-score](https://github.com/M3IJI3/leetcode_solution/tree/main/1234-number-of-paths-with-max-score/) | undefined |
 | [2482-maximum-rows-covered-by-columns](https://github.com/M3IJI3/leetcode_solution/tree/main/2482-maximum-rows-covered-by-columns/) | undefined |
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/M3IJI3/leetcode_solution/tree/main/3092-minimum-moves-to-spread-stones-over-grid/) | undefined |
+| [3823-count-islands-with-total-value-divisible-by-k](https://github.com/M3IJI3/leetcode_solution/tree/main/3823-count-islands-with-total-value-divisible-by-k/) | undefined |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -497,4 +501,5 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/M3IJI3/leetcode_solution/tree/main/0200-number-of-islands/) | undefined |
 | [0695-max-area-of-island](https://github.com/M3IJI3/leetcode_solution/tree/main/0695-max-area-of-island/) | undefined |
+| [3823-count-islands-with-total-value-divisible-by-k](https://github.com/M3IJI3/leetcode_solution/tree/main/3823-count-islands-with-total-value-divisible-by-k/) | undefined |
 <!---LeetCode Topics End-->
