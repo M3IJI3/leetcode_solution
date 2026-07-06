@@ -140,6 +140,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [0205-isomorphic-strings](https://github.com/M3IJI3/leetcode_solution/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/M3IJI3/leetcode_solution/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/M3IJI3/leetcode_solution/tree/master/0290-word-pattern) |
+| [0301-remove-invalid-parentheses](https://github.com/M3IJI3/leetcode_solution/tree/main/0301-remove-invalid-parentheses/) | undefined |
 | [0383-ransom-note](https://github.com/M3IJI3/leetcode_solution/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/M3IJI3/leetcode_solution/tree/master/0392-is-subsequence) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/M3IJI3/leetcode_solution/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -302,6 +303,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [0100-same-tree](https://github.com/M3IJI3/leetcode_solution/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/M3IJI3/leetcode_solution/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/M3IJI3/leetcode_solution/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/M3IJI3/leetcode_solution/tree/main/0301-remove-invalid-parentheses/) | undefined |
 | [3649-minimum-time-to-break-locks-i](https://github.com/M3IJI3/leetcode_solution/tree/main/3649-minimum-time-to-break-locks-i/) | undefined |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -427,6 +429,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [0131-palindrome-partitioning](https://github.com/M3IJI3/leetcode_solution/tree/main/0131-palindrome-partitioning/) | undefined |
 | [0140-word-break-ii](https://github.com/M3IJI3/leetcode_solution/tree/main/0140-word-break-ii/) | undefined |
 | [0216-combination-sum-iii](https://github.com/M3IJI3/leetcode_solution/tree/main/0216-combination-sum-iii/) | undefined |
+| [0301-remove-invalid-parentheses](https://github.com/M3IJI3/leetcode_solution/tree/main/0301-remove-invalid-parentheses/) | undefined |
 | [1211-iterator-for-combination](https://github.com/M3IJI3/leetcode_solution/tree/main/1211-iterator-for-combination/) | undefined |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/M3IJI3/leetcode_solution/tree/main/1360-maximum-length-of-a-concatenated-string-with-unique-characters/) | undefined |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/M3IJI3/leetcode_solution/tree/main/1381-maximum-score-words-formed-by-letters/) | undefined |
