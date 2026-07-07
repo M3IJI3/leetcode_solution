@@ -87,6 +87,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [1430-find-the-k-beauty-of-a-number](https://github.com/M3IJI3/leetcode_solution/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/M3IJI3/leetcode_solution/tree/main/2696-the-number-of-beautiful-subsets/) | undefined |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/M3IJI3/leetcode_solution/tree/main/2802-find-the-punishment-number-of-an-integer/) | undefined |
+| [4135-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/M3IJI3/leetcode_solution/tree/main/4135-concatenate-non-zero-digits-and-multiply-by-sum-i/) | undefined |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
