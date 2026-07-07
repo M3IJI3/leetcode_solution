@@ -20,6 +20,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [0045-jump-game-ii](https://github.com/M3IJI3/leetcode_solution/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/M3IJI3/leetcode_solution/tree/main/0046-permutations/) | undefined |
 | [0051-n-queens](https://github.com/M3IJI3/leetcode_solution/tree/main/0051-n-queens/) | undefined |
+| [0053-maximum-subarray](https://github.com/M3IJI3/leetcode_solution/tree/main/0053-maximum-subarray/) | undefined |
 | [0054-spiral-matrix](https://github.com/M3IJI3/leetcode_solution/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/M3IJI3/leetcode_solution/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/M3IJI3/leetcode_solution/tree/master/0066-plus-one) |
@@ -257,6 +258,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [0022-generate-parentheses](https://github.com/M3IJI3/leetcode_solution/tree/main/0022-generate-parentheses/) | undefined |
 | [0042-trapping-rain-water](https://github.com/M3IJI3/leetcode_solution/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/M3IJI3/leetcode_solution/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/M3IJI3/leetcode_solution/tree/main/0053-maximum-subarray/) | undefined |
 | [0055-jump-game](https://github.com/M3IJI3/leetcode_solution/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/M3IJI3/leetcode_solution/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/M3IJI3/leetcode_solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -345,6 +347,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/M3IJI3/leetcode_solution/tree/main/0053-maximum-subarray/) | undefined |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/M3IJI3/leetcode_solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/M3IJI3/leetcode_solution/tree/master/0169-majority-element) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/M3IJI3/leetcode_solution/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
