@@ -1,50 +1,51 @@
 class Solution {
-    int m, n;
-    int dirs[4][2] = {{1,0},{-1,0},{0,1},{0,-1}};
-    
 public:
     int largestArea(vector<string>& grid) {
-        this->m = grid.size();
-        this->n = grid[0].size();
-        
+        int m = grid.size(), n = grid[0].size();
+        int dirs[4][2] = {{1,0},{-1,0},{0,1},{0,-1}};
         int ans = 0;
         
-        for(int i = 0; i < m; i++){
-            for(int j = 0; j < n; j++){
+        // ✅ 预分配全局队列
+        vector<pair<int,int>> q(m * n);
+
+        for(int i = 0 ; i < m ; i++){
+            for(int j = 0 ; j < n ; j++){
                 if(grid[i][j] != '0' && grid[i][j] != '6'){
+                    char target = grid[i][j];
                     int area = 0;
                     bool isValid = true;
-                    
-                    dfs(grid, i, j, grid[i][j], area, isValid);
-                    
-                    if(isValid){
-                        ans = max(ans, area);
+
+                    int head = 0, tail = 0;
+                    q[tail++] = {i, j};
+                    grid[i][j] = '6';
+                    area++;
+
+                    while(head < tail){
+                        auto [x, y] = q[head++];
+
+                        for(auto& d: dirs){
+                            int nx = x + d[0], ny = y + d[1];
+                            if(nx < 0 || nx >= m || ny < 0 || ny >= n){
+                                isValid = false;
+                                continue;
+                            }
+
+                            if(grid[nx][ny] == '0'){
+                                isValid = false;
+                                continue;
+                            }
+
+                            if(grid[nx][ny] == target){
+                                grid[nx][ny] = '6';
+                                area++;
+                                q[tail++] = {nx, ny};
+                            }
+                        }
                     }
+                    if(isValid) ans = max(ans, area);
                 }
             }
         }
         return ans;
-    }
-    
-    void dfs(vector<string>& grid, int x, int y, char target, int& area, bool& isValid){
-        if(x < 0 || x >= m || y < 0 || y >= n){
-            isValid = false;
-            return;
-        }
-        
-        if(grid[x][y] == '0'){
-            isValid = false;
-            return;
-        }
-        
-        if(grid[x][y] != target) return;
-        
-        grid[x][y] = '6';
-        area++;
-        
-        dfs(grid, x+1, y, target, area, isValid);
-        dfs(grid, x-1, y, target, area, isValid);
-        dfs(grid, x, y+1, target, area, isValid);
-        dfs(grid, x, y-1, target, area, isValid);
     }
 };
