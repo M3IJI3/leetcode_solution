@@ -72,6 +72,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/M3IJI3/leetcode_solution/tree/main/3823-count-islands-with-total-value-divisible-by-k/) | undefined |
 | [4071-word-squares-ii](https://github.com/M3IJI3/leetcode_solution/tree/main/4071-word-squares-ii/) | undefined |
 | [1000005-pond-sizes-lcci](https://github.com/M3IJI3/leetcode_solution/tree/main/1000005-pond-sizes-lcci/) | undefined |
+| [1000227-YesdPw](https://github.com/M3IJI3/leetcode_solution/tree/main/1000227-YesdPw/) | undefined |
 | [1000434-UEcfPD](https://github.com/M3IJI3/leetcode_solution/tree/main/1000434-UEcfPD/) | undefined |
 ## Math
 | Problem Name | Difficulty |
@@ -301,6 +302,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [0695-max-area-of-island](https://github.com/M3IJI3/leetcode_solution/tree/main/0695-max-area-of-island/) | undefined |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/M3IJI3/leetcode_solution/tree/main/3823-count-islands-with-total-value-divisible-by-k/) | undefined |
 | [1000005-pond-sizes-lcci](https://github.com/M3IJI3/leetcode_solution/tree/main/1000005-pond-sizes-lcci/) | undefined |
+| [1000227-YesdPw](https://github.com/M3IJI3/leetcode_solution/tree/main/1000227-YesdPw/) | undefined |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -321,6 +323,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [3649-minimum-time-to-break-locks-i](https://github.com/M3IJI3/leetcode_solution/tree/main/3649-minimum-time-to-break-locks-i/) | undefined |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/M3IJI3/leetcode_solution/tree/main/3823-count-islands-with-total-value-divisible-by-k/) | undefined |
 | [1000005-pond-sizes-lcci](https://github.com/M3IJI3/leetcode_solution/tree/main/1000005-pond-sizes-lcci/) | undefined |
+| [1000227-YesdPw](https://github.com/M3IJI3/leetcode_solution/tree/main/1000227-YesdPw/) | undefined |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -438,6 +441,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/M3IJI3/leetcode_solution/tree/main/3092-minimum-moves-to-spread-stones-over-grid/) | undefined |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/M3IJI3/leetcode_solution/tree/main/3823-count-islands-with-total-value-divisible-by-k/) | undefined |
 | [1000005-pond-sizes-lcci](https://github.com/M3IJI3/leetcode_solution/tree/main/1000005-pond-sizes-lcci/) | undefined |
+| [1000227-YesdPw](https://github.com/M3IJI3/leetcode_solution/tree/main/1000227-YesdPw/) | undefined |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -508,4 +512,5 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [0695-max-area-of-island](https://github.com/M3IJI3/leetcode_solution/tree/main/0695-max-area-of-island/) | undefined |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/M3IJI3/leetcode_solution/tree/main/3823-count-islands-with-total-value-divisible-by-k/) | undefined |
 | [1000005-pond-sizes-lcci](https://github.com/M3IJI3/leetcode_solution/tree/main/1000005-pond-sizes-lcci/) | undefined |
+| [1000227-YesdPw](https://github.com/M3IJI3/leetcode_solution/tree/main/1000227-YesdPw/) | undefined |
 <!---LeetCode Topics End-->
