@@ -50,6 +50,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [0413-arithmetic-slices](https://github.com/M3IJI3/leetcode_solution/tree/master/0413-arithmetic-slices) |
 | [0417-pacific-atlantic-water-flow](https://github.com/M3IJI3/leetcode_solution/tree/main/0417-pacific-atlantic-water-flow/) | undefined |
 | [0463-island-perimeter](https://github.com/M3IJI3/leetcode_solution/tree/main/0463-island-perimeter/) | undefined |
+| [0542-01-matrix](https://github.com/M3IJI3/leetcode_solution/tree/main/0542-01-matrix/) | undefined |
 | [0560-subarray-sum-equals-k](https://github.com/M3IJI3/leetcode_solution/tree/main/0560-subarray-sum-equals-k/) | undefined |
 | [0594-longest-harmonious-subsequence](https://github.com/M3IJI3/leetcode_solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/M3IJI3/leetcode_solution/tree/master/0643-maximum-average-subarray-i) |
@@ -277,6 +278,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [0152-maximum-product-subarray](https://github.com/M3IJI3/leetcode_solution/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/M3IJI3/leetcode_solution/tree/master/0392-is-subsequence) |
 | [0413-arithmetic-slices](https://github.com/M3IJI3/leetcode_solution/tree/master/0413-arithmetic-slices) |
+| [0542-01-matrix](https://github.com/M3IJI3/leetcode_solution/tree/main/0542-01-matrix/) | undefined |
 | [1020-longest-turbulent-subarray](https://github.com/M3IJI3/leetcode_solution/tree/master/1020-longest-turbulent-subarray) |
 | [1234-number-of-paths-with-max-score](https://github.com/M3IJI3/leetcode_solution/tree/main/1234-number-of-paths-with-max-score/) | undefined |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/M3IJI3/leetcode_solution/tree/main/1381-maximum-score-words-formed-by-letters/) | undefined |
@@ -353,6 +355,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [0301-remove-invalid-parentheses](https://github.com/M3IJI3/leetcode_solution/tree/main/0301-remove-invalid-parentheses/) | undefined |
 | [0417-pacific-atlantic-water-flow](https://github.com/M3IJI3/leetcode_solution/tree/main/0417-pacific-atlantic-water-flow/) | undefined |
 | [0463-island-perimeter](https://github.com/M3IJI3/leetcode_solution/tree/main/0463-island-perimeter/) | undefined |
+| [0542-01-matrix](https://github.com/M3IJI3/leetcode_solution/tree/main/0542-01-matrix/) | undefined |
 | [0695-max-area-of-island](https://github.com/M3IJI3/leetcode_solution/tree/main/0695-max-area-of-island/) | undefined |
 | [0733-flood-fill](https://github.com/M3IJI3/leetcode_solution/tree/main/0733-flood-fill/) | undefined |
 | [1073-number-of-enclaves](https://github.com/M3IJI3/leetcode_solution/tree/main/1073-number-of-enclaves/) | undefined |
@@ -483,6 +486,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [0200-number-of-islands](https://github.com/M3IJI3/leetcode_solution/tree/main/0200-number-of-islands/) | undefined |
 | [0417-pacific-atlantic-water-flow](https://github.com/M3IJI3/leetcode_solution/tree/main/0417-pacific-atlantic-water-flow/) | undefined |
 | [0463-island-perimeter](https://github.com/M3IJI3/leetcode_solution/tree/main/0463-island-perimeter/) | undefined |
+| [0542-01-matrix](https://github.com/M3IJI3/leetcode_solution/tree/main/0542-01-matrix/) | undefined |
 | [0695-max-area-of-island](https://github.com/M3IJI3/leetcode_solution/tree/main/0695-max-area-of-island/) | undefined |
 | [0733-flood-fill](https://github.com/M3IJI3/leetcode_solution/tree/main/0733-flood-fill/) | undefined |
 | [0928-surface-area-of-3d-shapes](https://github.com/M3IJI3/leetcode_solution/tree/main/0928-surface-area-of-3d-shapes/) | undefined |
