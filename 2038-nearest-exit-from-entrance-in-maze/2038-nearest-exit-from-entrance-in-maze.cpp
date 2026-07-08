@@ -4,26 +4,16 @@ public:
     int nearestExit(vector<vector<char>>& maze, vector<int>& entrance) {
         int m = maze.size(), n = maze[0].size();
         int sx = entrance[0], sy = entrance[1];
+        vector<vector<int>> dist(m, vector<int>(n, -1));
         queue<pair<int, int>> q;
-        vector<vector<int>> dist(m , vector<int>(n, -1));
-        for(int i = 0 ; i < m ; i++){
-            for(int j = 0 ; j < n ; j++){
-                if(i == sx && j == sy) continue;
-                if(i == 0 || i == m - 1 || j == 0 || j == n - 1){
-                    if (maze[i][j] == '.'){
-                        q.push({i, j});
-                        dist[i][j] = 0;
-                    }
-                }
-            }
-        }
-
-        if(q.empty()) return -1;
+        q.push({sx, sy});
+        dist[sx][sy] = 0;
 
         while(!q.empty()){
             auto [x, y] = q.front(); q.pop();
-            if(x == sx && y == sy) return dist[x][y];
-            for(auto& d: dirs){
+            if((x == 0 || x == m - 1 || y == 0 || y == n - 1) && !(x == sx && y == sy)) return dist[x][y];
+            
+            for(auto& d : dirs){
                 int nx = x + d[0], ny = y + d[1];
                 if(nx < 0 || nx >= m || ny < 0 || ny >= n) continue;
                 if(maze[nx][ny] == '+') continue;
