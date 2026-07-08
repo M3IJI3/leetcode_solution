@@ -100,6 +100,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [2696-the-number-of-beautiful-subsets](https://github.com/M3IJI3/leetcode_solution/tree/main/2696-the-number-of-beautiful-subsets/) | undefined |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/M3IJI3/leetcode_solution/tree/main/2802-find-the-punishment-number-of-an-integer/) | undefined |
 | [4135-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/M3IJI3/leetcode_solution/tree/main/4135-concatenate-non-zero-digits-and-multiply-by-sum-i/) | undefined |
+| [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/M3IJI3/leetcode_solution/tree/main/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | undefined |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -182,6 +183,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/M3IJI3/leetcode_solution/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/M3IJI3/leetcode_solution/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [4071-word-squares-ii](https://github.com/M3IJI3/leetcode_solution/tree/main/4071-word-squares-ii/) | undefined |
+| [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/M3IJI3/leetcode_solution/tree/main/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | undefined |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -393,6 +395,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [1370-count-number-of-nice-subarrays](https://github.com/M3IJI3/leetcode_solution/tree/master/1370-count-number-of-nice-subarrays) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/M3IJI3/leetcode_solution/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/M3IJI3/leetcode_solution/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/M3IJI3/leetcode_solution/tree/main/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | undefined |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
