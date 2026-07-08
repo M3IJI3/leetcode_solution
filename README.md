@@ -76,6 +76,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [1755-defuse-the-bomb](https://github.com/M3IJI3/leetcode_solution/tree/master/1755-defuse-the-bomb) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/M3IJI3/leetcode_solution/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1813-maximum-erasure-value](https://github.com/M3IJI3/leetcode_solution/tree/master/1813-maximum-erasure-value) |
+| [1876-map-of-highest-peak](https://github.com/M3IJI3/leetcode_solution/tree/main/1876-map-of-highest-peak/) | undefined |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/M3IJI3/leetcode_solution/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2035-count-sub-islands](https://github.com/M3IJI3/leetcode_solution/tree/main/2035-count-sub-islands/) | undefined |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/M3IJI3/leetcode_solution/tree/main/2038-nearest-exit-from-entrance-in-maze/) | undefined |
@@ -363,6 +364,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [1073-number-of-enclaves](https://github.com/M3IJI3/leetcode_solution/tree/main/1073-number-of-enclaves/) | undefined |
 | [1171-shortest-path-in-binary-matrix](https://github.com/M3IJI3/leetcode_solution/tree/main/1171-shortest-path-in-binary-matrix/) | undefined |
 | [1380-number-of-closed-islands](https://github.com/M3IJI3/leetcode_solution/tree/main/1380-number-of-closed-islands/) | undefined |
+| [1876-map-of-highest-peak](https://github.com/M3IJI3/leetcode_solution/tree/main/1876-map-of-highest-peak/) | undefined |
 | [2035-count-sub-islands](https://github.com/M3IJI3/leetcode_solution/tree/main/2035-count-sub-islands/) | undefined |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/M3IJI3/leetcode_solution/tree/main/2038-nearest-exit-from-entrance-in-maze/) | undefined |
 | [3649-minimum-time-to-break-locks-i](https://github.com/M3IJI3/leetcode_solution/tree/main/3649-minimum-time-to-break-locks-i/) | undefined |
@@ -497,6 +499,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [1171-shortest-path-in-binary-matrix](https://github.com/M3IJI3/leetcode_solution/tree/main/1171-shortest-path-in-binary-matrix/) | undefined |
 | [1234-number-of-paths-with-max-score](https://github.com/M3IJI3/leetcode_solution/tree/main/1234-number-of-paths-with-max-score/) | undefined |
 | [1380-number-of-closed-islands](https://github.com/M3IJI3/leetcode_solution/tree/main/1380-number-of-closed-islands/) | undefined |
+| [1876-map-of-highest-peak](https://github.com/M3IJI3/leetcode_solution/tree/main/1876-map-of-highest-peak/) | undefined |
 | [2035-count-sub-islands](https://github.com/M3IJI3/leetcode_solution/tree/main/2035-count-sub-islands/) | undefined |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/M3IJI3/leetcode_solution/tree/main/2038-nearest-exit-from-entrance-in-maze/) | undefined |
 | [2482-maximum-rows-covered-by-columns](https://github.com/M3IJI3/leetcode_solution/tree/main/2482-maximum-rows-covered-by-columns/) | undefined |
