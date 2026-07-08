@@ -23,7 +23,6 @@ public:
                 int nx = x + d[0], ny = y + d[1];
                 if(nx < 0 || nx >= m || ny < 0 || ny >= n) continue;
                 if(height[nx][ny] != -1) continue;
-                // if(land[nx][ny] ) continue;
                 height[nx][ny] = height[x][y] + 1;
                 q.push({nx, ny});
             }
@@ -31,6 +30,3 @@ public:
         return height;
     }
 };
-
-// 0 1   ->  1 0
-// 0 0       2 1
