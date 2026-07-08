@@ -62,6 +62,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [1020-longest-turbulent-subarray](https://github.com/M3IJI3/leetcode_solution/tree/master/1020-longest-turbulent-subarray) |
 | [1046-max-consecutive-ones-iii](https://github.com/M3IJI3/leetcode_solution/tree/master/1046-max-consecutive-ones-iii) |
 | [1073-number-of-enclaves](https://github.com/M3IJI3/leetcode_solution/tree/main/1073-number-of-enclaves/) | undefined |
+| [1171-shortest-path-in-binary-matrix](https://github.com/M3IJI3/leetcode_solution/tree/main/1171-shortest-path-in-binary-matrix/) | undefined |
 | [1222-remove-covered-intervals](https://github.com/M3IJI3/leetcode_solution/tree/main/1222-remove-covered-intervals/) | undefined |
 | [1234-number-of-paths-with-max-score](https://github.com/M3IJI3/leetcode_solution/tree/main/1234-number-of-paths-with-max-score/) | undefined |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/M3IJI3/leetcode_solution/tree/main/1360-maximum-length-of-a-concatenated-string-with-unique-characters/) | undefined |
@@ -355,6 +356,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [0695-max-area-of-island](https://github.com/M3IJI3/leetcode_solution/tree/main/0695-max-area-of-island/) | undefined |
 | [0733-flood-fill](https://github.com/M3IJI3/leetcode_solution/tree/main/0733-flood-fill/) | undefined |
 | [1073-number-of-enclaves](https://github.com/M3IJI3/leetcode_solution/tree/main/1073-number-of-enclaves/) | undefined |
+| [1171-shortest-path-in-binary-matrix](https://github.com/M3IJI3/leetcode_solution/tree/main/1171-shortest-path-in-binary-matrix/) | undefined |
 | [1380-number-of-closed-islands](https://github.com/M3IJI3/leetcode_solution/tree/main/1380-number-of-closed-islands/) | undefined |
 | [2035-count-sub-islands](https://github.com/M3IJI3/leetcode_solution/tree/main/2035-count-sub-islands/) | undefined |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/M3IJI3/leetcode_solution/tree/main/2038-nearest-exit-from-entrance-in-maze/) | undefined |
@@ -485,6 +487,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [0733-flood-fill](https://github.com/M3IJI3/leetcode_solution/tree/main/0733-flood-fill/) | undefined |
 | [0928-surface-area-of-3d-shapes](https://github.com/M3IJI3/leetcode_solution/tree/main/0928-surface-area-of-3d-shapes/) | undefined |
 | [1073-number-of-enclaves](https://github.com/M3IJI3/leetcode_solution/tree/main/1073-number-of-enclaves/) | undefined |
+| [1171-shortest-path-in-binary-matrix](https://github.com/M3IJI3/leetcode_solution/tree/main/1171-shortest-path-in-binary-matrix/) | undefined |
 | [1234-number-of-paths-with-max-score](https://github.com/M3IJI3/leetcode_solution/tree/main/1234-number-of-paths-with-max-score/) | undefined |
 | [1380-number-of-closed-islands](https://github.com/M3IJI3/leetcode_solution/tree/main/1380-number-of-closed-islands/) | undefined |
 | [2035-count-sub-islands](https://github.com/M3IJI3/leetcode_solution/tree/main/2035-count-sub-islands/) | undefined |
