@@ -11,7 +11,7 @@ public:
                     // dfs
                     dfs(grid, i, j);
                     // bfs
-                    return bfs(grid) - 1;
+                    return bfs(grid);
                 }
             }
         }
@@ -19,7 +19,7 @@ public:
     }
 
     int bfs(vector<vector<int>>& grid){
-        int res = 0;
+        int res = -1;
         while(!q.empty()){
             int size = q.size();
             res++;
@@ -49,9 +49,3 @@ public:
         dfs(grid, x, y - 1);
     }
 };
-// 0 1
-// 1 0
-
-// 0 1 0
-// 0 0 0
-// 0 0 1
