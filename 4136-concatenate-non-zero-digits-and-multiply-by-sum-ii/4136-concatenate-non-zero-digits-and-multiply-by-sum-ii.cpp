@@ -4,21 +4,21 @@ public:
         const int MOD = 1e9+7;
         int n = s.size();
 
-        // 1. 前缀和
-        vector<int> prefixSum(n + 1, 0);
-        for(int i = 0 ; i < n ; i++){
-            prefixSum[i + 1] = prefixSum[i] + (s[i] - '0');
+        // 1. 计算前缀和;
+        vector<int> preSum(n + 1, 0);
+        for(int i = 0 ; i < n; i++){
+            preSum[i + 1] = preSum[i] + (s[i] - '0');
         }
 
-        // 2. 前缀数值 (模 MOD)
-        vector<int> prefixNum(n + 1, 0);
+        // 2. 计算前缀数 (模 MOD)
+        vector<int> preNum(n + 1, 0);
         vector<int> nonZeroCnt(n + 1, 0);
         for(int i = 0 ; i < n ; i++){
             nonZeroCnt[i + 1] = nonZeroCnt[i] + (s[i] != '0');
             if(s[i] == '0'){
-                prefixNum[i + 1] = prefixNum[i];
+                preNum[i + 1] = preNum[i];
             } else {
-                prefixNum[i + 1] = ((long long)prefixNum[i] * 10 + (s[i] - '0')) % MOD;
+                preNum[i + 1] = ((long long)preNum[i] * 10 + (s[i] - '0')) % MOD;
             }
         }
 
@@ -31,11 +31,12 @@ public:
         vector<int> ans;
         for(auto& q : queries){
             int l = q[0], r = q[1];
-            int sum = prefixSum[r + 1] - prefixSum[l];
+            int sum = preSum[r + 1] - preSum[l];
             int cnt = nonZeroCnt[r + 1] - nonZeroCnt[l];
-            long long x = (prefixNum[r + 1] - prefixNum[l] * pow10[cnt] % MOD + MOD) % MOD;
+            long long x = (preNum[r + 1] - preNum[l] * pow10[cnt] % MOD + MOD) % MOD;
             ans.push_back(sum * x % MOD);
         }
         return ans;
+
     }
 };
