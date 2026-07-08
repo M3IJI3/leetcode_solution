@@ -1,33 +1,46 @@
 class Solution {
-    int row, col;
-    vector<vector<int>> dir = {{1,0},{-1,0},{0,1},{0,-1}};
 public:
     void solve(vector<vector<char>>& board) {
-        row = board.size(), col = board[0].size();
-        for(int i = 0 ; i < row ; i++){
-            if(board[i][0] == 'O') dfs(board, i, 0);
-            if(board[i][col - 1] == 'O') dfs(board, i, col - 1);
-        }
+        int m = board.size(), n = board[0].size();
+        int dirs[4][2] = {{1,0}, {0,1}, {-1,0}, {0,-1}};
+        vector<vector<bool>> visited(m, vector<bool>(n, false));
 
-        for(int k = 0 ; k < col ; k++){
-            if(board[0][k] == 'O') dfs(board, 0, k);
-            if(board[row - 1][k] == 'O') dfs(board, row - 1 , k); 
-        }
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
+                if (board[i][j] == 'O' && !visited[i][j]) {
+                    queue<pair<int, int>> q;
+                    vector<pair<int, int>> cells;  // ★ 记录这个岛屿的所有格子
+                    q.push({i, j});
+                    visited[i][j] = true;
+                    bool isClosed = true;
 
-        for(int i = 0 ; i < row ; i++){
-            for(int j = 0 ; j < col ; j++){
-                if(board[i][j] == '#') board[i][j] = 'O';
-                else board[i][j] = 'X';
-            }
-        }
-    }
+                    while (!q.empty()) {
+                        auto [x, y] = q.front(); q.pop();
+                        cells.push_back({x, y});
 
-    void dfs(vector<vector<char>>& board, int x, int y){
-        board[x][y] = '#';
-        for(int i = 0 ; i < dir.size(); i++){
-            int nx = x + dir[i][0], ny = y + dir[i][1];
-            if(nx >= 0 && nx < row && ny >= 0 && ny < col && board[nx][ny] == 'O'){
-                dfs(board, nx, ny);
+                        // ★ 如果碰到边界 → 不是封闭的
+                        if (x == 0 || x == m - 1 || y == 0 || y == n - 1) {
+                            isClosed = false;
+                        }
+
+                        for (auto& d : dirs) {
+                            int nx = x + d[0], ny = y + d[1];
+                            if (nx < 0 || nx >= m || ny < 0 || ny >= n) continue;
+                            if (visited[nx][ny]) continue;  // ★ 用 nx, ny
+                            if (board[nx][ny] == 'O') {
+                                visited[nx][ny] = true;
+                                q.push({nx, ny});
+                            }
+                        }
+                    }
+
+                    // ★ 如果封闭，把所有格子变成 'X'
+                    if (isClosed) {
+                        for (auto& [x, y] : cells) {
+                            board[x][y] = 'X';
+                        }
+                    }
+                }
             }
         }
     }
