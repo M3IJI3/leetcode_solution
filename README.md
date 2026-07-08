@@ -26,6 +26,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [0056-merge-intervals](https://github.com/M3IJI3/leetcode_solution/tree/main/0056-merge-intervals/) | undefined |
 | [0066-plus-one](https://github.com/M3IJI3/leetcode_solution/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/M3IJI3/leetcode_solution/tree/master/0068-text-justification) |
+| [0073-set-matrix-zeroes](https://github.com/M3IJI3/leetcode_solution/tree/main/0073-set-matrix-zeroes/) | undefined |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/M3IJI3/leetcode_solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/M3IJI3/leetcode_solution/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/M3IJI3/leetcode_solution/tree/main/0090-subsets-ii/) | undefined |
@@ -119,6 +120,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [0013-roman-to-integer](https://github.com/M3IJI3/leetcode_solution/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/M3IJI3/leetcode_solution/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/M3IJI3/leetcode_solution/tree/master/0036-valid-sudoku) |
+| [0073-set-matrix-zeroes](https://github.com/M3IJI3/leetcode_solution/tree/main/0073-set-matrix-zeroes/) | undefined |
 | [0076-minimum-window-substring](https://github.com/M3IJI3/leetcode_solution/tree/main/0076-minimum-window-substring/) | undefined |
 | [0140-word-break-ii](https://github.com/M3IJI3/leetcode_solution/tree/main/0140-word-break-ii/) | undefined |
 | [0169-majority-element](https://github.com/M3IJI3/leetcode_solution/tree/master/0169-majority-element) |
@@ -489,6 +491,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/M3IJI3/leetcode_solution/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/M3IJI3/leetcode_solution/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/M3IJI3/leetcode_solution/tree/main/0073-set-matrix-zeroes/) | undefined |
 | [0130-surrounded-regions](https://github.com/M3IJI3/leetcode_solution/tree/main/0130-surrounded-regions/) | undefined |
 | [0200-number-of-islands](https://github.com/M3IJI3/leetcode_solution/tree/main/0200-number-of-islands/) | undefined |
 | [0417-pacific-atlantic-water-flow](https://github.com/M3IJI3/leetcode_solution/tree/main/0417-pacific-atlantic-water-flow/) | undefined |
