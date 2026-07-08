@@ -1,16 +1,14 @@
 class Solution {
     int n;
     queue<pair<int, int>> q;
-public:
     const int dirs[4][2] = {{1,0},{0,1},{-1,0},{0,-1}};
+public:
     int shortestBridge(vector<vector<int>>& grid) {
         n = grid.size();
         for(int i = 0 ; i < n ; i++){
             for(int j = 0 ; j < n ; j++){
                 if(grid[i][j] == 1){
-                    // dfs
                     dfs(grid, i, j);
-                    // bfs
                     return bfs(grid);
                 }
             }
@@ -46,6 +44,6 @@ public:
         dfs(grid, x + 1, y);
         dfs(grid, x - 1, y);
         dfs(grid, x, y + 1);
-        dfs(grid, x, y - 1);
+        dfs(grid, x, y - 1); 
     }
 };
