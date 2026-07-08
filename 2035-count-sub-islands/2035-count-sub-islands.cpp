@@ -8,7 +8,7 @@ public:
             for(int j = 0 ; j < n ; j++){
                 if(grid2[i][j] == 1){
                     queue<pair<int, int>> q;
-                    vector<pair<int, int>> cells;
+                    // vector<pair<int, int>> cells;
                     q.push({i, j});
                     grid2[i][j] = 0;
                     bool isSub = true;
@@ -24,9 +24,7 @@ public:
                             q.push({nx, ny});
                         }
                     }  
-                    if(isSub){
-                        ans++;
-                    }  
+                    if(isSub) ans++; 
                 }
             }   
         }
