@@ -1,5 +1,6 @@
 class Solution {
 public:
+    // “边算边取模”和“算完再取模”结果一样
     vector<int> sumAndMultiply(string s, vector<vector<int>>& queries) {
         const int MOD = 1e9+7;
         int n = s.size();
@@ -37,6 +38,5 @@ public:
             ans.push_back(sum * x % MOD);
         }
         return ans;
-
     }
 };
