@@ -61,6 +61,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [0928-surface-area-of-3d-shapes](https://github.com/M3IJI3/leetcode_solution/tree/main/0928-surface-area-of-3d-shapes/) | undefined |
 | [0966-binary-subarrays-with-sum](https://github.com/M3IJI3/leetcode_solution/tree/master/0966-binary-subarrays-with-sum) |
 | [1020-longest-turbulent-subarray](https://github.com/M3IJI3/leetcode_solution/tree/master/1020-longest-turbulent-subarray) |
+| [1036-rotting-oranges](https://github.com/M3IJI3/leetcode_solution/tree/main/1036-rotting-oranges/) | undefined |
 | [1046-max-consecutive-ones-iii](https://github.com/M3IJI3/leetcode_solution/tree/master/1046-max-consecutive-ones-iii) |
 | [1073-number-of-enclaves](https://github.com/M3IJI3/leetcode_solution/tree/main/1073-number-of-enclaves/) | undefined |
 | [1171-shortest-path-in-binary-matrix](https://github.com/M3IJI3/leetcode_solution/tree/main/1171-shortest-path-in-binary-matrix/) | undefined |
@@ -358,6 +359,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [0542-01-matrix](https://github.com/M3IJI3/leetcode_solution/tree/main/0542-01-matrix/) | undefined |
 | [0695-max-area-of-island](https://github.com/M3IJI3/leetcode_solution/tree/main/0695-max-area-of-island/) | undefined |
 | [0733-flood-fill](https://github.com/M3IJI3/leetcode_solution/tree/main/0733-flood-fill/) | undefined |
+| [1036-rotting-oranges](https://github.com/M3IJI3/leetcode_solution/tree/main/1036-rotting-oranges/) | undefined |
 | [1073-number-of-enclaves](https://github.com/M3IJI3/leetcode_solution/tree/main/1073-number-of-enclaves/) | undefined |
 | [1171-shortest-path-in-binary-matrix](https://github.com/M3IJI3/leetcode_solution/tree/main/1171-shortest-path-in-binary-matrix/) | undefined |
 | [1380-number-of-closed-islands](https://github.com/M3IJI3/leetcode_solution/tree/main/1380-number-of-closed-islands/) | undefined |
@@ -490,6 +492,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [0695-max-area-of-island](https://github.com/M3IJI3/leetcode_solution/tree/main/0695-max-area-of-island/) | undefined |
 | [0733-flood-fill](https://github.com/M3IJI3/leetcode_solution/tree/main/0733-flood-fill/) | undefined |
 | [0928-surface-area-of-3d-shapes](https://github.com/M3IJI3/leetcode_solution/tree/main/0928-surface-area-of-3d-shapes/) | undefined |
+| [1036-rotting-oranges](https://github.com/M3IJI3/leetcode_solution/tree/main/1036-rotting-oranges/) | undefined |
 | [1073-number-of-enclaves](https://github.com/M3IJI3/leetcode_solution/tree/main/1073-number-of-enclaves/) | undefined |
 | [1171-shortest-path-in-binary-matrix](https://github.com/M3IJI3/leetcode_solution/tree/main/1171-shortest-path-in-binary-matrix/) | undefined |
 | [1234-number-of-paths-with-max-score](https://github.com/M3IJI3/leetcode_solution/tree/main/1234-number-of-paths-with-max-score/) | undefined |
