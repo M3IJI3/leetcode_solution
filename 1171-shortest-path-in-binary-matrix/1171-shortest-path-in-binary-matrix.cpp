@@ -7,23 +7,31 @@ public:
         if (grid[0][0] == 1 || grid[n-1][n-1] == 1) return -1;
         if (n == 1) return 1;
 
-        vector<vector<int>> dist(n, vector<int>(n, -1));
         queue<pair<int, int>> q;
         q.push({0, 0});
-        dist[0][0] = 1;
+        grid[0][0] = -1;  // ★ 用 -1 标记已访问
 
-        while(!q.empty()){
-            auto [x, y] = q.front(); q.pop();
-            if(x == n - 1 && y == n - 1) return dist[x][y];
-            for(auto& d : dirs){
-                int nx = x + d[0], ny = y + d[1];
-                if(nx < 0 || nx >= n || ny < 0 || ny >= n) continue;
-                if(grid[nx][ny] == 1) continue;
-                if(dist[nx][ny] != -1) continue;
-                q.push({nx, ny});
-                dist[nx][ny] = dist[x][y] + 1;
+        int steps = 1;  // 起点算一步
+
+        while (!q.empty()) {
+            int size = q.size();
+            for (int i = 0; i < size; i++) {
+                auto [x, y] = q.front(); q.pop();
+
+                if (x == n - 1 && y == n - 1) return steps;
+
+                for (auto& d : dirs) {
+                    int nx = x + d[0], ny = y + d[1];
+                    if (nx < 0 || nx >= n || ny < 0 || ny >= n) continue;
+                    if (grid[nx][ny] != 0) continue;  // 不是 0 就跳过（墙或已访问）
+
+                    grid[nx][ny] = -1;  // 标记已访问
+                    q.push({nx, ny});
+                }
             }
+            steps++;  // ★ 每层步数 +1
         }
+
         return -1;
     }
 };
