@@ -1,28 +1,26 @@
 class Solution {
 public:
     bool validPath(int n, vector<vector<int>>& edges, int source, int destination) {
-        vector<int> parent(n);
-        for(int i = 0 ; i < n ; i++) parent[i] = i;
-
-        for(const auto& e : edges){
-            unite(parent, e[0], e[1]);
+        vector<vector<int>> graph(n);
+        for(auto& e : edges){
+            int u = e[0], v = e[1];
+            graph[u].push_back(v);
+            graph[v].push_back(u);
         }
 
-        return find(parent, source) == find(parent, destination);
+        vector<bool> visited(n, false);
+        return dfs(graph, visited, source, destination);
     }
 
-    int find(vector<int>& parent, int x){
-        if(parent[x] != x){
-            parent[x] = find(parent, parent[x]);
-        }
-        return parent[x];
-    }
+    bool dfs(vector<vector<int>>& graph, vector<bool>& visited, int curr, int destination){
+        if(curr == destination) return true;
+        visited[curr] = true;
 
-    void unite(vector<int>& parent, int x, int y){
-        int rootX = find(parent, x);
-        int rootY = find(parent, y);
-        if(rootX != rootY){
-            parent[rootX] = rootY;
+        for(int next : graph[curr]){
+            if(!visited[next]){
+                if(dfs(graph, visited, next, destination)) return true;
+            }
         }
+        return false;
     }
 };
