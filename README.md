@@ -91,6 +91,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [3649-minimum-time-to-break-locks-i](https://github.com/M3IJI3/leetcode_solution/tree/main/3649-minimum-time-to-break-locks-i/) | undefined |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/M3IJI3/leetcode_solution/tree/main/3823-count-islands-with-total-value-divisible-by-k/) | undefined |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/M3IJI3/leetcode_solution/tree/main/3838-path-existence-queries-in-a-graph-i/) | undefined |
+| [3852-path-existence-queries-in-a-graph-ii](https://github.com/M3IJI3/leetcode_solution/tree/main/3852-path-existence-queries-in-a-graph-ii/) | undefined |
 | [4071-word-squares-ii](https://github.com/M3IJI3/leetcode_solution/tree/main/4071-word-squares-ii/) | undefined |
 | [1000005-pond-sizes-lcci](https://github.com/M3IJI3/leetcode_solution/tree/main/1000005-pond-sizes-lcci/) | undefined |
 | [1000227-YesdPw](https://github.com/M3IJI3/leetcode_solution/tree/main/1000227-YesdPw/) | undefined |
@@ -230,6 +231,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [0189-rotate-array](https://github.com/M3IJI3/leetcode_solution/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/M3IJI3/leetcode_solution/tree/master/0392-is-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/M3IJI3/leetcode_solution/tree/master/0658-find-k-closest-elements) |
+| [3852-path-existence-queries-in-a-graph-ii](https://github.com/M3IJI3/leetcode_solution/tree/main/3852-path-existence-queries-in-a-graph-ii/) | undefined |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -248,6 +250,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/M3IJI3/leetcode_solution/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/M3IJI3/leetcode_solution/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/M3IJI3/leetcode_solution/tree/main/3838-path-existence-queries-in-a-graph-i/) | undefined |
+| [3852-path-existence-queries-in-a-graph-ii](https://github.com/M3IJI3/leetcode_solution/tree/main/3852-path-existence-queries-in-a-graph-ii/) | undefined |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -263,6 +266,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/M3IJI3/leetcode_solution/tree/main/3092-minimum-moves-to-spread-stones-over-grid/) | undefined |
 | [3217-number-of-possible-sets-of-closing-branches](https://github.com/M3IJI3/leetcode_solution/tree/main/3217-number-of-possible-sets-of-closing-branches/) | undefined |
 | [3649-minimum-time-to-break-locks-i](https://github.com/M3IJI3/leetcode_solution/tree/main/3649-minimum-time-to-break-locks-i/) | undefined |
+| [3852-path-existence-queries-in-a-graph-ii](https://github.com/M3IJI3/leetcode_solution/tree/main/3852-path-existence-queries-in-a-graph-ii/) | undefined |
 | [1000434-UEcfPD](https://github.com/M3IJI3/leetcode_solution/tree/main/1000434-UEcfPD/) | undefined |
 ## Simulation
 | Problem Name | Difficulty |
@@ -296,6 +300,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/M3IJI3/leetcode_solution/tree/main/2794-maximum-number-of-moves-in-a-grid/) | undefined |
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/M3IJI3/leetcode_solution/tree/main/3092-minimum-moves-to-spread-stones-over-grid/) | undefined |
 | [3649-minimum-time-to-break-locks-i](https://github.com/M3IJI3/leetcode_solution/tree/main/3649-minimum-time-to-break-locks-i/) | undefined |
+| [3852-path-existence-queries-in-a-graph-ii](https://github.com/M3IJI3/leetcode_solution/tree/main/3852-path-existence-queries-in-a-graph-ii/) | undefined |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -316,6 +321,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [1966-frequency-of-the-most-frequent-element](https://github.com/M3IJI3/leetcode_solution/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/M3IJI3/leetcode_solution/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/M3IJI3/leetcode_solution/tree/main/2696-the-number-of-beautiful-subsets/) | undefined |
+| [3852-path-existence-queries-in-a-graph-ii](https://github.com/M3IJI3/leetcode_solution/tree/main/3852-path-existence-queries-in-a-graph-ii/) | undefined |
 | [4071-word-squares-ii](https://github.com/M3IJI3/leetcode_solution/tree/main/4071-word-squares-ii/) | undefined |
 ## Tree
 | Problem Name | Difficulty |
@@ -409,6 +415,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [0134-gas-station](https://github.com/M3IJI3/leetcode_solution/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/M3IJI3/leetcode_solution/tree/master/0135-candy) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/M3IJI3/leetcode_solution/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [3852-path-existence-queries-in-a-graph-ii](https://github.com/M3IJI3/leetcode_solution/tree/main/3852-path-existence-queries-in-a-graph-ii/) | undefined |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -571,6 +578,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | ------- | ------- |
 | [3217-number-of-possible-sets-of-closing-branches](https://github.com/M3IJI3/leetcode_solution/tree/main/3217-number-of-possible-sets-of-closing-branches/) | undefined |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/M3IJI3/leetcode_solution/tree/main/3838-path-existence-queries-in-a-graph-i/) | undefined |
+| [3852-path-existence-queries-in-a-graph-ii](https://github.com/M3IJI3/leetcode_solution/tree/main/3852-path-existence-queries-in-a-graph-ii/) | undefined |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
