@@ -342,6 +342,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [0200-number-of-islands](https://github.com/M3IJI3/leetcode_solution/tree/main/0200-number-of-islands/) | undefined |
 | [0417-pacific-atlantic-water-flow](https://github.com/M3IJI3/leetcode_solution/tree/main/0417-pacific-atlantic-water-flow/) | undefined |
 | [0463-island-perimeter](https://github.com/M3IJI3/leetcode_solution/tree/main/0463-island-perimeter/) | undefined |
+| [0547-number-of-provinces](https://github.com/M3IJI3/leetcode_solution/tree/main/0547-number-of-provinces/) | undefined |
 | [0695-max-area-of-island](https://github.com/M3IJI3/leetcode_solution/tree/main/0695-max-area-of-island/) | undefined |
 | [0733-flood-fill](https://github.com/M3IJI3/leetcode_solution/tree/main/0733-flood-fill/) | undefined |
 | [0971-shortest-bridge](https://github.com/M3IJI3/leetcode_solution/tree/main/0971-shortest-bridge/) | undefined |
@@ -371,6 +372,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [0417-pacific-atlantic-water-flow](https://github.com/M3IJI3/leetcode_solution/tree/main/0417-pacific-atlantic-water-flow/) | undefined |
 | [0463-island-perimeter](https://github.com/M3IJI3/leetcode_solution/tree/main/0463-island-perimeter/) | undefined |
 | [0542-01-matrix](https://github.com/M3IJI3/leetcode_solution/tree/main/0542-01-matrix/) | undefined |
+| [0547-number-of-provinces](https://github.com/M3IJI3/leetcode_solution/tree/main/0547-number-of-provinces/) | undefined |
 | [0695-max-area-of-island](https://github.com/M3IJI3/leetcode_solution/tree/main/0695-max-area-of-island/) | undefined |
 | [0733-flood-fill](https://github.com/M3IJI3/leetcode_solution/tree/main/0733-flood-fill/) | undefined |
 | [0971-shortest-bridge](https://github.com/M3IJI3/leetcode_solution/tree/main/0971-shortest-bridge/) | undefined |
@@ -576,6 +578,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 ## Graph
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0547-number-of-provinces](https://github.com/M3IJI3/leetcode_solution/tree/main/0547-number-of-provinces/) | undefined |
 | [3217-number-of-possible-sets-of-closing-branches](https://github.com/M3IJI3/leetcode_solution/tree/main/3217-number-of-possible-sets-of-closing-branches/) | undefined |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/M3IJI3/leetcode_solution/tree/main/3838-path-existence-queries-in-a-graph-i/) | undefined |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/M3IJI3/leetcode_solution/tree/main/3852-path-existence-queries-in-a-graph-ii/) | undefined |
@@ -596,6 +599,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/M3IJI3/leetcode_solution/tree/main/0130-surrounded-regions/) | undefined |
 | [0200-number-of-islands](https://github.com/M3IJI3/leetcode_solution/tree/main/0200-number-of-islands/) | undefined |
+| [0547-number-of-provinces](https://github.com/M3IJI3/leetcode_solution/tree/main/0547-number-of-provinces/) | undefined |
 | [0695-max-area-of-island](https://github.com/M3IJI3/leetcode_solution/tree/main/0695-max-area-of-island/) | undefined |
 | [1073-number-of-enclaves](https://github.com/M3IJI3/leetcode_solution/tree/main/1073-number-of-enclaves/) | undefined |
 | [1380-number-of-closed-islands](https://github.com/M3IJI3/leetcode_solution/tree/main/1380-number-of-closed-islands/) | undefined |
