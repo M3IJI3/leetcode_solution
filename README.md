@@ -345,6 +345,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [0547-number-of-provinces](https://github.com/M3IJI3/leetcode_solution/tree/main/0547-number-of-provinces/) | undefined |
 | [0695-max-area-of-island](https://github.com/M3IJI3/leetcode_solution/tree/main/0695-max-area-of-island/) | undefined |
 | [0733-flood-fill](https://github.com/M3IJI3/leetcode_solution/tree/main/0733-flood-fill/) | undefined |
+| [0813-all-paths-from-source-to-target](https://github.com/M3IJI3/leetcode_solution/tree/main/0813-all-paths-from-source-to-target/) | undefined |
 | [0971-shortest-bridge](https://github.com/M3IJI3/leetcode_solution/tree/main/0971-shortest-bridge/) | undefined |
 | [1073-number-of-enclaves](https://github.com/M3IJI3/leetcode_solution/tree/main/1073-number-of-enclaves/) | undefined |
 | [1380-number-of-closed-islands](https://github.com/M3IJI3/leetcode_solution/tree/main/1380-number-of-closed-islands/) | undefined |
@@ -376,6 +377,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [0547-number-of-provinces](https://github.com/M3IJI3/leetcode_solution/tree/main/0547-number-of-provinces/) | undefined |
 | [0695-max-area-of-island](https://github.com/M3IJI3/leetcode_solution/tree/main/0695-max-area-of-island/) | undefined |
 | [0733-flood-fill](https://github.com/M3IJI3/leetcode_solution/tree/main/0733-flood-fill/) | undefined |
+| [0813-all-paths-from-source-to-target](https://github.com/M3IJI3/leetcode_solution/tree/main/0813-all-paths-from-source-to-target/) | undefined |
 | [0971-shortest-bridge](https://github.com/M3IJI3/leetcode_solution/tree/main/0971-shortest-bridge/) | undefined |
 | [1036-rotting-oranges](https://github.com/M3IJI3/leetcode_solution/tree/main/1036-rotting-oranges/) | undefined |
 | [1073-number-of-enclaves](https://github.com/M3IJI3/leetcode_solution/tree/main/1073-number-of-enclaves/) | undefined |
@@ -543,6 +545,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [0140-word-break-ii](https://github.com/M3IJI3/leetcode_solution/tree/main/0140-word-break-ii/) | undefined |
 | [0216-combination-sum-iii](https://github.com/M3IJI3/leetcode_solution/tree/main/0216-combination-sum-iii/) | undefined |
 | [0301-remove-invalid-parentheses](https://github.com/M3IJI3/leetcode_solution/tree/main/0301-remove-invalid-parentheses/) | undefined |
+| [0813-all-paths-from-source-to-target](https://github.com/M3IJI3/leetcode_solution/tree/main/0813-all-paths-from-source-to-target/) | undefined |
 | [1211-iterator-for-combination](https://github.com/M3IJI3/leetcode_solution/tree/main/1211-iterator-for-combination/) | undefined |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/M3IJI3/leetcode_solution/tree/main/1360-maximum-length-of-a-concatenated-string-with-unique-characters/) | undefined |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/M3IJI3/leetcode_solution/tree/main/1381-maximum-score-words-formed-by-letters/) | undefined |
@@ -581,6 +584,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/M3IJI3/leetcode_solution/tree/main/0547-number-of-provinces/) | undefined |
+| [0813-all-paths-from-source-to-target](https://github.com/M3IJI3/leetcode_solution/tree/main/0813-all-paths-from-source-to-target/) | undefined |
 | [2121-find-if-path-exists-in-graph](https://github.com/M3IJI3/leetcode_solution/tree/main/2121-find-if-path-exists-in-graph/) | undefined |
 | [3217-number-of-possible-sets-of-closing-branches](https://github.com/M3IJI3/leetcode_solution/tree/main/3217-number-of-possible-sets-of-closing-branches/) | undefined |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/M3IJI3/leetcode_solution/tree/main/3838-path-existence-queries-in-a-graph-i/) | undefined |
