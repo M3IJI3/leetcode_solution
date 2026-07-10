@@ -73,6 +73,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [1370-count-number-of-nice-subarrays](https://github.com/M3IJI3/leetcode_solution/tree/master/1370-count-number-of-nice-subarrays) |
 | [1380-number-of-closed-islands](https://github.com/M3IJI3/leetcode_solution/tree/main/1380-number-of-closed-islands/) | undefined |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/M3IJI3/leetcode_solution/tree/main/1381-maximum-score-words-formed-by-letters/) | undefined |
+| [1428-jump-game-iii](https://github.com/M3IJI3/leetcode_solution/tree/main/1428-jump-game-iii/) | undefined |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/M3IJI3/leetcode_solution/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/M3IJI3/leetcode_solution/tree/main/1723-maximum-number-of-achievable-transfer-requests/) | undefined |
 | [1755-defuse-the-bomb](https://github.com/M3IJI3/leetcode_solution/tree/master/1755-defuse-the-bomb) |
@@ -349,6 +350,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [0971-shortest-bridge](https://github.com/M3IJI3/leetcode_solution/tree/main/0971-shortest-bridge/) | undefined |
 | [1073-number-of-enclaves](https://github.com/M3IJI3/leetcode_solution/tree/main/1073-number-of-enclaves/) | undefined |
 | [1380-number-of-closed-islands](https://github.com/M3IJI3/leetcode_solution/tree/main/1380-number-of-closed-islands/) | undefined |
+| [1428-jump-game-iii](https://github.com/M3IJI3/leetcode_solution/tree/main/1428-jump-game-iii/) | undefined |
 | [2035-count-sub-islands](https://github.com/M3IJI3/leetcode_solution/tree/main/2035-count-sub-islands/) | undefined |
 | [2121-find-if-path-exists-in-graph](https://github.com/M3IJI3/leetcode_solution/tree/main/2121-find-if-path-exists-in-graph/) | undefined |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/M3IJI3/leetcode_solution/tree/main/3823-count-islands-with-total-value-divisible-by-k/) | undefined |
@@ -383,6 +385,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [1073-number-of-enclaves](https://github.com/M3IJI3/leetcode_solution/tree/main/1073-number-of-enclaves/) | undefined |
 | [1171-shortest-path-in-binary-matrix](https://github.com/M3IJI3/leetcode_solution/tree/main/1171-shortest-path-in-binary-matrix/) | undefined |
 | [1380-number-of-closed-islands](https://github.com/M3IJI3/leetcode_solution/tree/main/1380-number-of-closed-islands/) | undefined |
+| [1428-jump-game-iii](https://github.com/M3IJI3/leetcode_solution/tree/main/1428-jump-game-iii/) | undefined |
 | [1876-map-of-highest-peak](https://github.com/M3IJI3/leetcode_solution/tree/main/1876-map-of-highest-peak/) | undefined |
 | [2035-count-sub-islands](https://github.com/M3IJI3/leetcode_solution/tree/main/2035-count-sub-islands/) | undefined |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/M3IJI3/leetcode_solution/tree/main/2038-nearest-exit-from-entrance-in-maze/) | undefined |
