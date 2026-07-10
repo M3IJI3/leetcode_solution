@@ -4,24 +4,21 @@ public:
         int cities = isConnected.size();
         vector<bool> visited(cities, false);
         int provinces = 0;
-        queue<int> q;
         for(int i = 0 ; i < cities ; i++){
             if(!visited[i]){
+                dfs(isConnected, visited, i);
                 provinces++;
-                q.push(i);
-                visited[i] = true;
-
-                while(!q.empty()){
-                    int cur = q.front(); q.pop();
-                    for(int j = 0 ; j < cities ; j++){
-                        if(isConnected[cur][j] == 1 && !visited[j]){
-                            visited[j] = true;
-                            q.push(j);
-                        }
-                    }
-                }
             }
         }
         return provinces;
+    }
+
+    void dfs(vector<vector<int>>& isConnected, vector<bool>& visited, int i){
+        visited[i] = true;
+        for(int j = 0 ; j < isConnected.size() ; j++){
+            if(isConnected[i][j] == 1 && !visited[j]){
+                dfs(isConnected, visited, j);
+            }
+        }
     }
 };
