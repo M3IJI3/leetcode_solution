@@ -356,6 +356,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [2035-count-sub-islands](https://github.com/M3IJI3/leetcode_solution/tree/main/2035-count-sub-islands/) | undefined |
 | [2121-find-if-path-exists-in-graph](https://github.com/M3IJI3/leetcode_solution/tree/main/2121-find-if-path-exists-in-graph/) | undefined |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/M3IJI3/leetcode_solution/tree/main/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | undefined |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/M3IJI3/leetcode_solution/tree/main/2582-minimum-score-of-a-path-between-two-cities/) | undefined |
 | [2793-count-the-number-of-complete-components](https://github.com/M3IJI3/leetcode_solution/tree/main/2793-count-the-number-of-complete-components/) | undefined |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/M3IJI3/leetcode_solution/tree/main/3823-count-islands-with-total-value-divisible-by-k/) | undefined |
 | [1000005-pond-sizes-lcci](https://github.com/M3IJI3/leetcode_solution/tree/main/1000005-pond-sizes-lcci/) | undefined |
@@ -397,6 +398,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/M3IJI3/leetcode_solution/tree/main/2038-nearest-exit-from-entrance-in-maze/) | undefined |
 | [2121-find-if-path-exists-in-graph](https://github.com/M3IJI3/leetcode_solution/tree/main/2121-find-if-path-exists-in-graph/) | undefined |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/M3IJI3/leetcode_solution/tree/main/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | undefined |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/M3IJI3/leetcode_solution/tree/main/2582-minimum-score-of-a-path-between-two-cities/) | undefined |
 | [2793-count-the-number-of-complete-components](https://github.com/M3IJI3/leetcode_solution/tree/main/2793-count-the-number-of-complete-components/) | undefined |
 | [3649-minimum-time-to-break-locks-i](https://github.com/M3IJI3/leetcode_solution/tree/main/3649-minimum-time-to-break-locks-i/) | undefined |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/M3IJI3/leetcode_solution/tree/main/3823-count-islands-with-total-value-divisible-by-k/) | undefined |
@@ -600,6 +602,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [1442-number-of-operations-to-make-network-connected](https://github.com/M3IJI3/leetcode_solution/tree/main/1442-number-of-operations-to-make-network-connected/) | undefined |
 | [2121-find-if-path-exists-in-graph](https://github.com/M3IJI3/leetcode_solution/tree/main/2121-find-if-path-exists-in-graph/) | undefined |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/M3IJI3/leetcode_solution/tree/main/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | undefined |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/M3IJI3/leetcode_solution/tree/main/2582-minimum-score-of-a-path-between-two-cities/) | undefined |
 | [2793-count-the-number-of-complete-components](https://github.com/M3IJI3/leetcode_solution/tree/main/2793-count-the-number-of-complete-components/) | undefined |
 | [3217-number-of-possible-sets-of-closing-branches](https://github.com/M3IJI3/leetcode_solution/tree/main/3217-number-of-possible-sets-of-closing-branches/) | undefined |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/M3IJI3/leetcode_solution/tree/main/3838-path-existence-queries-in-a-graph-i/) | undefined |
@@ -629,6 +632,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [2035-count-sub-islands](https://github.com/M3IJI3/leetcode_solution/tree/main/2035-count-sub-islands/) | undefined |
 | [2121-find-if-path-exists-in-graph](https://github.com/M3IJI3/leetcode_solution/tree/main/2121-find-if-path-exists-in-graph/) | undefined |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/M3IJI3/leetcode_solution/tree/main/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | undefined |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/M3IJI3/leetcode_solution/tree/main/2582-minimum-score-of-a-path-between-two-cities/) | undefined |
 | [2793-count-the-number-of-complete-components](https://github.com/M3IJI3/leetcode_solution/tree/main/2793-count-the-number-of-complete-components/) | undefined |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/M3IJI3/leetcode_solution/tree/main/3823-count-islands-with-total-value-divisible-by-k/) | undefined |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/M3IJI3/leetcode_solution/tree/main/3838-path-existence-queries-in-a-graph-i/) | undefined |
