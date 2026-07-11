@@ -216,10 +216,12 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [0021-merge-two-sorted-lists](https://github.com/M3IJI3/leetcode_solution/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/M3IJI3/leetcode_solution/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/M3IJI3/leetcode_solution/tree/main/0160-intersection-of-two-linked-lists/) | undefined |
+| [0206-reverse-linked-list](https://github.com/M3IJI3/leetcode_solution/tree/main/0206-reverse-linked-list/) | undefined |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/M3IJI3/leetcode_solution/tree/master/0021-merge-two-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/M3IJI3/leetcode_solution/tree/main/0206-reverse-linked-list/) | undefined |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
