@@ -352,6 +352,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [1073-number-of-enclaves](https://github.com/M3IJI3/leetcode_solution/tree/main/1073-number-of-enclaves/) | undefined |
 | [1380-number-of-closed-islands](https://github.com/M3IJI3/leetcode_solution/tree/main/1380-number-of-closed-islands/) | undefined |
 | [1428-jump-game-iii](https://github.com/M3IJI3/leetcode_solution/tree/main/1428-jump-game-iii/) | undefined |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/M3IJI3/leetcode_solution/tree/main/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | undefined |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/M3IJI3/leetcode_solution/tree/main/1442-number-of-operations-to-make-network-connected/) | undefined |
 | [2035-count-sub-islands](https://github.com/M3IJI3/leetcode_solution/tree/main/2035-count-sub-islands/) | undefined |
 | [2121-find-if-path-exists-in-graph](https://github.com/M3IJI3/leetcode_solution/tree/main/2121-find-if-path-exists-in-graph/) | undefined |
@@ -393,6 +394,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [1171-shortest-path-in-binary-matrix](https://github.com/M3IJI3/leetcode_solution/tree/main/1171-shortest-path-in-binary-matrix/) | undefined |
 | [1380-number-of-closed-islands](https://github.com/M3IJI3/leetcode_solution/tree/main/1380-number-of-closed-islands/) | undefined |
 | [1428-jump-game-iii](https://github.com/M3IJI3/leetcode_solution/tree/main/1428-jump-game-iii/) | undefined |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/M3IJI3/leetcode_solution/tree/main/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | undefined |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/M3IJI3/leetcode_solution/tree/main/1442-number-of-operations-to-make-network-connected/) | undefined |
 | [1876-map-of-highest-peak](https://github.com/M3IJI3/leetcode_solution/tree/main/1876-map-of-highest-peak/) | undefined |
 | [2035-count-sub-islands](https://github.com/M3IJI3/leetcode_solution/tree/main/2035-count-sub-islands/) | undefined |
@@ -601,6 +603,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [0547-number-of-provinces](https://github.com/M3IJI3/leetcode_solution/tree/main/0547-number-of-provinces/) | undefined |
 | [0813-all-paths-from-source-to-target](https://github.com/M3IJI3/leetcode_solution/tree/main/0813-all-paths-from-source-to-target/) | undefined |
 | [0871-keys-and-rooms](https://github.com/M3IJI3/leetcode_solution/tree/main/0871-keys-and-rooms/) | undefined |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/M3IJI3/leetcode_solution/tree/main/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | undefined |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/M3IJI3/leetcode_solution/tree/main/1442-number-of-operations-to-make-network-connected/) | undefined |
 | [2121-find-if-path-exists-in-graph](https://github.com/M3IJI3/leetcode_solution/tree/main/2121-find-if-path-exists-in-graph/) | undefined |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/M3IJI3/leetcode_solution/tree/main/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | undefined |
@@ -653,4 +656,8 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/M3IJI3/leetcode_solution/tree/main/0239-sliding-window-maximum/) | undefined |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/M3IJI3/leetcode_solution/tree/main/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | undefined |
 <!---LeetCode Topics End-->
