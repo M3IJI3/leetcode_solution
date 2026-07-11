@@ -9,30 +9,28 @@ public:
         }
 
         vector<bool> visited(n, false);
+
         int ans = 0;
         for(int i = 0 ; i < n ; i++){
             if(!visited[i]){
-                int v = 0;  // 节点数
-                int e = 0;  // 度数和
-                dfs(graph, visited, i, v, e);
+                queue<int> q;
+                q.push(i);
+                visited[i] = true;
 
+                int v = 0, e = 0;
+                while(!q.empty()){
+                    auto curr = q.front(); q.pop();
+                    v++;
+                    e += graph[curr].size();
+                    for(auto& next : graph[curr]){
+                        if(visited[next]) continue;
+                        q.push(next);
+                        visited[next] = true;
+                    }
+                }
                 if(e == v * (v - 1)) ans++;
             }
-
-            
         }
         return ans;
-    }
-
-    void dfs(vector<vector<int>>& graph, vector<bool>& visited, int node, int& v, int& e){
-        visited[node] = true;
-        v++;    // 当前节点的个数
-        e += graph[node].size();
-
-        for(auto& next: graph[node]){
-            if(!visited[next]){
-                dfs(graph, visited, next, v, e);
-            }
-        }
     }
 };
