@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.cn/problems/minimum-score-of-a-path-between-two-cities">2582. undefined</a></h2><h3>undefined</h3><hr>undefined
