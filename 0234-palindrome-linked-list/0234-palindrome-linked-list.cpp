@@ -11,18 +11,14 @@
 class Solution {
 public:
     bool isPalindrome(ListNode* head) {
-        if(!head || !head->next) return true;
-
-        // 当快指针走完全部,
-        // 慢指针刚好走完路程的一半
         ListNode* slow = head;
         ListNode* fast = head;
-        while(fast->next && fast->next->next){
+        while(fast && fast->next){
             slow = slow->next;
             fast = fast->next->next;
         }
 
-        ListNode* secondHalf = reverseList(slow->next);
+        ListNode* secondHalf = reverseList(slow);
 
         ListNode* p1 = head;
         ListNode* p2 = secondHalf;
@@ -32,18 +28,16 @@ public:
             p1 = p1->next;
             p2 = p2->next;
         }
-
         return true;
     }
-private:
-    ListNode* reverseList(ListNode* head){
-        ListNode* prev = nullptr;
 
-        while(head){
-            ListNode* nextNode = head->next;
-            head->next = prev;
-            prev = head;
-            head = nextNode;
+    ListNode* reverseList(ListNode* head){
+        ListNode* prev = nullptr, *curr = head;
+        while(curr != nullptr){
+            ListNode* next = curr->next;
+            curr->next = prev;
+            prev = curr;
+            curr = next;
         }
         return prev;
     }
