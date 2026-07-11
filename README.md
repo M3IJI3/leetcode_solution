@@ -74,6 +74,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [1380-number-of-closed-islands](https://github.com/M3IJI3/leetcode_solution/tree/main/1380-number-of-closed-islands/) | undefined |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/M3IJI3/leetcode_solution/tree/main/1381-maximum-score-words-formed-by-letters/) | undefined |
 | [1428-jump-game-iii](https://github.com/M3IJI3/leetcode_solution/tree/main/1428-jump-game-iii/) | undefined |
+| [1436-get-watched-videos-by-your-friends](https://github.com/M3IJI3/leetcode_solution/tree/main/1436-get-watched-videos-by-your-friends/) | undefined |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/M3IJI3/leetcode_solution/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/M3IJI3/leetcode_solution/tree/main/1723-maximum-number-of-achievable-transfer-requests/) | undefined |
 | [1755-defuse-the-bomb](https://github.com/M3IJI3/leetcode_solution/tree/master/1755-defuse-the-bomb) |
@@ -143,6 +144,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [1261-swap-for-longest-repeated-character-substring](https://github.com/M3IJI3/leetcode_solution/tree/master/1261-swap-for-longest-repeated-character-substring) |
 | [1370-count-number-of-nice-subarrays](https://github.com/M3IJI3/leetcode_solution/tree/master/1370-count-number-of-nice-subarrays) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/M3IJI3/leetcode_solution/tree/main/1381-maximum-score-words-formed-by-letters/) | undefined |
+| [1436-get-watched-videos-by-your-friends](https://github.com/M3IJI3/leetcode_solution/tree/main/1436-get-watched-videos-by-your-friends/) | undefined |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/M3IJI3/leetcode_solution/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/M3IJI3/leetcode_solution/tree/main/1715-split-a-string-into-the-max-number-of-unique-substrings/) | undefined |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/M3IJI3/leetcode_solution/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
@@ -320,6 +322,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [0594-longest-harmonious-subsequence](https://github.com/M3IJI3/leetcode_solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/M3IJI3/leetcode_solution/tree/master/0658-find-k-closest-elements) |
 | [1222-remove-covered-intervals](https://github.com/M3IJI3/leetcode_solution/tree/main/1222-remove-covered-intervals/) | undefined |
+| [1436-get-watched-videos-by-your-friends](https://github.com/M3IJI3/leetcode_solution/tree/main/1436-get-watched-videos-by-your-friends/) | undefined |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/M3IJI3/leetcode_solution/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/M3IJI3/leetcode_solution/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/M3IJI3/leetcode_solution/tree/main/2696-the-number-of-beautiful-subsets/) | undefined |
@@ -396,6 +399,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [1380-number-of-closed-islands](https://github.com/M3IJI3/leetcode_solution/tree/main/1380-number-of-closed-islands/) | undefined |
 | [1428-jump-game-iii](https://github.com/M3IJI3/leetcode_solution/tree/main/1428-jump-game-iii/) | undefined |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/M3IJI3/leetcode_solution/tree/main/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | undefined |
+| [1436-get-watched-videos-by-your-friends](https://github.com/M3IJI3/leetcode_solution/tree/main/1436-get-watched-videos-by-your-friends/) | undefined |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/M3IJI3/leetcode_solution/tree/main/1442-number-of-operations-to-make-network-connected/) | undefined |
 | [1876-map-of-highest-peak](https://github.com/M3IJI3/leetcode_solution/tree/main/1876-map-of-highest-peak/) | undefined |
 | [2035-count-sub-islands](https://github.com/M3IJI3/leetcode_solution/tree/main/2035-count-sub-islands/) | undefined |
@@ -606,6 +610,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [0813-all-paths-from-source-to-target](https://github.com/M3IJI3/leetcode_solution/tree/main/0813-all-paths-from-source-to-target/) | undefined |
 | [0871-keys-and-rooms](https://github.com/M3IJI3/leetcode_solution/tree/main/0871-keys-and-rooms/) | undefined |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/M3IJI3/leetcode_solution/tree/main/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | undefined |
+| [1436-get-watched-videos-by-your-friends](https://github.com/M3IJI3/leetcode_solution/tree/main/1436-get-watched-videos-by-your-friends/) | undefined |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/M3IJI3/leetcode_solution/tree/main/1442-number-of-operations-to-make-network-connected/) | undefined |
 | [2121-find-if-path-exists-in-graph](https://github.com/M3IJI3/leetcode_solution/tree/main/2121-find-if-path-exists-in-graph/) | undefined |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/M3IJI3/leetcode_solution/tree/main/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | undefined |
