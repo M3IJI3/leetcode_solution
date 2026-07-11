@@ -128,6 +128,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [0073-set-matrix-zeroes](https://github.com/M3IJI3/leetcode_solution/tree/main/0073-set-matrix-zeroes/) | undefined |
 | [0076-minimum-window-substring](https://github.com/M3IJI3/leetcode_solution/tree/main/0076-minimum-window-substring/) | undefined |
 | [0140-word-break-ii](https://github.com/M3IJI3/leetcode_solution/tree/main/0140-word-break-ii/) | undefined |
+| [0160-intersection-of-two-linked-lists](https://github.com/M3IJI3/leetcode_solution/tree/main/0160-intersection-of-two-linked-lists/) | undefined |
 | [0169-majority-element](https://github.com/M3IJI3/leetcode_solution/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/M3IJI3/leetcode_solution/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/M3IJI3/leetcode_solution/tree/master/0205-isomorphic-strings) |
@@ -214,6 +215,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/M3IJI3/leetcode_solution/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/M3IJI3/leetcode_solution/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/M3IJI3/leetcode_solution/tree/main/0160-intersection-of-two-linked-lists/) | undefined |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -231,6 +233,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [0088-merge-sorted-array](https://github.com/M3IJI3/leetcode_solution/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/M3IJI3/leetcode_solution/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/M3IJI3/leetcode_solution/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/M3IJI3/leetcode_solution/tree/main/0160-intersection-of-two-linked-lists/) | undefined |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/M3IJI3/leetcode_solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/M3IJI3/leetcode_solution/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/M3IJI3/leetcode_solution/tree/master/0392-is-subsequence) |
