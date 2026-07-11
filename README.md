@@ -210,6 +210,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [0020-valid-parentheses](https://github.com/M3IJI3/leetcode_solution/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/M3IJI3/leetcode_solution/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/M3IJI3/leetcode_solution/tree/master/0094-binary-tree-inorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/M3IJI3/leetcode_solution/tree/main/0234-palindrome-linked-list/) | undefined |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -217,11 +218,13 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [0083-remove-duplicates-from-sorted-list](https://github.com/M3IJI3/leetcode_solution/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/M3IJI3/leetcode_solution/tree/main/0160-intersection-of-two-linked-lists/) | undefined |
 | [0206-reverse-linked-list](https://github.com/M3IJI3/leetcode_solution/tree/main/0206-reverse-linked-list/) | undefined |
+| [0234-palindrome-linked-list](https://github.com/M3IJI3/leetcode_solution/tree/main/0234-palindrome-linked-list/) | undefined |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/M3IJI3/leetcode_solution/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/M3IJI3/leetcode_solution/tree/main/0206-reverse-linked-list/) | undefined |
+| [0234-palindrome-linked-list](https://github.com/M3IJI3/leetcode_solution/tree/main/0234-palindrome-linked-list/) | undefined |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -238,6 +241,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [0160-intersection-of-two-linked-lists](https://github.com/M3IJI3/leetcode_solution/tree/main/0160-intersection-of-two-linked-lists/) | undefined |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/M3IJI3/leetcode_solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/M3IJI3/leetcode_solution/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/M3IJI3/leetcode_solution/tree/main/0234-palindrome-linked-list/) | undefined |
 | [0392-is-subsequence](https://github.com/M3IJI3/leetcode_solution/tree/master/0392-is-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/M3IJI3/leetcode_solution/tree/master/0658-find-k-closest-elements) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/M3IJI3/leetcode_solution/tree/main/3852-path-existence-queries-in-a-graph-ii/) | undefined |
