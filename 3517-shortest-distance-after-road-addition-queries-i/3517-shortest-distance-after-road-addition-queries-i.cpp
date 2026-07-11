@@ -18,7 +18,10 @@ public:
 
             while(!q.empty()){
                 auto curr = q.front(); q.pop();
-                if(curr == n - 1) break;
+                if(curr == n - 1){
+                    ans.push_back(dist[curr]);
+                    break;
+                }
                 for(auto& next : graph[curr]){
                     if(dist[next] == -1){
                         dist[next] = dist[curr] + 1;
@@ -26,7 +29,6 @@ public:
                     }
                 }
             }
-            ans.push_back(dist[n - 1]);
         }
         return ans;
     }
