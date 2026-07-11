@@ -89,6 +89,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/M3IJI3/leetcode_solution/tree/main/2794-maximum-number-of-moves-in-a-grid/) | undefined |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/M3IJI3/leetcode_solution/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/M3IJI3/leetcode_solution/tree/main/3092-minimum-moves-to-spread-stones-over-grid/) | undefined |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/M3IJI3/leetcode_solution/tree/main/3517-shortest-distance-after-road-addition-queries-i/) | undefined |
 | [3649-minimum-time-to-break-locks-i](https://github.com/M3IJI3/leetcode_solution/tree/main/3649-minimum-time-to-break-locks-i/) | undefined |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/M3IJI3/leetcode_solution/tree/main/3823-count-islands-with-total-value-divisible-by-k/) | undefined |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/M3IJI3/leetcode_solution/tree/main/3838-path-existence-queries-in-a-graph-i/) | undefined |
@@ -403,6 +404,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/M3IJI3/leetcode_solution/tree/main/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | undefined |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/M3IJI3/leetcode_solution/tree/main/2582-minimum-score-of-a-path-between-two-cities/) | undefined |
 | [2793-count-the-number-of-complete-components](https://github.com/M3IJI3/leetcode_solution/tree/main/2793-count-the-number-of-complete-components/) | undefined |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/M3IJI3/leetcode_solution/tree/main/3517-shortest-distance-after-road-addition-queries-i/) | undefined |
 | [3561-remove-methods-from-project](https://github.com/M3IJI3/leetcode_solution/tree/main/3561-remove-methods-from-project/) | undefined |
 | [3649-minimum-time-to-break-locks-i](https://github.com/M3IJI3/leetcode_solution/tree/main/3649-minimum-time-to-break-locks-i/) | undefined |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/M3IJI3/leetcode_solution/tree/main/3823-count-islands-with-total-value-divisible-by-k/) | undefined |
@@ -610,6 +612,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/M3IJI3/leetcode_solution/tree/main/2582-minimum-score-of-a-path-between-two-cities/) | undefined |
 | [2793-count-the-number-of-complete-components](https://github.com/M3IJI3/leetcode_solution/tree/main/2793-count-the-number-of-complete-components/) | undefined |
 | [3217-number-of-possible-sets-of-closing-branches](https://github.com/M3IJI3/leetcode_solution/tree/main/3217-number-of-possible-sets-of-closing-branches/) | undefined |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/M3IJI3/leetcode_solution/tree/main/3517-shortest-distance-after-road-addition-queries-i/) | undefined |
 | [3561-remove-methods-from-project](https://github.com/M3IJI3/leetcode_solution/tree/main/3561-remove-methods-from-project/) | undefined |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/M3IJI3/leetcode_solution/tree/main/3838-path-existence-queries-in-a-graph-i/) | undefined |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/M3IJI3/leetcode_solution/tree/main/3852-path-existence-queries-in-a-graph-ii/) | undefined |
