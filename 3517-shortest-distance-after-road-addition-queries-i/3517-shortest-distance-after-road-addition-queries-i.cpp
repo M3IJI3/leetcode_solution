@@ -1,3 +1,4 @@
+// DFS: 会超时, 递归栈溢出
 class Solution {
 public:
     vector<int> shortestDistanceAfterQueries(int n, vector<vector<int>>& queries) {
@@ -10,12 +11,11 @@ public:
         for(auto& query : queries){
             int u = query[0], v = query[1];
             graph[u].push_back(v);
-
+            
             vector<int> dist(n, -1);
             queue<int> q;
             q.push(0);
             dist[0] = 0;
-
             while(!q.empty()){
                 auto curr = q.front(); q.pop();
                 if(curr == n - 1){
@@ -29,7 +29,7 @@ public:
                     }
                 }
             }
-        }
+        }   
         return ans;
     }
 };
