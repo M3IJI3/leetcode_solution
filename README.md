@@ -101,6 +101,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/M3IJI3/leetcode_solution/tree/main/3823-count-islands-with-total-value-divisible-by-k/) | undefined |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/M3IJI3/leetcode_solution/tree/main/3838-path-existence-queries-in-a-graph-i/) | undefined |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/M3IJI3/leetcode_solution/tree/main/3852-path-existence-queries-in-a-graph-ii/) | undefined |
+| [4062-house-robber-v](https://github.com/M3IJI3/leetcode_solution/tree/main/4062-house-robber-v/) | undefined |
 | [4071-word-squares-ii](https://github.com/M3IJI3/leetcode_solution/tree/main/4071-word-squares-ii/) | undefined |
 | [1000005-pond-sizes-lcci](https://github.com/M3IJI3/leetcode_solution/tree/main/1000005-pond-sizes-lcci/) | undefined |
 | [1000227-YesdPw](https://github.com/M3IJI3/leetcode_solution/tree/main/1000227-YesdPw/) | undefined |
@@ -338,6 +339,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/M3IJI3/leetcode_solution/tree/main/3092-minimum-moves-to-spread-stones-over-grid/) | undefined |
 | [3649-minimum-time-to-break-locks-i](https://github.com/M3IJI3/leetcode_solution/tree/main/3649-minimum-time-to-break-locks-i/) | undefined |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/M3IJI3/leetcode_solution/tree/main/3852-path-existence-queries-in-a-graph-ii/) | undefined |
+| [4062-house-robber-v](https://github.com/M3IJI3/leetcode_solution/tree/main/4062-house-robber-v/) | undefined |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
