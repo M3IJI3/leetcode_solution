@@ -1,20 +1,15 @@
 class Solution {
 public:
     vector<int> arrayRankTransform(vector<int>& arr) {
-        int n = arr.size();
-        vector<int> ans = arr;
-        unordered_map<int, int> pos;
-        ranges::sort(arr);
-        int order = 1;
-        for(int i = 0 ; i < n ; i++){
-            if(pos.count(arr[i])) continue;
-            pos[arr[i]] = order;
-            order++; 
-        }
+        // 排序去重
+        vector<int> sorted_arr = arr;
+        ranges::sort(sorted_arr);
+        sorted_arr.erase(ranges::unique(sorted_arr).begin(), sorted_arr.end());
 
-        for(int i = 0 ; i < n ; i++){
-            ans[i] = pos[ans[i]];
+        for (int& x : arr) {
+            // 二分得到编号
+            x = ranges::lower_bound(sorted_arr, x) - sorted_arr.begin() + 1;
         }
-        return ans;
+        return arr;
     }
 };
