@@ -85,6 +85,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [2035-count-sub-islands](https://github.com/M3IJI3/leetcode_solution/tree/main/2035-count-sub-islands/) | undefined |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/M3IJI3/leetcode_solution/tree/main/2038-nearest-exit-from-entrance-in-maze/) | undefined |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/M3IJI3/leetcode_solution/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2206-detonate-the-maximum-bombs](https://github.com/M3IJI3/leetcode_solution/tree/main/2206-detonate-the-maximum-bombs/) | undefined |
 | [2482-maximum-rows-covered-by-columns](https://github.com/M3IJI3/leetcode_solution/tree/main/2482-maximum-rows-covered-by-columns/) | undefined |
 | [2696-the-number-of-beautiful-subsets](https://github.com/M3IJI3/leetcode_solution/tree/main/2696-the-number-of-beautiful-subsets/) | undefined |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/M3IJI3/leetcode_solution/tree/main/2794-maximum-number-of-moves-in-a-grid/) | undefined |
@@ -113,6 +114,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [0928-surface-area-of-3d-shapes](https://github.com/M3IJI3/leetcode_solution/tree/main/0928-surface-area-of-3d-shapes/) | undefined |
 | [1370-count-number-of-nice-subarrays](https://github.com/M3IJI3/leetcode_solution/tree/master/1370-count-number-of-nice-subarrays) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/M3IJI3/leetcode_solution/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [2206-detonate-the-maximum-bombs](https://github.com/M3IJI3/leetcode_solution/tree/main/2206-detonate-the-maximum-bombs/) | undefined |
 | [2696-the-number-of-beautiful-subsets](https://github.com/M3IJI3/leetcode_solution/tree/main/2696-the-number-of-beautiful-subsets/) | undefined |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/M3IJI3/leetcode_solution/tree/main/2802-find-the-punishment-number-of-an-integer/) | undefined |
 | [4135-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/M3IJI3/leetcode_solution/tree/main/4135-concatenate-non-zero-digits-and-multiply-by-sum-i/) | undefined |
@@ -375,6 +377,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [1442-number-of-operations-to-make-network-connected](https://github.com/M3IJI3/leetcode_solution/tree/main/1442-number-of-operations-to-make-network-connected/) | undefined |
 | [2035-count-sub-islands](https://github.com/M3IJI3/leetcode_solution/tree/main/2035-count-sub-islands/) | undefined |
 | [2121-find-if-path-exists-in-graph](https://github.com/M3IJI3/leetcode_solution/tree/main/2121-find-if-path-exists-in-graph/) | undefined |
+| [2206-detonate-the-maximum-bombs](https://github.com/M3IJI3/leetcode_solution/tree/main/2206-detonate-the-maximum-bombs/) | undefined |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/M3IJI3/leetcode_solution/tree/main/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | undefined |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/M3IJI3/leetcode_solution/tree/main/2582-minimum-score-of-a-path-between-two-cities/) | undefined |
 | [2793-count-the-number-of-complete-components](https://github.com/M3IJI3/leetcode_solution/tree/main/2793-count-the-number-of-complete-components/) | undefined |
@@ -420,6 +423,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [2035-count-sub-islands](https://github.com/M3IJI3/leetcode_solution/tree/main/2035-count-sub-islands/) | undefined |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/M3IJI3/leetcode_solution/tree/main/2038-nearest-exit-from-entrance-in-maze/) | undefined |
 | [2121-find-if-path-exists-in-graph](https://github.com/M3IJI3/leetcode_solution/tree/main/2121-find-if-path-exists-in-graph/) | undefined |
+| [2206-detonate-the-maximum-bombs](https://github.com/M3IJI3/leetcode_solution/tree/main/2206-detonate-the-maximum-bombs/) | undefined |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/M3IJI3/leetcode_solution/tree/main/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | undefined |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/M3IJI3/leetcode_solution/tree/main/2582-minimum-score-of-a-path-between-two-cities/) | undefined |
 | [2793-count-the-number-of-complete-components](https://github.com/M3IJI3/leetcode_solution/tree/main/2793-count-the-number-of-complete-components/) | undefined |
@@ -628,6 +632,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [1436-get-watched-videos-by-your-friends](https://github.com/M3IJI3/leetcode_solution/tree/main/1436-get-watched-videos-by-your-friends/) | undefined |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/M3IJI3/leetcode_solution/tree/main/1442-number-of-operations-to-make-network-connected/) | undefined |
 | [2121-find-if-path-exists-in-graph](https://github.com/M3IJI3/leetcode_solution/tree/main/2121-find-if-path-exists-in-graph/) | undefined |
+| [2206-detonate-the-maximum-bombs](https://github.com/M3IJI3/leetcode_solution/tree/main/2206-detonate-the-maximum-bombs/) | undefined |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/M3IJI3/leetcode_solution/tree/main/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | undefined |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/M3IJI3/leetcode_solution/tree/main/2582-minimum-score-of-a-path-between-two-cities/) | undefined |
 | [2793-count-the-number-of-complete-components](https://github.com/M3IJI3/leetcode_solution/tree/main/2793-count-the-number-of-complete-components/) | undefined |
@@ -671,6 +676,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0928-surface-area-of-3d-shapes](https://github.com/M3IJI3/leetcode_solution/tree/main/0928-surface-area-of-3d-shapes/) | undefined |
+| [2206-detonate-the-maximum-bombs](https://github.com/M3IJI3/leetcode_solution/tree/main/2206-detonate-the-maximum-bombs/) | undefined |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
