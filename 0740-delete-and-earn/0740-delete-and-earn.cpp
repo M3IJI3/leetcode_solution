@@ -1,19 +1,17 @@
 class Solution {
 public:
     int deleteAndEarn(vector<int>& nums) {
-        // 1. 统计每个数字的价值
-        unordered_map<int, int> count;
+        unordered_map<int, int> cnt;
         int maxNum = 0;
-        for(int num: nums){
-            count[num] += num;
+        for(int num : nums){
+            cnt[num] += num;
             maxNum = max(maxNum, num);
         }
 
-        // 2. 构建价值数组
         vector<int> sum(maxNum + 1, 0);
         for(int i = 1 ; i <= maxNum ; i++){
-            if(count.count(i)){
-                sum[i] = count[i];
+            if(cnt.count(i)){
+                sum[i] = cnt[i];
             }
         }
 
