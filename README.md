@@ -69,6 +69,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [1171-shortest-path-in-binary-matrix](https://github.com/M3IJI3/leetcode_solution/tree/main/1171-shortest-path-in-binary-matrix/) | undefined |
 | [1222-remove-covered-intervals](https://github.com/M3IJI3/leetcode_solution/tree/main/1222-remove-covered-intervals/) | undefined |
 | [1234-number-of-paths-with-max-score](https://github.com/M3IJI3/leetcode_solution/tree/main/1234-number-of-paths-with-max-score/) | undefined |
+| [1256-rank-transform-of-an-array](https://github.com/M3IJI3/leetcode_solution/tree/main/1256-rank-transform-of-an-array/) | undefined |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/M3IJI3/leetcode_solution/tree/main/1360-maximum-length-of-a-concatenated-string-with-unique-characters/) | undefined |
 | [1370-count-number-of-nice-subarrays](https://github.com/M3IJI3/leetcode_solution/tree/master/1370-count-number-of-nice-subarrays) |
 | [1380-number-of-closed-islands](https://github.com/M3IJI3/leetcode_solution/tree/main/1380-number-of-closed-islands/) | undefined |
@@ -146,6 +147,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [0560-subarray-sum-equals-k](https://github.com/M3IJI3/leetcode_solution/tree/main/0560-subarray-sum-equals-k/) | undefined |
 | [0594-longest-harmonious-subsequence](https://github.com/M3IJI3/leetcode_solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0966-binary-subarrays-with-sum](https://github.com/M3IJI3/leetcode_solution/tree/master/0966-binary-subarrays-with-sum) |
+| [1256-rank-transform-of-an-array](https://github.com/M3IJI3/leetcode_solution/tree/main/1256-rank-transform-of-an-array/) | undefined |
 | [1261-swap-for-longest-repeated-character-substring](https://github.com/M3IJI3/leetcode_solution/tree/master/1261-swap-for-longest-repeated-character-substring) |
 | [1370-count-number-of-nice-subarrays](https://github.com/M3IJI3/leetcode_solution/tree/master/1370-count-number-of-nice-subarrays) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/M3IJI3/leetcode_solution/tree/main/1381-maximum-score-words-formed-by-letters/) | undefined |
@@ -339,6 +341,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [0594-longest-harmonious-subsequence](https://github.com/M3IJI3/leetcode_solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/M3IJI3/leetcode_solution/tree/master/0658-find-k-closest-elements) |
 | [1222-remove-covered-intervals](https://github.com/M3IJI3/leetcode_solution/tree/main/1222-remove-covered-intervals/) | undefined |
+| [1256-rank-transform-of-an-array](https://github.com/M3IJI3/leetcode_solution/tree/main/1256-rank-transform-of-an-array/) | undefined |
 | [1436-get-watched-videos-by-your-friends](https://github.com/M3IJI3/leetcode_solution/tree/main/1436-get-watched-videos-by-your-friends/) | undefined |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/M3IJI3/leetcode_solution/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/M3IJI3/leetcode_solution/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
