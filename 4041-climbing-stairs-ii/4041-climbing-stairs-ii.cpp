@@ -1,14 +1,13 @@
 class Solution {
 public:
     int climbStairs(int n, vector<int>& costs) {
-        vector<int> f(n + 1);
-        for(int i = 1 ; i <= n ; i++){
-            int res = INT_MAX;
-            for(int j = max(i - 3, 0) ; j < i ; j++){
-                res = min(res, f[j] + (i - j) * (i - j));
-            }
-            f[i] = res + costs[i - 1];
+        int f0 = 0, f1 = 0, f2 = 0;
+        for(int c : costs){
+            int new_f = min(min(f0 + 9, f1 + 4), f2 + 1) + c;
+            f0 = f1;
+            f1 = f2;
+            f2 = new_f;
         }
-        return f[n];
+        return f2;
     }
 };
