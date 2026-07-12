@@ -59,6 +59,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [0695-max-area-of-island](https://github.com/M3IJI3/leetcode_solution/tree/main/0695-max-area-of-island/) | undefined |
 | [0713-subarray-product-less-than-k](https://github.com/M3IJI3/leetcode_solution/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/M3IJI3/leetcode_solution/tree/main/0733-flood-fill/) | undefined |
+| [0747-min-cost-climbing-stairs](https://github.com/M3IJI3/leetcode_solution/tree/main/0747-min-cost-climbing-stairs/) | undefined |
 | [0928-surface-area-of-3d-shapes](https://github.com/M3IJI3/leetcode_solution/tree/main/0928-surface-area-of-3d-shapes/) | undefined |
 | [0966-binary-subarrays-with-sum](https://github.com/M3IJI3/leetcode_solution/tree/master/0966-binary-subarrays-with-sum) |
 | [0971-shortest-bridge](https://github.com/M3IJI3/leetcode_solution/tree/main/0971-shortest-bridge/) | undefined |
@@ -314,6 +315,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [0392-is-subsequence](https://github.com/M3IJI3/leetcode_solution/tree/master/0392-is-subsequence) |
 | [0413-arithmetic-slices](https://github.com/M3IJI3/leetcode_solution/tree/master/0413-arithmetic-slices) |
 | [0542-01-matrix](https://github.com/M3IJI3/leetcode_solution/tree/main/0542-01-matrix/) | undefined |
+| [0747-min-cost-climbing-stairs](https://github.com/M3IJI3/leetcode_solution/tree/main/0747-min-cost-climbing-stairs/) | undefined |
 | [1020-longest-turbulent-subarray](https://github.com/M3IJI3/leetcode_solution/tree/master/1020-longest-turbulent-subarray) |
 | [1234-number-of-paths-with-max-score](https://github.com/M3IJI3/leetcode_solution/tree/main/1234-number-of-paths-with-max-score/) | undefined |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/M3IJI3/leetcode_solution/tree/main/1381-maximum-score-words-formed-by-letters/) | undefined |
