@@ -5,22 +5,22 @@ public:
         if(n == 0) return 0;
         if(n == 1) return nums[0];
 
-        vector<vector<long long>> dp(n, vector<long long>(2, 0));
-        dp[0][0] = 0;
-        dp[0][1] = nums[0];
+        long long notRobCurrent = 0;
+        long long robCurrent = nums[0];
 
         for(int i = 1 ; i < n ; i++){
-            // not rob current 
-            dp[i][0] = max(dp[i - 1][0], dp[i - 1][1]);
+            long long newNotRob = max(notRobCurrent, robCurrent);
 
-            // rob currrent
+            long long newRob;
             if(colors[i] == colors[i - 1]){
-                dp[i][1] = dp[i - 1][0] + nums[i];
+                newRob = notRobCurrent + nums[i];
             } else {
-                dp[i][1] = max(dp[i - 1][0], dp[i - 1][1]) + nums[i];
+                newRob = max(notRobCurrent, robCurrent) + nums[i];
             }
-        }
-        return max(dp[n - 1][0], dp[n - 1][1]);
 
+            notRobCurrent = newNotRob;
+            robCurrent = newRob;
+        }
+        return max(notRobCurrent, robCurrent);
     }
 };
