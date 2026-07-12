@@ -323,6 +323,7 @@ See more about solutions at my [Notion](https://www.notion.so/137a24b5ce3480d6a2
 | [1381-maximum-score-words-formed-by-letters](https://github.com/M3IJI3/leetcode_solution/tree/main/1381-maximum-score-words-formed-by-letters/) | undefined |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/M3IJI3/leetcode_solution/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/M3IJI3/leetcode_solution/tree/main/2130-maximum-product-of-the-length-of-two-palindromic-subsequences/) | undefined |
+| [2562-count-ways-to-build-good-strings](https://github.com/M3IJI3/leetcode_solution/tree/main/2562-count-ways-to-build-good-strings/) | undefined |
 | [2696-the-number-of-beautiful-subsets](https://github.com/M3IJI3/leetcode_solution/tree/main/2696-the-number-of-beautiful-subsets/) | undefined |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/M3IJI3/leetcode_solution/tree/main/2794-maximum-number-of-moves-in-a-grid/) | undefined |
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/M3IJI3/leetcode_solution/tree/main/3092-minimum-moves-to-spread-stones-over-grid/) | undefined |
