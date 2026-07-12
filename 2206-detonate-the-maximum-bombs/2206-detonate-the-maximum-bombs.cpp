@@ -16,24 +16,22 @@ public:
         }
 
         int ans = 0;
-        for(int i = 0 ; i < n ; i++){
-            queue<int> q;
+        for(int i = 0 ; i < n ; i++){   
             vector<bool> visited(n, false);
-            q.push(i);
-            visited[i] = true;
-            int explode = 1;
-            while(!q.empty()){
-                auto curr = q.front(); q.pop();
-                for(auto& next : graph[curr]){
-                    if(!visited[next]){
-                        explode++;
-                        visited[next] = true;
-                        q.push(next);
-                    }
-                }
-            }
-            ans = max(ans, explode);
+            ans = max(ans, dfs(graph, visited, i));
         }
         return ans;
+    }
+
+    int dfs(vector<vector<int>>& graph, vector<bool>& visited, int idx){
+        visited[idx] = true;
+        int count = 1;
+
+        for(auto& next : graph[idx]){
+            if(!visited[next]){
+                count += dfs(graph, visited, next);
+            }
+        }
+        return count;
     }
 };
